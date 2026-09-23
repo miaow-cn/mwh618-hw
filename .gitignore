@@ -20,5 +20,5 @@ Status\ Report.txt
 .~lock.*
 
 # ECO Logs
-out/**/*
+out/
 !out/**/*.pdf
