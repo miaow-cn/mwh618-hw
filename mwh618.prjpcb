@@ -46,6 +46,7 @@ CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
 XNetsSourceDestinationPrefixes=U, X
 XNetsDiscretesPrefixes=R, L, C, VD
+CurrentVariant=main
 
 [Preferences]
 PrefsVaultGUID=
@@ -137,6 +138,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GSTHKZHS
 
 [Document6]
+DocumentPath=sch\soc-conn.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ABLQEPLZ
+
+[Document7]
 DocumentPath=sch\io.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,21 +171,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPDLPIWF
 
+[ProjectVariant1]
+UniqueId=bd9ee1ab-105a-4def-b10b-dc72fdf41f2a
+Description=main
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=C?|UniqueId=\NSFTYXEO|Kind=1|AlternatePart=
+Variation2=Designator=R?|UniqueId=\UTQLRBXG|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [Parameter1]
-Name=Url
-Value=github.com/miaow-cn/mwh618-hw
+Name=Board
+Value=MWH618
 
 [Parameter2]
-Name=Sample
-Value=A0
-
-[Parameter3]
 Name=License
 Value=CERN-OHL-S-2.0 license
 
+[Parameter3]
+Name=Sample
+Value=A0
+
 [Parameter4]
-Name=Board
-Value=MWH618
+Name=Url
+Value=github.com/miaow-cn/mwh618-hw
 
 [Configuration1]
 Name=Sources

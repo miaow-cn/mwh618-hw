@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=dram.schdoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=io.schdoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=io.schdoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=pmic.schdoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=soc-conn.schdoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=soc-pwr.schdoc|SheetNumber=2
