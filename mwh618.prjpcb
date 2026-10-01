@@ -87,6 +87,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SPCOHXLI
 
 [Document3]
+DocumentPath=sch\mwh618.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LBOPPBHD
+
+[Document4]
 DocumentPath=sch\pmic.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQBJVTCZ
 
-[Document4]
+[Document5]
 DocumentPath=sch\soc-pwr.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQIQIGZN
 
-[Document5]
+[Document6]
 DocumentPath=sch\dram.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSTHKZHS
 
-[Document6]
+[Document7]
 DocumentPath=sch\soc-conn.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,8 +171,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABLQEPLZ
 
-[Document7]
-DocumentPath=sch\io.schdoc
+[Document8]
+DocumentPath=sch\soc-io.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -170,23 +187,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPDLPIWF
-
-[Document8]
-DocumentPath=sch\hdmi.schdoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SFXLFJNU
 
 [Document9]
 DocumentPath=sch\usb.schdoc
@@ -205,31 +205,69 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LITVYEYX
 
+[Document10]
+DocumentPath=sch\hdmi.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SFXLFJNU
+
+[Document11]
+DocumentPath=sch\uart.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CDVQLLBT
+
 [ProjectVariant1]
 UniqueId=bd9ee1ab-105a-4def-b10b-dc72fdf41f2a
 Description=main
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
-Variation1=Designator=C?|UniqueId=\NSFTYXEO|Kind=1|AlternatePart=
-Variation2=Designator=R?|UniqueId=\UTQLRBXG|Kind=1|AlternatePart=
+VariationCount=6
+Variation1=Designator=R?|UniqueId=\JLAPMZGQ\EFLDBPYH|Kind=1|AlternatePart=
+Variation2=Designator=R?|UniqueId=\JLAPMZGQ\HLEIPNNX|Kind=1|AlternatePart=
+Variation3=Designator=R?|UniqueId=\JLAPMZGQ\AWPJFTIN|Kind=1|AlternatePart=
+Variation4=Designator=R?|UniqueId=\JLAPMZGQ\ANSDALRK|Kind=1|AlternatePart=
+Variation5=Designator=R?|UniqueId=\JLAPMZGQ\AIVBLSIE|Kind=1|AlternatePart=
+Variation6=Designator=R?|UniqueId=\JLAPMZGQ\IWALQNJW|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Url
-Value=github.com/miaow-cn/mwh618-hw
+Name=Board
+Value=MWH618
 
 [Parameter2]
-Name=Sample
-Value=A0
-
-[Parameter3]
 Name=License
 Value=CERN-OHL-S-2.0 license
 
+[Parameter3]
+Name=Sample
+Value=A0
+
 [Parameter4]
-Name=Board
-Value=MWH618
+Name=Url
+Value=github.com/miaow-cn/mwh618-hw
 
 [Configuration1]
 Name=Sources
@@ -240,6 +278,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=0
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=0
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross",Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+Esd_PrintColor=0
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=main
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
 
 [OutputGroup1]
 Name=Netlist Outputs

@@ -1,7 +1,9 @@
-Record=TopLevelDocument|FileName=dram.schdoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=hdmi.schdoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=io.schdoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=pmic.schdoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=soc-conn.schdoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=soc-pwr.schdoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=dram.schdoc|FileName=usb.schdoc|SheetNumber=7
+Record=TopLevelDocument|FileName=mwh618.schdoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=HDMI|SchDesignator=HDMI|FileName=hdmi.schdoc|SheetNumber=8|SymbolType=Normal|RawFileName=hdmi.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=LPDDR4|SchDesignator=LPDDR4|FileName=dram.schdoc|SheetNumber=4|SymbolType=Normal|RawFileName=dram.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=PMIC|SchDesignator=PMIC|FileName=pmic.schdoc|SheetNumber=2|SymbolType=Normal|RawFileName=pmic.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=SOC-CONN|SchDesignator=SOC-CONN|FileName=soc-conn.schdoc|SheetNumber=5|SymbolType=Normal|RawFileName=soc-conn.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=SOC-IO|SchDesignator=SOC-IO|FileName=soc-io.schdoc|SheetNumber=6|SymbolType=Normal|RawFileName=soc-io.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=SOC-PWR|SchDesignator=SOC-PWR|FileName=soc-pwr.schdoc|SheetNumber=3|SymbolType=Normal|RawFileName=soc-pwr.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=UART|SchDesignator=UART|FileName=uart.schdoc|SheetNumber=9|SymbolType=Normal|RawFileName=uart.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=USB|SchDesignator=USB|FileName=usb.schdoc|SheetNumber=7|SymbolType=Normal|RawFileName=usb.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
