@@ -239,6 +239,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDVQLLBT
 
+[Document12]
+DocumentPath=sch\eth.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PDFYALCR
+
 [ProjectVariant1]
 UniqueId=bd9ee1ab-105a-4def-b10b-dc72fdf41f2a
 Description=main
