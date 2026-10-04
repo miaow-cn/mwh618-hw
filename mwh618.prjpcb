@@ -307,6 +307,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PARYIUYM
 
+[Document16]
+DocumentPath=sch\wireless.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OTIPCKXW
+
 [ProjectVariant1]
 UniqueId=bd9ee1ab-105a-4def-b10b-dc72fdf41f2a
 Description=main
@@ -376,7 +393,7 @@ SCH_ShowNoteCollapsed=-1
 Wir_PrintColor=0
 Ldr_PrintColor=0
 Esd_PrintColor=0
-SCH_ExpandLogicalToPhysical=0
+SCH_ExpandLogicalToPhysical=-1
 SCH_VariantName=main
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
