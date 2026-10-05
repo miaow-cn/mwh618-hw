@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -21,8 +21,8 @@ UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
-NameNetsHierarchically=0
-PowerPortNamesTakePriority=0
+NameNetsHierarchically=1
+PowerPortNamesTakePriority=1
 AutoSheetNumbering=1
 AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
@@ -325,7 +325,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OTIPCKXW
 
 [Document17]
-DocumentPath=sch\io.schdoc
+DocumentPath=sch\fpc.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -340,6 +340,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRHDWHNS
+
+[Document18]
+DocumentPath=sch\header.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EDOOLFTV
 
 [ProjectVariant1]
 UniqueId=bd9ee1ab-105a-4def-b10b-dc72fdf41f2a
@@ -356,20 +373,20 @@ Variation6=Designator=R?|UniqueId=\JLAPMZGQ\IWALQNJW|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Board
-Value=MWH618
+Name=Url
+Value=github.com/miaow-cn/mwh618-hw
 
 [Parameter2]
-Name=License
-Value=CERN-OHL-S-2.0 license
-
-[Parameter3]
 Name=Sample
 Value=A0
 
+[Parameter3]
+Name=License
+Value=CERN-OHL-S-2.0 license
+
 [Parameter4]
-Name=Url
-Value=github.com/miaow-cn/mwh618-hw
+Name=Board
+Value=MWH618
 
 [Configuration1]
 Name=Sources
