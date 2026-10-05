@@ -13,7 +13,7 @@ TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
 AllowPortNetNames=1
-AllowSheetEntryNetNames=1
+AllowSheetEntryNetNames=0
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
 DefaultConfiguration=Sources
@@ -88,7 +88,7 @@ DocumentUniqueId=SPCOHXLI
 
 [Document3]
 DocumentPath=sch\mwh618.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -105,7 +105,7 @@ DocumentUniqueId=FRHIJLDG
 
 [Document4]
 DocumentPath=sch\top.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -122,7 +122,7 @@ DocumentUniqueId=LBOPPBHD
 
 [Document5]
 DocumentPath=sch\pmic.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -139,7 +139,7 @@ DocumentUniqueId=QQBJVTCZ
 
 [Document6]
 DocumentPath=sch\soc-pwr.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=400
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -156,7 +156,7 @@ DocumentUniqueId=KQIQIGZN
 
 [Document7]
 DocumentPath=sch\dram.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=500
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -173,7 +173,7 @@ DocumentUniqueId=GSTHKZHS
 
 [Document8]
 DocumentPath=sch\soc-conn.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=600
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -190,7 +190,7 @@ DocumentUniqueId=ABLQEPLZ
 
 [Document9]
 DocumentPath=sch\soc-io.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=700
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -207,7 +207,7 @@ DocumentUniqueId=TPDLPIWF
 
 [Document10]
 DocumentPath=sch\flash.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=800
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -224,7 +224,7 @@ DocumentUniqueId=PARYIUYM
 
 [Document11]
 DocumentPath=sch\sd.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=900
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -241,7 +241,7 @@ DocumentUniqueId=OWDBQPQM
 
 [Document12]
 DocumentPath=sch\usb.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1000
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -258,7 +258,7 @@ DocumentUniqueId=LITVYEYX
 
 [Document13]
 DocumentPath=sch\hdmi.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -275,7 +275,7 @@ DocumentUniqueId=SFXLFJNU
 
 [Document14]
 DocumentPath=sch\eth.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -309,7 +309,7 @@ DocumentUniqueId=OTIPCKXW
 
 [Document16]
 DocumentPath=sch\debug.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1400
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -326,7 +326,7 @@ DocumentUniqueId=CDVQLLBT
 
 [Document17]
 DocumentPath=sch\indicator.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1500
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -343,7 +343,7 @@ DocumentUniqueId=WEAVLGJY
 
 [Document18]
 DocumentPath=sch\fpc.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1600
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -360,7 +360,7 @@ DocumentUniqueId=FRHDWHNS
 
 [Document19]
 DocumentPath=sch\header.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1700
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -1121,7 +1121,7 @@ Type10=1
 Type11=2
 Type12=2
 Type13=2
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
