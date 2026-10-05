@@ -101,9 +101,26 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LBOPPBHD
+DocumentUniqueId=FRHIJLDG
 
 [Document4]
+DocumentPath=sch\top.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LBOPPBHD
+
+[Document5]
 DocumentPath=sch\pmic.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQBJVTCZ
 
-[Document5]
+[Document6]
 DocumentPath=sch\soc-pwr.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQIQIGZN
 
-[Document6]
+[Document7]
 DocumentPath=sch\dram.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSTHKZHS
 
-[Document7]
+[Document8]
 DocumentPath=sch\soc-conn.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABLQEPLZ
 
-[Document8]
+[Document9]
 DocumentPath=sch\soc-io.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPDLPIWF
 
-[Document9]
+[Document10]
 DocumentPath=sch\flash.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PARYIUYM
 
-[Document10]
+[Document11]
 DocumentPath=sch\sd.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWDBQPQM
 
-[Document11]
+[Document12]
 DocumentPath=sch\usb.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LITVYEYX
 
-[Document12]
+[Document13]
 DocumentPath=sch\hdmi.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFXLFJNU
 
-[Document13]
+[Document14]
 DocumentPath=sch\eth.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDFYALCR
 
-[Document14]
+[Document15]
 DocumentPath=sch\wireless.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTIPCKXW
 
-[Document15]
+[Document16]
 DocumentPath=sch\debug.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDVQLLBT
 
-[Document16]
+[Document17]
 DocumentPath=sch\indicator.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,7 +341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEAVLGJY
 
-[Document17]
+[Document18]
 DocumentPath=sch\fpc.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRHDWHNS
 
-[Document18]
+[Document19]
 DocumentPath=sch\header.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
