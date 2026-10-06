@@ -50,17 +50,17 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=General
 Configuration1_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=True|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CNY|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration1_Name3=GroupOrder
-Configuration1_Item3=
+Configuration1_Item3=Supplier Part Number 1=True|Fitted=True
 Configuration1_Name4=SortOrder
 Configuration1_Item4=Designator=Up
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Designator=230|Fitted=73|voltage=71|precision=66|value=94|Manufacturer 1=122|Footprint=128|Manufacturer Part Number 1=166|Supplier 1=107|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=115
+Configuration1_Item5=Designator=408|Fitted=73|voltage=71|precision=66|value=94|Manufacturer 1=122|Footprint=128|Manufacturer Part Number 1=166|Supplier 1=107|Supplier Part Number 1=139
 Configuration1_Name6=VisibleOrder_Base
 Configuration1_Item6=Designator=230|Footprint=128|value=94|Fitted=73|Manufacturer 1=122|voltage=71|Quantity=100|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=107|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=115
 Configuration1_Name7=VisibleOrder_Consolidated
 Configuration1_Item7=Line #=100|Comment=100|Description=120|Designator=230|Quantity=100|Fitted=73|Manufacturer 1=122|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=107|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=115|Quantity@main=100|Price@main=100
 Configuration1_Name8=VisibleOrder_Flat
-Configuration1_Item8=Designator=230|Fitted=73|voltage=71|precision=66|value=94|Manufacturer 1=122|Footprint=128|Manufacturer Part Number 1=166|Supplier 1=107|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=115
+Configuration1_Item8=Designator=408|Fitted=73|voltage=71|precision=66|value=94|Manufacturer 1=122|Footprint=128|Manufacturer Part Number 1=166|Supplier 1=107|Supplier Part Number 1=139
 OutputType2=Schematic Print
 OutputName2=Schematic Prints
 OutputCategory2=Documentation
@@ -104,7 +104,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=1
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=out\
+OutputFilePath3=C:\Users\guoyr\Desktop\mwh618-hw\out\
 ReleaseManaged3=0
 OutputBasePath3=out\
 OutputPathMedia3=
@@ -119,7 +119,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for mwh618
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -158,7 +158,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=out\Job1.PDF
 OpenOutputs2=0
-RelativeOutputPath3=out\
+RelativeOutputPath3=C:\Users\guoyr\Desktop\mwh618-hw\out\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0

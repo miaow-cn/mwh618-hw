@@ -16,4 +16,3 @@ Record=SheetSymbol|SourceDocument=top.schdoc|Designator=SOC-IO|SchDesignator=SOC
 Record=SheetSymbol|SourceDocument=top.schdoc|Designator=SOC-PWR|SchDesignator=SOC-PWR|FileName=soc-pwr.schdoc|SheetNumber=4|SymbolType=Normal|RawFileName=soc-pwr.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.schdoc|Designator=USB|SchDesignator=USB|FileName=usb.schdoc|SheetNumber=10|SymbolType=Normal|RawFileName=usb.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.schdoc|Designator=WIRELESS|SchDesignator=WIRELESS|FileName=wireless.schdoc|SheetNumber=13|SymbolType=Normal|RawFileName=wireless.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=mwh618.schdoc|FileName=[Saved File] wireless.schdoc|SheetNumber=13
