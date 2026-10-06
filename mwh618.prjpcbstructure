@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=mwh618.schdoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=MISC|SchDesignator=MISC|FileName=misc.schdoc|SheetNumber=18|SymbolType=Normal|RawFileName=misc.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=mwh618.schdoc|Designator=TOP|SchDesignator=TOP|FileName=top.schdoc|SheetNumber=2|SymbolType=Normal|RawFileName=top.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.schdoc|Designator=DEBUG|SchDesignator=DEBUG|FileName=debug.schdoc|SheetNumber=14|SymbolType=Normal|RawFileName=debug.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.schdoc|Designator=ETH|SchDesignator=ETH|FileName=eth.schdoc|SheetNumber=12|SymbolType=Normal|RawFileName=eth.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
