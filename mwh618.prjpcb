@@ -173,7 +173,7 @@ DocumentUniqueId=GSTHKZHS
 
 [Document8]
 DocumentPath=sch\soc-conn.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=600
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -391,6 +391,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document21]
+DocumentPath=sch\misc.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1800
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AQVSAUQW
 
 [ProjectVariant1]
 UniqueId=bd9ee1ab-105a-4def-b10b-dc72fdf41f2a
