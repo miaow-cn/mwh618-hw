@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConstraintsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FlattenedNetName2ConstraintNetId>
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ0" ConstraintNetId="66e869c7-d381-474c-b5cb-d24141ea476b" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ1" ConstraintNetId="4b8cbb78-468e-41cd-b7d5-25ccc28e9d6f" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ2" ConstraintNetId="2b38387c-6d60-4ef2-a613-a841e3e3c7cd" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ3" ConstraintNetId="fa9aea1c-f139-4abd-8c35-93ab1a63084e" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ4" ConstraintNetId="de35702b-7d45-4035-9400-fde0a1823219" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ5" ConstraintNetId="98ffe9fd-d035-4a8e-893d-bb9b979f1bd9" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ6" ConstraintNetId="da12e74a-ce62-400c-a9d6-be8e4fde9c64" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ7" ConstraintNetId="b302a71d-1581-4231-ac16-c0e5df854367" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQS0_P" ConstraintNetId="b5cdba0b-80d4-442b-ae20-15ba90d194b8" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQS0_N" ConstraintNetId="192ca710-e7f7-4c36-a851-d092fee3a865" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQM0" ConstraintNetId="127b782a-c25a-4251-a0d4-0c056647f12b" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ9" ConstraintNetId="e4ee8a08-9769-4587-8e0b-5f69bbebafa5" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ10" ConstraintNetId="7949132b-439b-45d6-aa13-4fd9e0376d9c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ11" ConstraintNetId="099e996b-9e25-459b-afdc-9ed56e463dc9" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ12" ConstraintNetId="fe34b195-3e00-4b39-9568-7fc381c343f3" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ13" ConstraintNetId="0fe55c1c-2b11-4a91-afd4-91ef4a4b1cb2" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ14" ConstraintNetId="ad6f5c49-477f-40d7-b00a-e3af1d70a7d5" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ15" ConstraintNetId="9ef45b42-a7cc-466c-b03f-6136d88f5f9c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ8" ConstraintNetId="510774c7-d880-4073-a759-8c4459cec267" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQS1_P" ConstraintNetId="ff2496d8-8a9b-468d-8bfb-666d70da23b2" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQS1_N" ConstraintNetId="515e4788-f281-454a-a8ea-6f1427d2bacc" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQM1" ConstraintNetId="2a560884-5775-466c-9c75-25db9a017d09" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ16" ConstraintNetId="563e429c-09ef-4be8-a41b-7f78bdba2afc" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ17" ConstraintNetId="79cbe48b-90d2-4d1e-ad92-18d480b96573" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ18" ConstraintNetId="16276f9f-6a7b-41e9-8afd-d97e54655c54" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ19" ConstraintNetId="a598afb3-5a06-4aad-ac49-b6ac9f7699fd" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ20" ConstraintNetId="4485b576-c015-4b23-8f60-188d396c7fcc" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ21" ConstraintNetId="5c5874e4-c6a6-4bdc-a7e3-60d935894c6f" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ22" ConstraintNetId="b568e786-5097-45bc-a51e-1258a451ef9e" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ23" ConstraintNetId="b2374a01-efb1-487c-8233-f0137e20972d" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQS2_P" ConstraintNetId="41994b9b-d6d8-4aef-95bf-f26ab1b605c9" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQS2_N" ConstraintNetId="e1fb4784-9dfb-41b7-ab3c-700ad6d06bcb" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQM2" ConstraintNetId="ad9ba013-9bfd-42c7-8e9b-08e86a9b4017" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ24" ConstraintNetId="4e5b97ce-3206-4461-ae22-5bf2484d2dd1" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ25" ConstraintNetId="6ed40065-2bed-41f9-868f-db0331c4851c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ26" ConstraintNetId="7ea33dff-5096-49ed-88b3-0102f17b4b60" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ27" ConstraintNetId="5f6dd105-75f5-4b3c-8d50-4d4a7cf1ac51" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ28" ConstraintNetId="01cf7987-13b4-4561-b48e-b807be05e84f" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ29" ConstraintNetId="3042ddb8-e32c-4a72-8f1a-68177dfa67b4" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ30" ConstraintNetId="51c2f847-44e9-4ba4-bc1e-ae396e222065" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQ31" ConstraintNetId="e505a5e4-e739-4a4a-bdeb-5b2af05b937a" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQS3_P" ConstraintNetId="45317266-5274-433b-8d44-7fd52d469d3a" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQS3_N" ConstraintNetId="c3dc969f-e8df-4051-a321-7b1e154c934f" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DQM3" ConstraintNetId="5d6e03d2-bd3a-4b15-ae8d-83808f9df7f3" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="A0" ConstraintNetId="a1fa43d4-381d-46f3-991a-832bdf9ff287" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="A1" ConstraintNetId="aef98bbe-47d5-415c-a293-9273b1bbce51" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="A2" ConstraintNetId="fac008d4-7e38-4d8e-b349-492cb46ca3f1" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="A3" ConstraintNetId="829c32c3-bf08-45a3-a6e1-b1526b58f93d" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="A4" ConstraintNetId="380f8e6c-112b-4f4b-8cfe-afb75db01bff" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="A5" ConstraintNetId="ee4eebc3-0db0-4bfb-b3b0-5ab3c20f18ce" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CK_P" ConstraintNetId="3b8f38ac-9b83-4610-805b-4356f9d14a81" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CK_N" ConstraintNetId="859ac8ed-07c9-4ee8-af38-c1fe3235dca9" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CKE0" ConstraintNetId="e3429803-b608-49ba-8458-9ea866d50a0e" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CKE1" ConstraintNetId="03117c5d-47d0-4d3b-aaac-e38783763c30" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CS0" ConstraintNetId="72337ab9-6657-4e69-819c-6f615b286efa" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CS1" ConstraintNetId="55e08d22-d7b8-4463-9809-7d1e77aa51ea" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="USB3_D_P" ConstraintNetId="1a055103-39ab-4027-aa17-f334960dafe8" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="USB3_D_N" ConstraintNetId="4d5c53ff-07d5-4958-9836-b5e159546903" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="USB2_D_P" ConstraintNetId="fb8d62ab-d3d3-4301-aaef-2466f392afca" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="USB2_D_N" ConstraintNetId="727390f1-8ec1-45fc-993e-175e4464b5fb" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="USB1_D_P" ConstraintNetId="41ac90a1-2552-4932-a006-5c6cff184ea2" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="USB1_D_N" ConstraintNetId="815afd8b-13c8-4f2d-b60e-1b6b653be2f5" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="USB0_D_P" ConstraintNetId="766fba65-10c3-4dd6-b4fa-fd53d7f49e0a" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="USB0_D_N" ConstraintNetId="da9b46bd-6137-4aea-a2df-27482c0e1d05" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_D2_P" ConstraintNetId="a1614e28-01f9-4668-a54c-026a01fa6a9c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_D2_N" ConstraintNetId="4d3b6f12-f88f-4c9e-89e9-85a6b6042b40" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_D1_P" ConstraintNetId="5e158e91-6b6c-42d8-965f-cb9159e94065" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_D1_N" ConstraintNetId="d9033119-83bc-4bfa-a371-df813a1cabc8" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_D0_P" ConstraintNetId="a1129d2c-2270-4af6-9f09-fcfc633f9278" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_D0_N" ConstraintNetId="fa8f7f04-1364-4972-a910-9ae3636ee89b" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_CK_P" ConstraintNetId="fe065017-5558-4bb5-a301-7c3b25fc9335" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_CK_N" ConstraintNetId="5a21186e-4540-4704-ad6a-fe3ec4ad695e" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="EPHY_TX_P" ConstraintNetId="ecb1e7e9-e2b0-4ad3-a64e-019e32d96b8c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="EPHY_TX_N" ConstraintNetId="35914782-0914-4a91-8a78-61b6473d30b7" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="EPHY_RX_P" ConstraintNetId="b1e680f9-241a-4cac-8ad3-022d4ce6358b" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="EPHY_RX_N" ConstraintNetId="aadb79db-a7e8-4c57-a99b-e4029ab5beda" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VCC1V8_ALDO" ConstraintNetId="b69b1723-9b7d-40ca-81cf-d3cde14d115d" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VCC3V3_DLDO" ConstraintNetId="c0a49b8e-71b9-4bb7-980b-79e60e44063c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VCC_HDR_HIGH" ConstraintNetId="c77d5928-b3f0-40c1-aad7-7459cc364ad1" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VCC_HDR_LOW" ConstraintNetId="eb2eb60f-cbcc-43fa-9d2e-4a14563be9fa" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VDD5V_IN" ConstraintNetId="a07afa83-f677-47d6-8a39-8f37f3581e4c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VDD_CPU" ConstraintNetId="7282ae68-43cd-4770-a954-b0c7fb317497" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VDD_DRAM" ConstraintNetId="b3efd187-5baf-4b45-9efe-fce80d1fd9a5" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VDD_GPU" ConstraintNetId="ab4e10b3-80f6-4262-b0e2-3c9cecda2d13" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetD1103_2" ConstraintNetId="2f993b59-f1d9-460a-b243-a65f200ea7ee" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetD1102_2" ConstraintNetId="010e9563-1548-4fb0-af6a-9fdbccec04ea" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1101_2" ConstraintNetId="c9d983a5-161b-49fd-af0a-c60218a65000" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetD1105_2" ConstraintNetId="c6ab40fd-d44b-496d-b1c7-39ee8389dffd" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1100_2" ConstraintNetId="8d34d5db-f115-479d-9147-ef5631cd8d69" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_HPD" ConstraintNetId="cf9c7a08-54c7-4c44-b53e-9f2fd36b5a78" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HCEC" ConstraintNetId="415b3379-dc87-41c9-8e54-8009fc7f93e7" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_SCL" ConstraintNetId="00dc2811-01f3-4f6f-ad3c-7eda5c2f838f" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="HDMI_SDA" ConstraintNetId="874a5f34-4d8d-4987-99d4-005b1c92d5d0" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="FLASH_CLK" ConstraintNetId="656c319b-8800-4965-a9bb-fdf6c06fc75e" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="FLASH_CS" ConstraintNetId="9346fad0-0cfa-4fe5-b4dd-65fd44e759c8" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="FLASH_MISO" ConstraintNetId="8291e804-eb4f-43d8-a2e4-f6f52ec53d96" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="FLASH_MOSI" ConstraintNetId="38488a36-4da5-4994-8f31-6c4853551e94" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DEBUG_RX" ConstraintNetId="8fc47059-991f-40eb-9436-4108abdbd37e" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DEBUG_TX" ConstraintNetId="75ec49da-c2b7-426b-9ee0-726aa63fd3fb" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SD_CLK" ConstraintNetId="bb305fba-c5be-4c52-9707-d6a0a6097d8b" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SD_CMD" ConstraintNetId="435f0d2a-7965-45b6-8e76-888917796993" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SD_D0" ConstraintNetId="231e754d-21a1-4524-8d2e-dd7bd30e427c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SD_D1" ConstraintNetId="86a99833-d96d-4d57-938a-dca25feb8874" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SD_D2" ConstraintNetId="72ee36d3-b218-4ba6-9755-99e0ae3c17bd" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="SD_D3" ConstraintNetId="93e72f16-a87e-434c-9979-654dcdec937c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="GND" ConstraintNetId="118e8686-df19-4c78-b729-8353da3bff32" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="AGND" ConstraintNetId="896f641f-083f-4a59-9631-d4ef9d0d300c" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="USB_0_CC" ConstraintNetId="06f1908d-9b4d-40bb-a9af-99773e36f752" />
+  </FlattenedNetName2ConstraintNetId>
+  <CNets>
+    <CNet Id="66e869c7-d381-474c-b5cb-d24141ea476b">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="4b8cbb78-468e-41cd-b7d5-25ccc28e9d6f">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="2b38387c-6d60-4ef2-a613-a841e3e3c7cd">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="fa9aea1c-f139-4abd-8c35-93ab1a63084e">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="de35702b-7d45-4035-9400-fde0a1823219">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="98ffe9fd-d035-4a8e-893d-bb9b979f1bd9">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="da12e74a-ce62-400c-a9d6-be8e4fde9c64">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="b302a71d-1581-4231-ac16-c0e5df854367">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="b5cdba0b-80d4-442b-ae20-15ba90d194b8">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="192ca710-e7f7-4c36-a851-d092fee3a865">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="127b782a-c25a-4251-a0d4-0c056647f12b">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="e4ee8a08-9769-4587-8e0b-5f69bbebafa5">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="7949132b-439b-45d6-aa13-4fd9e0376d9c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="099e996b-9e25-459b-afdc-9ed56e463dc9">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="fe34b195-3e00-4b39-9568-7fc381c343f3">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="0fe55c1c-2b11-4a91-afd4-91ef4a4b1cb2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="ad6f5c49-477f-40d7-b00a-e3af1d70a7d5">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="9ef45b42-a7cc-466c-b03f-6136d88f5f9c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="510774c7-d880-4073-a759-8c4459cec267">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="ff2496d8-8a9b-468d-8bfb-666d70da23b2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="515e4788-f281-454a-a8ea-6f1427d2bacc">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="2a560884-5775-466c-9c75-25db9a017d09">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="563e429c-09ef-4be8-a41b-7f78bdba2afc">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="79cbe48b-90d2-4d1e-ad92-18d480b96573">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="16276f9f-6a7b-41e9-8afd-d97e54655c54">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="a598afb3-5a06-4aad-ac49-b6ac9f7699fd">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="4485b576-c015-4b23-8f60-188d396c7fcc">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="5c5874e4-c6a6-4bdc-a7e3-60d935894c6f">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="b568e786-5097-45bc-a51e-1258a451ef9e">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="b2374a01-efb1-487c-8233-f0137e20972d">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="41994b9b-d6d8-4aef-95bf-f26ab1b605c9">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="e1fb4784-9dfb-41b7-ab3c-700ad6d06bcb">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="ad9ba013-9bfd-42c7-8e9b-08e86a9b4017">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="4e5b97ce-3206-4461-ae22-5bf2484d2dd1">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="6ed40065-2bed-41f9-868f-db0331c4851c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="7ea33dff-5096-49ed-88b3-0102f17b4b60">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="5f6dd105-75f5-4b3c-8d50-4d4a7cf1ac51">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="01cf7987-13b4-4561-b48e-b807be05e84f">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="3042ddb8-e32c-4a72-8f1a-68177dfa67b4">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="51c2f847-44e9-4ba4-bc1e-ae396e222065">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="e505a5e4-e739-4a4a-bdeb-5b2af05b937a">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="45317266-5274-433b-8d44-7fd52d469d3a">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="c3dc969f-e8df-4051-a321-7b1e154c934f">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="5d6e03d2-bd3a-4b15-ae8d-83808f9df7f3">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="a1fa43d4-381d-46f3-991a-832bdf9ff287">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="aef98bbe-47d5-415c-a293-9273b1bbce51">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="fac008d4-7e38-4d8e-b349-492cb46ca3f1">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="829c32c3-bf08-45a3-a6e1-b1526b58f93d">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="380f8e6c-112b-4f4b-8cfe-afb75db01bff">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="ee4eebc3-0db0-4bfb-b3b0-5ab3c20f18ce">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="3b8f38ac-9b83-4610-805b-4356f9d14a81">
+      <Constraints>
+        <Constraint Id="30f89acf-ca55-4762-b4e0-914b9e5b3e0d" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CK_P')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="e7f1dab0-0982-4eb6-8500-8a538e3bee52" PinUniqueId="JVQBCEMC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\VUHSFZQR" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="3591e951-21ca-4d8d-b534-75d7ac473c41" PinUniqueId="BSBCGKCO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="b7b97dae-6486-4b73-8865-713154c9f790" PinUniqueId="CCSKUHOL" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="3" />
+        <ConstraintNode Id="67b189f7-48b4-4111-8ad8-0262d84b9545" PinUniqueId="KEYPTMZC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="3" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+    </CNet>
+    <CNet Id="859ac8ed-07c9-4ee8-af38-c1fe3235dca9">
+      <Constraints>
+        <Constraint Id="4adc6326-156b-481c-b876-2e75aeffd150" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CK_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="c0f57743-73d7-431f-84dd-42b8fc2e9e31" PinUniqueId="WNDILWHD" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\VUHSFZQR" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="cd28db6a-83ca-4e7c-aa4b-7bfbf0b2fa44" PinUniqueId="HPWKUNTH" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="ada71829-75f7-4a2d-a790-3522dc9279ee" PinUniqueId="BAMZPKTY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="3" />
+        <ConstraintNode Id="93820102-2c31-4512-8252-62f4c5e620e3" PinUniqueId="AWUIERDU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="3" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+    </CNet>
+    <CNet Id="e3429803-b608-49ba-8458-9ea866d50a0e">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="03117c5d-47d0-4d3b-aaac-e38783763c30">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="72337ab9-6657-4e69-819c-6f615b286efa">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="55e08d22-d7b8-4463-9809-7d1e77aa51ea">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="1a055103-39ab-4027-aa17-f334960dafe8">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="4d5c53ff-07d5-4958-9836-b5e159546903">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="fb8d62ab-d3d3-4301-aaef-2466f392afca">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="727390f1-8ec1-45fc-993e-175e4464b5fb">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="41ac90a1-2552-4932-a006-5c6cff184ea2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="815afd8b-13c8-4f2d-b60e-1b6b653be2f5">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="766fba65-10c3-4dd6-b4fa-fd53d7f49e0a">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="da9b46bd-6137-4aea-a2df-27482c0e1d05">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="a1614e28-01f9-4668-a54c-026a01fa6a9c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="4d3b6f12-f88f-4c9e-89e9-85a6b6042b40">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="5e158e91-6b6c-42d8-965f-cb9159e94065">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="d9033119-83bc-4bfa-a371-df813a1cabc8">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="a1129d2c-2270-4af6-9f09-fcfc633f9278">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="fa8f7f04-1364-4972-a910-9ae3636ee89b">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="fe065017-5558-4bb5-a301-7c3b25fc9335">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="5a21186e-4540-4704-ad6a-fe3ec4ad695e">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="ecb1e7e9-e2b0-4ad3-a64e-019e32d96b8c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="35914782-0914-4a91-8a78-61b6473d30b7">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="b1e680f9-241a-4cac-8ad3-022d4ce6358b">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="aadb79db-a7e8-4c57-a99b-e4029ab5beda">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="b69b1723-9b7d-40ca-81cf-d3cde14d115d">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="c0a49b8e-71b9-4bb7-980b-79e60e44063c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="c77d5928-b3f0-40c1-aad7-7459cc364ad1">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="eb2eb60f-cbcc-43fa-9d2e-4a14563be9fa">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="a07afa83-f677-47d6-8a39-8f37f3581e4c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="7282ae68-43cd-4770-a954-b0c7fb317497">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="b3efd187-5baf-4b45-9efe-fce80d1fd9a5">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="ab4e10b3-80f6-4262-b0e2-3c9cecda2d13">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="2f993b59-f1d9-460a-b243-a65f200ea7ee">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="010e9563-1548-4fb0-af6a-9fdbccec04ea">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="c9d983a5-161b-49fd-af0a-c60218a65000">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="c6ab40fd-d44b-496d-b1c7-39ee8389dffd">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="8d34d5db-f115-479d-9147-ef5631cd8d69">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="cf9c7a08-54c7-4c44-b53e-9f2fd36b5a78">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="415b3379-dc87-41c9-8e54-8009fc7f93e7">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="00dc2811-01f3-4f6f-ad3c-7eda5c2f838f">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="874a5f34-4d8d-4987-99d4-005b1c92d5d0">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="656c319b-8800-4965-a9bb-fdf6c06fc75e">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="9346fad0-0cfa-4fe5-b4dd-65fd44e759c8">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="8291e804-eb4f-43d8-a2e4-f6f52ec53d96">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="38488a36-4da5-4994-8f31-6c4853551e94">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="8fc47059-991f-40eb-9436-4108abdbd37e">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="75ec49da-c2b7-426b-9ee0-726aa63fd3fb">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="bb305fba-c5be-4c52-9707-d6a0a6097d8b">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="435f0d2a-7965-45b6-8e76-888917796993">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="231e754d-21a1-4524-8d2e-dd7bd30e427c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="86a99833-d96d-4d57-938a-dca25feb8874">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="72ee36d3-b218-4ba6-9755-99e0ae3c17bd">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="93e72f16-a87e-434c-9979-654dcdec937c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="118e8686-df19-4c78-b729-8353da3bff32">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="896f641f-083f-4a59-9631-d4ef9d0d300c">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="06f1908d-9b4d-40bb-a9af-99773e36f752">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+  </CNets>
+  <CNetClasses>
+    <CNetClass Id="c1456bc4-cfbe-470b-9ce0-0987eb8da245" Name="All Nets" IsPredefined="true" Domain="2">
+      <Constraints>
+        <Constraint Id="ca04242c-78b4-4c02-b209-d868a01a4fa2" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Width = 10mil    Min Width = 10mil    Max Width = 10mil]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=10mil|PREFEREDWIDTH=10mil" />
+        <Constraint Id="9dbbc910-bc7d-4cd4-8efe-f79e8e60a094" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Shortest]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Shortest" />
+        <Constraint Id="de26cbcd-6723-4555-89c3-55c1cf07995d" Kind="9" Name="Schematic Routing Layers" Comment="" Description="Routing Layers [TopLayer - Enabled BottomLayer - Enabled ]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOP LAYER_V5=TRUE|MID LAYER 1_V5=TRUE|MID LAYER 2_V5=TRUE|MID LAYER 3_V5=TRUE|MID LAYER 4_V5=TRUE|MID LAYER 5_V5=TRUE|MID LAYER 6_V5=TRUE|MID LAYER 7_V5=TRUE|MID LAYER 8_V5=TRUE|MID LAYER 9_V5=TRUE|MID LAYER 10_V5=TRUE|MID LAYER 11_V5=TRUE|MID LAYER 12_V5=TRUE|MID LAYER 13_V5=TRUE|MID LAYER 14_V5=TRUE|MID LAYER 15_V5=TRUE|MID LAYER 16_V5=TRUE|MID LAYER 17_V5=TRUE|MID LAYER 18_V5=TRUE|MID LAYER 19_V5=TRUE|MID LAYER 20_V5=TRUE|MID LAYER 21_V5=TRUE|MID LAYER 22_V5=TRUE|MID LAYER 23_V5=TRUE|MID LAYER 24_V5=TRUE|MID LAYER 25_V5=TRUE|MID LAYER 26_V5=TRUE|MID LAYER 27_V5=TRUE|MID LAYER 28_V5=TRUE|MID LAYER 29_V5=TRUE|MID LAYER 30_V5=TRUE|BOTTOM LAYER_V5=TRUE" />
+        <Constraint Id="fcaa354b-398d-4553-85ad-401055b1a857" Kind="11" Name="Schematic Routing Via Style" Comment="" Description="Routing Via Style [Pref Size = 50mil    Pref Hole Size = 28mil]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|HOLEWIDTH=28mil|WIDTH=50mil|VIASTYLE=Through Hole|MINHOLEWIDTH=28mil|MINWIDTH=50mil|MAXHOLEWIDTH=28mil|MAXWIDTH=50mil" />
+        <Constraint Id="a071e378-27b9-4f51-9ae3-8eb5693c9acc" Kind="20" Name="Schematic Polygon Connect Style" Comment="" Description="Polygon Connect Style [Style - Relief Connect    Width = 10mil    Angle = 90    # Entries = 4    Air Gap = 10mil    ]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=90 Angle|AIRGAPWIDTH=10mil" />
+        <Constraint Id="52ebf12f-ea3e-42bd-aa8f-6995e50fd6aa" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 10mil    Min Gap  = 10mil    Max Gap  = 10milPref Width = 15mil    Min Width  = 15mil    Max Width  = 15mil]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=10mil|MOSTFREQGAP=10mil|TOPLAYER_MINWIDTH=15mil|TOPLAYER_MAXWIDTH=15mil|TOPLAYER_PREFWIDTH=15mil|MIDLAYER1_MINWIDTH=15mil|MIDLAYER1_MAXWIDTH=15mil|MIDLAYER1_PREFWIDTH=15mil|MIDLAYER2_MINWIDTH=15mil|MIDLAYER2_MAXWIDTH=15mil|MIDLAYER2_PREFWIDTH=15mil|MIDLAYER3_MINWIDTH=15mil|MIDLAYER3_MAXWIDTH=15mil|MIDLAYER3_PREFWIDTH=15mil|MIDLAYER4_MINWIDTH=15mil|MIDLAYER4_MAXWIDTH=15mil|MIDLAYER4_PREFWIDTH=15mil|MIDLAYER5_MINWIDTH=15mil|MIDLAYER5_MAXWIDTH=15mil|MIDLAYER5_PREFWIDTH=15mil|MIDLAYER6_MINWIDTH=15mil|MIDLAYER6_MAXWIDTH=15mil|MIDLAYER6_PREFWIDTH=15mil|MIDLAYER7_MINWIDTH=15mil|MIDLAYER7_MAXWIDTH=15mil|MIDLAYER7_PREFWIDTH=15mil|MIDLAYER8_MINWIDTH=15mil|MIDLAYER8_MAXWIDTH=15mil|MIDLAYER8_PREFWIDTH=15mil|MIDLAYER9_MINWIDTH=15mil|MIDLAYER9_MAXWIDTH=15mil|MIDLAYER9_PREFWIDTH=15mil|MIDLAYER10_MINWIDTH=15mil|MIDLAYER10_MAXWIDTH=15mil|MIDLAYER10_PREFWIDTH=15mil|MIDLAYER11_MINWIDTH=15mil|MIDLAYER11_MAXWIDTH=15mil|MIDLAYER11_PREFWIDTH=15mil|MIDLAYER12_MINWIDTH=15mil|MIDLAYER12_MAXWIDTH=15mil|MIDLAYER12_PREFWIDTH=15mil|MIDLAYER13_MINWIDTH=15mil|MIDLAYER13_MAXWIDTH=15mil|MIDLAYER13_PREFWIDTH=15mil|MIDLAYER14_MINWIDTH=15mil|MIDLAYER14_MAXWIDTH=15mil|MIDLAYER14_PREFWIDTH=15mil|MIDLAYER15_MINWIDTH=15mil|MIDLAYER15_MAXWIDTH=15mil|MIDLAYER15_PREFWIDTH=15mil|MIDLAYER16_MINWIDTH=15mil|MIDLAYER16_MAXWIDTH=15mil|MIDLAYER16_PREFWIDTH=15mil|MIDLAYER17_MINWIDTH=15mil|MIDLAYER17_MAXWIDTH=15mil|MIDLAYER17_PREFWIDTH=15mil|MIDLAYER18_MINWIDTH=15mil|MIDLAYER18_MAXWIDTH=15mil|MIDLAYER18_PREFWIDTH=15mil|MIDLAYER19_MINWIDTH=15mil|MIDLAYER19_MAXWIDTH=15mil|MIDLAYER19_PREFWIDTH=15mil|MIDLAYER20_MINWIDTH=15mil|MIDLAYER20_MAXWIDTH=15mil|MIDLAYER20_PREFWIDTH=15mil|MIDLAYER21_MINWIDTH=15mil|MIDLAYER21_MAXWIDTH=15mil|MIDLAYER21_PREFWIDTH=15mil|MIDLAYER22_MINWIDTH=15mil|MIDLAYER22_MAXWIDTH=15mil|MIDLAYER22_PREFWIDTH=15mil|MIDLAYER23_MINWIDTH=15mil|MIDLAYER23_MAXWIDTH=15mil|MIDLAYER23_PREFWIDTH=15mil|MIDLAYER24_MINWIDTH=15mil|MIDLAYER24_MAXWIDTH=15mil|MIDLAYER24_PREFWIDTH=15mil|MIDLAYER25_MINWIDTH=15mil|MIDLAYER25_MAXWIDTH=15mil|MIDLAYER25_PREFWIDTH=15mil|MIDLAYER26_MINWIDTH=15mil|MIDLAYER26_MAXWIDTH=15mil|MIDLAYER26_PREFWIDTH=15mil|MIDLAYER27_MINWIDTH=15mil|MIDLAYER27_MAXWIDTH=15mil|MIDLAYER27_PREFWIDTH=15mil|MIDLAYER28_MINWIDTH=15mil|MIDLAYER28_MAXWIDTH=15mil|MIDLAYER28_PREFWIDTH=15mil|MIDLAYER29_MINWIDTH=15mil|MIDLAYER29_MAXWIDTH=15mil|MIDLAYER29_PREFWIDTH=15mil|MIDLAYER30_MINWIDTH=15mil|MIDLAYER30_MAXWIDTH=15mil|MIDLAYER30_PREFWIDTH=15mil|BOTTOMLAYER_MINWIDTH=15mil|BOTTOMLAYER_MAXWIDTH=15mil|BOTTOMLAYER_PREFWIDTH=15mil|MAXUNCOUPLEDLENGTH=500mil" />
+        <Constraint Id="1f653521-b131-4830-b36c-5e8a7ef28dad" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 50.00    Max = 50.00    ]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=50.00|MAXIMUM=50.00|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets />
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="d18af51d-b264-4c50-b1b3-c0b59c7c9f0c" Name="DDR_BYTE0" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="66e869c7-d381-474c-b5cb-d24141ea476b" />
+        <CNet Id="4b8cbb78-468e-41cd-b7d5-25ccc28e9d6f" />
+        <CNet Id="2b38387c-6d60-4ef2-a613-a841e3e3c7cd" />
+        <CNet Id="fa9aea1c-f139-4abd-8c35-93ab1a63084e" />
+        <CNet Id="de35702b-7d45-4035-9400-fde0a1823219" />
+        <CNet Id="98ffe9fd-d035-4a8e-893d-bb9b979f1bd9" />
+        <CNet Id="da12e74a-ce62-400c-a9d6-be8e4fde9c64" />
+        <CNet Id="b302a71d-1581-4231-ac16-c0e5df854367" />
+        <CNet Id="b5cdba0b-80d4-442b-ae20-15ba90d194b8" />
+        <CNet Id="192ca710-e7f7-4c36-a851-d092fee3a865" />
+        <CNet Id="127b782a-c25a-4251-a0d4-0c056647f12b" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="f5ae2bea-9d41-489f-b2d4-053928fe8b40" Name="DDR_BYTE1" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="e4ee8a08-9769-4587-8e0b-5f69bbebafa5" />
+        <CNet Id="7949132b-439b-45d6-aa13-4fd9e0376d9c" />
+        <CNet Id="099e996b-9e25-459b-afdc-9ed56e463dc9" />
+        <CNet Id="fe34b195-3e00-4b39-9568-7fc381c343f3" />
+        <CNet Id="0fe55c1c-2b11-4a91-afd4-91ef4a4b1cb2" />
+        <CNet Id="ad6f5c49-477f-40d7-b00a-e3af1d70a7d5" />
+        <CNet Id="9ef45b42-a7cc-466c-b03f-6136d88f5f9c" />
+        <CNet Id="510774c7-d880-4073-a759-8c4459cec267" />
+        <CNet Id="ff2496d8-8a9b-468d-8bfb-666d70da23b2" />
+        <CNet Id="515e4788-f281-454a-a8ea-6f1427d2bacc" />
+        <CNet Id="2a560884-5775-466c-9c75-25db9a017d09" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="a28e6106-e202-48b9-bbf4-5fb86b7d798c" Name="DDR_BYTE2" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="563e429c-09ef-4be8-a41b-7f78bdba2afc" />
+        <CNet Id="79cbe48b-90d2-4d1e-ad92-18d480b96573" />
+        <CNet Id="16276f9f-6a7b-41e9-8afd-d97e54655c54" />
+        <CNet Id="a598afb3-5a06-4aad-ac49-b6ac9f7699fd" />
+        <CNet Id="4485b576-c015-4b23-8f60-188d396c7fcc" />
+        <CNet Id="5c5874e4-c6a6-4bdc-a7e3-60d935894c6f" />
+        <CNet Id="b568e786-5097-45bc-a51e-1258a451ef9e" />
+        <CNet Id="b2374a01-efb1-487c-8233-f0137e20972d" />
+        <CNet Id="41994b9b-d6d8-4aef-95bf-f26ab1b605c9" />
+        <CNet Id="e1fb4784-9dfb-41b7-ab3c-700ad6d06bcb" />
+        <CNet Id="ad9ba013-9bfd-42c7-8e9b-08e86a9b4017" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="6f8b854e-a10f-401b-adbd-592e436f9859" Name="DDR_BYTE3" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="4e5b97ce-3206-4461-ae22-5bf2484d2dd1" />
+        <CNet Id="6ed40065-2bed-41f9-868f-db0331c4851c" />
+        <CNet Id="7ea33dff-5096-49ed-88b3-0102f17b4b60" />
+        <CNet Id="5f6dd105-75f5-4b3c-8d50-4d4a7cf1ac51" />
+        <CNet Id="01cf7987-13b4-4561-b48e-b807be05e84f" />
+        <CNet Id="3042ddb8-e32c-4a72-8f1a-68177dfa67b4" />
+        <CNet Id="51c2f847-44e9-4ba4-bc1e-ae396e222065" />
+        <CNet Id="e505a5e4-e739-4a4a-bdeb-5b2af05b937a" />
+        <CNet Id="45317266-5274-433b-8d44-7fd52d469d3a" />
+        <CNet Id="c3dc969f-e8df-4051-a321-7b1e154c934f" />
+        <CNet Id="5d6e03d2-bd3a-4b15-ae8d-83808f9df7f3" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="7f9872f0-ff40-478d-ad77-a456d117772c" Name="DDR_ADDR_CTRL" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="a1fa43d4-381d-46f3-991a-832bdf9ff287" />
+        <CNet Id="aef98bbe-47d5-415c-a293-9273b1bbce51" />
+        <CNet Id="fac008d4-7e38-4d8e-b349-492cb46ca3f1" />
+        <CNet Id="829c32c3-bf08-45a3-a6e1-b1526b58f93d" />
+        <CNet Id="380f8e6c-112b-4f4b-8cfe-afb75db01bff" />
+        <CNet Id="ee4eebc3-0db0-4bfb-b3b0-5ab3c20f18ce" />
+        <CNet Id="3b8f38ac-9b83-4610-805b-4356f9d14a81" />
+        <CNet Id="859ac8ed-07c9-4ee8-af38-c1fe3235dca9" />
+        <CNet Id="e3429803-b608-49ba-8458-9ea866d50a0e" />
+        <CNet Id="03117c5d-47d0-4d3b-aaac-e38783763c30" />
+        <CNet Id="72337ab9-6657-4e69-819c-6f615b286efa" />
+        <CNet Id="55e08d22-d7b8-4463-9809-7d1e77aa51ea" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="04691580-9571-4a72-a401-e6a176655282" Name="PWR" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="b69b1723-9b7d-40ca-81cf-d3cde14d115d" />
+        <CNet Id="c0a49b8e-71b9-4bb7-980b-79e60e44063c" />
+        <CNet Id="c77d5928-b3f0-40c1-aad7-7459cc364ad1" />
+        <CNet Id="eb2eb60f-cbcc-43fa-9d2e-4a14563be9fa" />
+        <CNet Id="a07afa83-f677-47d6-8a39-8f37f3581e4c" />
+        <CNet Id="7282ae68-43cd-4770-a954-b0c7fb317497" />
+        <CNet Id="b3efd187-5baf-4b45-9efe-fce80d1fd9a5" />
+        <CNet Id="ab4e10b3-80f6-4262-b0e2-3c9cecda2d13" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="5e2064f3-f1eb-4e0c-9e56-30128585f6c9" Name="HDMI" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="5e158e91-6b6c-42d8-965f-cb9159e94065" />
+        <CNet Id="d9033119-83bc-4bfa-a371-df813a1cabc8" />
+        <CNet Id="2f993b59-f1d9-460a-b243-a65f200ea7ee" />
+        <CNet Id="010e9563-1548-4fb0-af6a-9fdbccec04ea" />
+        <CNet Id="c9d983a5-161b-49fd-af0a-c60218a65000" />
+        <CNet Id="c6ab40fd-d44b-496d-b1c7-39ee8389dffd" />
+        <CNet Id="8d34d5db-f115-479d-9147-ef5631cd8d69" />
+        <CNet Id="cf9c7a08-54c7-4c44-b53e-9f2fd36b5a78" />
+        <CNet Id="415b3379-dc87-41c9-8e54-8009fc7f93e7" />
+        <CNet Id="00dc2811-01f3-4f6f-ad3c-7eda5c2f838f" />
+        <CNet Id="874a5f34-4d8d-4987-99d4-005b1c92d5d0" />
+        <CNet Id="fa8f7f04-1364-4972-a910-9ae3636ee89b" />
+        <CNet Id="a1129d2c-2270-4af6-9f09-fcfc633f9278" />
+        <CNet Id="4d3b6f12-f88f-4c9e-89e9-85a6b6042b40" />
+        <CNet Id="a1614e28-01f9-4668-a54c-026a01fa6a9c" />
+        <CNet Id="5a21186e-4540-4704-ad6a-fe3ec4ad695e" />
+        <CNet Id="fe065017-5558-4bb5-a301-7c3b25fc9335" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="a632323c-8f9c-498d-80c8-367aa5fe25c7" Name="EPHY" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="35914782-0914-4a91-8a78-61b6473d30b7" />
+        <CNet Id="ecb1e7e9-e2b0-4ad3-a64e-019e32d96b8c" />
+        <CNet Id="b1e680f9-241a-4cac-8ad3-022d4ce6358b" />
+        <CNet Id="aadb79db-a7e8-4c57-a99b-e4029ab5beda" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="5e5ff1a3-4311-488d-9786-9966863fbaf0" Name="FLASH" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="656c319b-8800-4965-a9bb-fdf6c06fc75e" />
+        <CNet Id="9346fad0-0cfa-4fe5-b4dd-65fd44e759c8" />
+        <CNet Id="8291e804-eb4f-43d8-a2e4-f6f52ec53d96" />
+        <CNet Id="38488a36-4da5-4994-8f31-6c4853551e94" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="57dd522d-9331-436c-ab63-3e9948dcf18b" Name="DEBUG" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="8fc47059-991f-40eb-9436-4108abdbd37e" />
+        <CNet Id="75ec49da-c2b7-426b-9ee0-726aa63fd3fb" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="f58b2cd4-a464-49bd-942d-170b0277e417" Name="SD" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="bb305fba-c5be-4c52-9707-d6a0a6097d8b" />
+        <CNet Id="435f0d2a-7965-45b6-8e76-888917796993" />
+        <CNet Id="231e754d-21a1-4524-8d2e-dd7bd30e427c" />
+        <CNet Id="86a99833-d96d-4d57-938a-dca25feb8874" />
+        <CNet Id="72ee36d3-b218-4ba6-9755-99e0ae3c17bd" />
+        <CNet Id="93e72f16-a87e-434c-9979-654dcdec937c" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="352e82b6-5275-4c87-a102-fcb7f6c7741e" Name="GND" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="118e8686-df19-4c78-b729-8353da3bff32" />
+        <CNet Id="896f641f-083f-4a59-9631-d4ef9d0d300c" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="a696c3b4-becd-4ace-a23f-004ec4423b29" Name="USB" IsPredefined="false" Domain="2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="da9b46bd-6137-4aea-a2df-27482c0e1d05" />
+        <CNet Id="766fba65-10c3-4dd6-b4fa-fd53d7f49e0a" />
+        <CNet Id="815afd8b-13c8-4f2d-b60e-1b6b653be2f5" />
+        <CNet Id="41ac90a1-2552-4932-a006-5c6cff184ea2" />
+        <CNet Id="727390f1-8ec1-45fc-993e-175e4464b5fb" />
+        <CNet Id="fb8d62ab-d3d3-4301-aaef-2466f392afca" />
+        <CNet Id="4d5c53ff-07d5-4958-9836-b5e159546903" />
+        <CNet Id="1a055103-39ab-4027-aa17-f334960dafe8" />
+        <CNet Id="06f1908d-9b4d-40bb-a9af-99773e36f752" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+  </CNetClasses>
+  <CDifferentialPairs>
+    <CDifferentialPair Id="39fae623-7cbe-4b9c-ac7a-1079536ff945" Name="DIFF_USB3_D">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="1a055103-39ab-4027-aa17-f334960dafe8" />
+      <NegativeConstraintNet Id="4d5c53ff-07d5-4958-9836-b5e159546903" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="002142b9-dcfa-4417-ac89-3a55667a7655" Name="DIFF_USB2_D">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="fb8d62ab-d3d3-4301-aaef-2466f392afca" />
+      <NegativeConstraintNet Id="727390f1-8ec1-45fc-993e-175e4464b5fb" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="a14ad3a7-9767-4dd0-a149-868ea68eb244" Name="DIFF_USB1_D">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="41ac90a1-2552-4932-a006-5c6cff184ea2" />
+      <NegativeConstraintNet Id="815afd8b-13c8-4f2d-b60e-1b6b653be2f5" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="b8f6cd43-3ce8-4672-a612-c6e1993b179b" Name="DIFF_USB0_D">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="766fba65-10c3-4dd6-b4fa-fd53d7f49e0a" />
+      <NegativeConstraintNet Id="da9b46bd-6137-4aea-a2df-27482c0e1d05" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="a8881a30-265f-48e6-b9fb-c994d1d8abf8" Name="DIFF_HDMI_D2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="a1614e28-01f9-4668-a54c-026a01fa6a9c" />
+      <NegativeConstraintNet Id="4d3b6f12-f88f-4c9e-89e9-85a6b6042b40" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="361f0d83-48b2-4069-9e36-cafd77e8458e" Name="DIFF_HDMI_D1">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="5e158e91-6b6c-42d8-965f-cb9159e94065" />
+      <NegativeConstraintNet Id="d9033119-83bc-4bfa-a371-df813a1cabc8" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="1c9aff25-9331-4790-a82c-dfe2dae04cd3" Name="DIFF_HDMI_D0">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="a1129d2c-2270-4af6-9f09-fcfc633f9278" />
+      <NegativeConstraintNet Id="fa8f7f04-1364-4972-a910-9ae3636ee89b" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="f9b89c27-41c9-4e67-b0aa-09bde4157e20" Name="DIFF_HDMI_CK">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="fe065017-5558-4bb5-a301-7c3b25fc9335" />
+      <NegativeConstraintNet Id="5a21186e-4540-4704-ad6a-fe3ec4ad695e" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="c3f5facc-a733-486a-8c51-c2ec8ddf66e3" Name="DIFF_EPHY_TX">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="ecb1e7e9-e2b0-4ad3-a64e-019e32d96b8c" />
+      <NegativeConstraintNet Id="35914782-0914-4a91-8a78-61b6473d30b7" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="e5a93a61-0ceb-450c-9761-104a28c4fb2a" Name="DIFF_EPHY_RX">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="b1e680f9-241a-4cac-8ad3-022d4ce6358b" />
+      <NegativeConstraintNet Id="aadb79db-a7e8-4c57-a99b-e4029ab5beda" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="030b48d2-2d50-47b5-956e-30b44fdf8996" Name="DIFF_DQS3">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="45317266-5274-433b-8d44-7fd52d469d3a" />
+      <NegativeConstraintNet Id="c3dc969f-e8df-4051-a321-7b1e154c934f" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="7d59f9ef-e95e-4ac9-9908-f0b620424ffe" Name="DIFF_DQS2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="41994b9b-d6d8-4aef-95bf-f26ab1b605c9" />
+      <NegativeConstraintNet Id="e1fb4784-9dfb-41b7-ab3c-700ad6d06bcb" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="59958852-f7cb-418a-bcf5-df56aadfa307" Name="DIFF_DQS1">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="ff2496d8-8a9b-468d-8bfb-666d70da23b2" />
+      <NegativeConstraintNet Id="515e4788-f281-454a-a8ea-6f1427d2bacc" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="0efdaa02-518f-4b28-873e-786505baef75" Name="DIFF_DQS0">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="b5cdba0b-80d4-442b-ae20-15ba90d194b8" />
+      <NegativeConstraintNet Id="192ca710-e7f7-4c36-a851-d092fee3a865" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+    <CDifferentialPair Id="6471d1ef-49f3-47f9-be2f-effa0e0d0fbd" Name="DIFF_CK">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="3b8f38ac-9b83-4610-805b-4356f9d14a81" />
+      <NegativeConstraintNet Id="859ac8ed-07c9-4ee8-af38-c1fe3235dca9" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
+  </CDifferentialPairs>
+  <CDifferentialPairClasses>
+    <CDifferentialPairClass Id="4f6e5db1-5ed4-4c86-8656-1516508248c7" Name="All Differential Pairs" IsPredefined="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CDifferentialPairs />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPairClass>
+    <CDifferentialPairClass Id="eb5334d2-11d7-4e82-8f6d-0cd35bafde12" Name="DIFF_HDMI" IsPredefined="false">
+      <Constraints>
+        <Constraint Id="9cec5af8-69f2-42b9-a13a-1db1640e6f76" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 5.5mil    Min Gap  = 5.5mil    Max Gap  = 5.5milPref Width = 3.9mil    Min Width  = 3.7mil    Max Width  = 3.9mil]" Scope1="InDifferentialPairClass('DIFF_HDMI')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=5.5mil|MINLIMIT=5.5mil|MOSTFREQGAP=5.5mil|TOPLAYER_MINWIDTH=3.9mil|TOPLAYER_MAXWIDTH=3.9mil|TOPLAYER_PREFWIDTH=3.9mil|MIDLAYER2_MINWIDTH=3.7mil|MIDLAYER2_MAXWIDTH=3.7mil|MIDLAYER2_PREFWIDTH=3.7mil|BOTTOMLAYER_MINWIDTH=3.9mil|BOTTOMLAYER_MAXWIDTH=3.9mil|BOTTOMLAYER_PREFWIDTH=3.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={65A994DE-E836-499B-8B24-34194FE23599}|IMPEDANCEPROFILEVALUE=100.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
+        <Constraint Id="b0c9ed38-7c70-4ebc-b9de-48dd60eb51f0" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 100.0    Max = 100.0    ]" Scope1="InDifferentialPairClass('DIFF_HDMI')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=100.0|MAXIMUM=100.0|DOC=mwh618.pcbdoc" />
+        <Constraint Id="2aee4b39-d038-41e9-b7f6-816811a9d10e" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 5mil]" Scope1="InDifferentialPairClass('DIFF_HDMI')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=5mil|CHECKNETSINDIFFPAIR=TRUE|CHECKDIFFPAIRVSDIFFPAIR=FALSE|CHECKXSIGNALS=FALSE|CHECKOTHERS=FALSE|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CDifferentialPairs>
+        <CDifferentialPair Id="f9b89c27-41c9-4e67-b0aa-09bde4157e20" />
+        <CDifferentialPair Id="1c9aff25-9331-4790-a82c-dfe2dae04cd3" />
+        <CDifferentialPair Id="361f0d83-48b2-4069-9e36-cafd77e8458e" />
+        <CDifferentialPair Id="a8881a30-265f-48e6-b9fb-c994d1d8abf8" />
+      </CDifferentialPairs>
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPairClass>
+    <CDifferentialPairClass Id="c5af8d55-a946-4bed-9539-fd15cf303e31" Name="DIFF_EPHY" IsPredefined="false">
+      <Constraints>
+        <Constraint Id="aa77777e-4b4c-4dd4-ade4-39b1b7b0c2b6" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 5.5mil    Min Gap  = 5.5mil    Max Gap  = 5.5milPref Width = 3.9mil    Min Width  = 3.7mil    Max Width  = 3.9mil]" Scope1="InDifferentialPairClass('DIFF_EPHY')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=5.5mil|MINLIMIT=5.5mil|MOSTFREQGAP=5.5mil|TOPLAYER_MINWIDTH=3.9mil|TOPLAYER_MAXWIDTH=3.9mil|TOPLAYER_PREFWIDTH=3.9mil|MIDLAYER2_MINWIDTH=3.7mil|MIDLAYER2_MAXWIDTH=3.7mil|MIDLAYER2_PREFWIDTH=3.7mil|BOTTOMLAYER_MINWIDTH=3.9mil|BOTTOMLAYER_MAXWIDTH=3.9mil|BOTTOMLAYER_PREFWIDTH=3.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={65A994DE-E836-499B-8B24-34194FE23599}|IMPEDANCEPROFILEVALUE=100.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
+        <Constraint Id="d0b2a757-d125-4a89-9764-8b48641807fe" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 100.0    Max = 100.0    ]" Scope1="InDifferentialPairClass('DIFF_EPHY')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=100.0|MAXIMUM=100.0|DOC=mwh618.pcbdoc" />
+        <Constraint Id="3764adb0-0cc4-49ef-bfe2-33902a70e698" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 5mil]" Scope1="InDifferentialPairClass('DIFF_EPHY')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=5mil|CHECKNETSINDIFFPAIR=TRUE|CHECKDIFFPAIRVSDIFFPAIR=FALSE|CHECKXSIGNALS=FALSE|CHECKOTHERS=FALSE|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CDifferentialPairs>
+        <CDifferentialPair Id="e5a93a61-0ceb-450c-9761-104a28c4fb2a" />
+        <CDifferentialPair Id="c3f5facc-a733-486a-8c51-c2ec8ddf66e3" />
+      </CDifferentialPairs>
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPairClass>
+    <CDifferentialPairClass Id="5819548b-1bb8-4ea4-8daa-b69c82ecac0a" Name="DIFF_USB" IsPredefined="false">
+      <Constraints>
+        <Constraint Id="36d4bccc-5059-4f35-8f5d-a1c77e78cb49" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 5mil    Min Gap  = 5mil    Max Gap  = 5milPref Width = 4.9mil    Min Width  = 4.6mil    Max Width  = 4.9mil]" Scope1="InDifferentialPairClass('DIFF_USB')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=5mil|MINLIMIT=5mil|MOSTFREQGAP=5mil|TOPLAYER_MINWIDTH=4.9mil|TOPLAYER_MAXWIDTH=4.9mil|TOPLAYER_PREFWIDTH=4.9mil|MIDLAYER2_MINWIDTH=4.6mil|MIDLAYER2_MAXWIDTH=4.6mil|MIDLAYER2_PREFWIDTH=4.6mil|BOTTOMLAYER_MINWIDTH=4.9mil|BOTTOMLAYER_MAXWIDTH=4.9mil|BOTTOMLAYER_PREFWIDTH=4.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={FA4E3261-68A0-4059-A2F7-5EFC6C79286B}|IMPEDANCEPROFILEVALUE=90.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
+        <Constraint Id="9dc55862-27d6-4ec2-8c51-6148adfc22c7" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 90.00    Max = 90.00    ]" Scope1="InDifferentialPairClass('DIFF_USB')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=90.00|MAXIMUM=90.00|DOC=mwh618.pcbdoc" />
+        <Constraint Id="f4ee2810-2e0b-4981-a7d1-d75d038d21f0" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 5mil]" Scope1="InDifferentialPairClass('DIFF_USB')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=5mil|CHECKNETSINDIFFPAIR=TRUE|CHECKDIFFPAIRVSDIFFPAIR=FALSE|CHECKXSIGNALS=FALSE|CHECKOTHERS=FALSE|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CDifferentialPairs>
+        <CDifferentialPair Id="b8f6cd43-3ce8-4672-a612-c6e1993b179b" />
+        <CDifferentialPair Id="a14ad3a7-9767-4dd0-a149-868ea68eb244" />
+        <CDifferentialPair Id="002142b9-dcfa-4417-ac89-3a55667a7655" />
+        <CDifferentialPair Id="39fae623-7cbe-4b9c-ac7a-1079536ff945" />
+      </CDifferentialPairs>
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPairClass>
+    <CDifferentialPairClass Id="fcaeebca-37c6-47ae-ae05-0b2865458988" Name="DIFF_DDR" IsPredefined="false">
+      <Constraints>
+        <Constraint Id="dcf33f71-40b2-4b95-a15e-7d9fbe68f4d4" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 5.5mil    Min Gap  = 5.5mil    Max Gap  = 5.5milPref Width = 3.9mil    Min Width  = 3.7mil    Max Width  = 3.9mil]" Scope1="InDifferentialPairClass('DIFF_DDR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=5.5mil|MINLIMIT=5.5mil|MOSTFREQGAP=5.5mil|TOPLAYER_MINWIDTH=3.9mil|TOPLAYER_MAXWIDTH=3.9mil|TOPLAYER_PREFWIDTH=3.9mil|MIDLAYER2_MINWIDTH=3.7mil|MIDLAYER2_MAXWIDTH=3.7mil|MIDLAYER2_PREFWIDTH=3.7mil|BOTTOMLAYER_MINWIDTH=3.9mil|BOTTOMLAYER_MAXWIDTH=3.9mil|BOTTOMLAYER_PREFWIDTH=3.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={65A994DE-E836-499B-8B24-34194FE23599}|IMPEDANCEPROFILEVALUE=100.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
+        <Constraint Id="1fe0796e-893e-4edc-a41d-7a8e45f186db" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 100.0    Max = 100.0    ]" Scope1="InDifferentialPairClass('DIFF_DDR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=100.0|MAXIMUM=100.0|DOC=mwh618.pcbdoc" />
+        <Constraint Id="ee6e31af-8f8b-481b-95ab-1f4d492aed04" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 2mil]" Scope1="InDifferentialPairClass('DIFF_DDR')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=2mil|CHECKNETSINDIFFPAIR=TRUE|CHECKDIFFPAIRVSDIFFPAIR=FALSE|CHECKXSIGNALS=FALSE|CHECKOTHERS=FALSE|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CDifferentialPairs>
+        <CDifferentialPair Id="6471d1ef-49f3-47f9-be2f-effa0e0d0fbd" />
+        <CDifferentialPair Id="0efdaa02-518f-4b28-873e-786505baef75" />
+        <CDifferentialPair Id="59958852-f7cb-418a-bcf5-df56aadfa307" />
+        <CDifferentialPair Id="7d59f9ef-e95e-4ac9-9908-f0b620424ffe" />
+        <CDifferentialPair Id="030b48d2-2d50-47b5-956e-30b44fdf8996" />
+      </CDifferentialPairs>
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPairClass>
+  </CDifferentialPairClasses>
+  <CPinPairs>
+    <CPinPair Id="d9ec1641-6b05-40eb-887c-2389105aa3b5" Name="A0_U400-T21_U500-H2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T21</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="b2eeb4fb-f38e-418d-bd34-7a9a61e106af" Name="A0_U500-H2_U500-R2" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="338388cb-6e93-4ece-afea-509d74fae838" Name="A1_U400-U17_U500-J2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U17</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="43820bbb-9a99-451f-9a94-5a5bf6ab67e0" Name="A1_U500-J2_U500-P2" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="bdb81671-5500-4243-ab2e-78fb1a1eb322" Name="A2_U400-T18_U500-H9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T18</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="dee611e7-53ee-4004-8063-c4e4e3ed08a8" Name="A2_U500-H9_U500-R9" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H9</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="fc13d516-658a-416f-a0d4-b671d691e34c" Name="A3_U500-H10_U500-R10" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H10</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R10</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="bec5b040-4c3b-4307-9d71-6611bbaae3fa" Name="A3_U400-T16_U500-H10" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T16</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H10</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="297aaab1-6d6a-4ad4-8d59-ad3112e8d1dd" Name="A4_U400-R18_U500-H11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R18</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="399c4595-163d-4540-9bcc-0c7cf89a83b1" Name="A4_U500-H11_U500-R11" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H11</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="364e2d96-3577-4504-bac5-a6d9fbd696cc" Name="A5_U400-P15_U500-J11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P15</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="d182ebe2-d430-4bcb-8eb8-992b6af2ec2c" Name="A5_U500-J11_U500-P11" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J11</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="0078864f-c3e8-4e86-b6e0-567446cfba83" Name="CK_P_C500-2_U500-J8" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\VUHSFZQR-2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="3a8d5b81-ecad-4a53-8ec5-86c6bed17005" Name="CK_P_U400-T14_C500-2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T14</string>
+        <string>\SMGXFTPK\IFRQUCWE\VUHSFZQR-2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="d1cd2654-bb08-4ccb-9e79-e824e754a8a4" Name="CK_N_U400-U14_C500-1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U14</string>
+        <string>\SMGXFTPK\IFRQUCWE\VUHSFZQR-1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="18d268a1-4126-4894-8687-12a0117fa76e" Name="CK_N_C500-1_U500-J9" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\VUHSFZQR-1</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="38fc9ba9-7b8c-4db7-955e-2b4551f073a3" Name="CK_P_C500-2_U500-P8" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\VUHSFZQR-2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="3fc9c041-13ef-4e54-8664-dde3d0259eef" Name="CK_N_C500-1_U500-P9" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\VUHSFZQR-1</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="142658ba-2f67-4039-a267-5ac657388711" Name="CKE0_U400-V15_U500-J4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-V15</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="c4c7d2f8-0ecf-4b9f-b275-8a950b1b2e13" Name="CKE0_U400-V15_U500-P4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-V15</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="c3876aff-dd62-4d0f-bdcf-c6fba57cf95b" Name="CKE1_U400-P13_U500-J5" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P13</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J5</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="70309019-ddd7-4c7b-a8f6-42df3baa28fc" Name="CKE1_U400-P13_U500-P5" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P13</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P5</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="09f99581-250d-4957-8251-2b8ab49f2efe" Name="CS0_U400-V17_U500-H4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-V17</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="73790836-061d-4234-8f7d-b5651e041f44" Name="CS0_U500-H4_U500-R4" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H4</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="fc011110-ed2c-4f3b-8691-a6d52feb445d" Name="CS1_U400-R20_U500-H3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R20</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="bd262b08-8cde-43f2-b0da-8da23dd1ac3c" Name="CS1_U500-H3_U500-R3" IsSource="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H3</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R3</string>
+      </Primitives>
+    </CPinPair>
+  </CPinPairs>
+  <CxSigClasses />
+  <CxNets>
+    <CxNet Id="29c97c62-864c-4018-83ad-7f994f0d5903" Name="A0">
+      <Constraints>
+        <Constraint Id="a0f8d276-3887-4f22-9ef9-ff322a74b687" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="56e0a2bf-0d1d-49ce-8a7a-ab6dd10b42f1" PinUniqueId="NZNLKXFU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="cfa5bf4f-5498-4366-af49-2c46b1324f01" PinUniqueId="FWWTHIBZ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="68971d96-237b-4553-94ff-3170329968b4" PinUniqueId="QCXKDGCO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="a1fa43d4-381d-46f3-991a-832bdf9ff287" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="560d3e4d-2cf3-4071-a6c1-12c2a25c598c" Name="A1">
+      <Constraints>
+        <Constraint Id="262af426-b939-4e87-ad12-c418d28c274e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="e1bf12f2-3fe2-4070-b17a-590f28bb12d7" PinUniqueId="ZXNMGHBS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="8508fd3c-ad63-4cee-9747-b17bbf703fb7" PinUniqueId="BLWDEKRT" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="94f80430-4987-435c-9481-6e0d3c324a45" PinUniqueId="OKYZMNBS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="aef98bbe-47d5-415c-a293-9273b1bbce51" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="1d8fa440-5c82-4626-829a-1fdf60a73336" Name="A2">
+      <Constraints>
+        <Constraint Id="79386986-03fc-4ec8-8fc2-7e324a800a69" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="ed616f56-7828-44d3-ae1e-5e315f2452ea" PinUniqueId="RABHWULY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="80781abe-326e-4454-b0bf-78f7d8373d9f" PinUniqueId="FUUIUTVV" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="2af3d306-1df4-49f4-b3ee-160a1e0d9faa" PinUniqueId="SHXRENCB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="fac008d4-7e38-4d8e-b349-492cb46ca3f1" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="933c6120-6f9c-4fca-8941-4c7131bd2abc" Name="A3">
+      <Constraints>
+        <Constraint Id="fddd9a4e-06cf-4b8b-9fdc-df6406d0688e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="924d7874-2410-4c0c-98b9-771fe7212191" PinUniqueId="ISXXZZTU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="21cb47da-6951-41a4-a0b3-48230233a351" PinUniqueId="GHTQGCHN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="17cdd878-e803-4ec9-8e67-7c0c13833963" PinUniqueId="QUCKKTAC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="829c32c3-bf08-45a3-a6e1-b1526b58f93d" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="3bf997ca-2723-4384-b2c3-b77d17444e36" Name="A4">
+      <Constraints>
+        <Constraint Id="eefb901c-f83f-4e39-a8bf-bc10fb6ae4c3" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="0bcf35f4-22bf-4111-a459-ec919ad6c2d6" PinUniqueId="IAGKEDYM" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="e72a05a7-d4c3-486a-b8ed-af8969b1591d" PinUniqueId="QWPDJIEB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="f6a6ec27-8895-42aa-8771-88c0cb541b6b" PinUniqueId="HFNPPFSS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="380f8e6c-112b-4f4b-8cfe-afb75db01bff" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="0d2b8832-8a23-4e61-aed1-8abe13f4f522" Name="A5">
+      <Constraints>
+        <Constraint Id="a3fbcfcf-57de-4d89-b5aa-f3fdbda85b0d" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="cef69b03-1c6c-4b28-88ea-4eae775ab1c1" PinUniqueId="IVLMLWZP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="e2e661c5-e807-4240-b11f-426c1d456753" PinUniqueId="FVJKCDHU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="94e8389b-3d87-43ed-828f-31b1f0348be6" PinUniqueId="TLLZMBWO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="ee4eebc3-0db0-4bfb-b3b0-5ab3c20f18ce" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="dfae2bfb-9627-4efb-a099-826f5075cde4" Name="CK_N">
+      <Constraints>
+        <Constraint Id="29375a44-1494-4ef3-a776-f3c4d31a6174" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CK_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="859ac8ed-07c9-4ee8-af38-c1fe3235dca9" />
+        <CNet Id="3b8f38ac-9b83-4610-805b-4356f9d14a81" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="7b8f6b08-4840-4da1-9654-69acde60c1d3" Name="CKE0">
+      <Constraints>
+        <Constraint Id="eebea073-4179-4a5b-bdeb-836cd810be87" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CKE0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="eb8595be-dc19-4a0d-a8c4-6de5abff6933" PinUniqueId="AHJUCAYR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="3e2a75aa-8c2b-4fcd-88a7-2261e0478f83" PinUniqueId="DJMHUNJW" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="6c260397-f465-49af-b708-8850311bb3b1" PinUniqueId="KVRGZLCN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="3" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="e3429803-b608-49ba-8458-9ea866d50a0e" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="508056aa-f789-4b37-af81-32e815a25d78" Name="CKE1">
+      <Constraints>
+        <Constraint Id="168e5175-3200-40e1-8fd8-f6ac7f6a824f" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CKE1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="516bcf0a-2c9c-4b2d-8f13-df5d6179cef3" PinUniqueId="EOWNTQPK" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="9278115c-7f87-4fe3-92b9-f5deb91a0a18" PinUniqueId="QTDZKKSD" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="27244f2f-b1e5-4ceb-9c2d-f68b1d65de8d" PinUniqueId="OEYSCCOP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="03117c5d-47d0-4d3b-aaac-e38783763c30" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="67736d50-e65d-46bc-8561-772a8ce9cf38" Name="CS0">
+      <Constraints>
+        <Constraint Id="b43481d2-d9df-442c-93c8-3acc556ee716" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CS0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="ab377ff1-196c-4c3f-a82d-4cdbbe4a6c9b" PinUniqueId="AKALKFPB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="8b141bc0-3e66-435f-b2c2-096fbabf9228" PinUniqueId="IECIWELU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="504c3468-2f31-4acf-9017-335877fbf955" PinUniqueId="GLPTLKOC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="72337ab9-6657-4e69-819c-6f615b286efa" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="c0f5e581-49c9-470c-a7d1-ec5009639692" Name="CS1">
+      <Constraints>
+        <Constraint Id="d377cb7a-24b3-4858-a426-ffd4ecde3a54" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CS1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes>
+        <ConstraintNode Id="525b39cb-4eb9-4275-8546-1f7891dac0db" PinUniqueId="LZZHPZJB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="49bcac15-9431-4caf-8b63-837325f9d202" PinUniqueId="CKHTQZZO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="637f79dc-22fe-459e-8895-bd15e7b634f4" PinUniqueId="HQPQJQPY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
+      </ConstraintNodes>
+      <CNets>
+        <CNet Id="55e08d22-d7b8-4463-9809-7d1e77aa51ea" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+  </CxNets>
+  <CXNetClasses>
+    <CXNetClass Id="6894ec70-75d8-4918-b47f-82b00113c616" Name="All xNets" IsPredefined="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CXNets />
+    </CXNetClass>
+  </CXNetClasses>
+  <ConstraintClearancesMatrix>
+    <CCMFromScopes>
+      <CCMFromScope Id="92892b17-de39-4412-bf33-8848664490ae">
+        <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
+        <CCMToScopes>
+          <CCMToScope Id="3183c4a3-077d-4f0a-b32d-1d5ff6002023" SetId="00000000-0000-0000-0000-000000000000">
+            <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
+            <DefaultConstraintClearancesMatrixConstraint Id="00000000-0000-0000-0000-000000000000" Kind="0" Comment="" Description="" Attributes="" LayerType="0" LayerId="0" />
+            <CCMConstraints>
+              <CCMConstraint Id="0ca5dc22-6116-4c3a-b910-ff32c832a2d3" Kind="0" Name="ClearanceAll_1" Comment="" Description="Clearance Constraint [Clearance = 10mil]" Scope1="OnOutside" Scope2="OnOutside" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="1" LayerId="0" OverrideClearancePairs="" />
+              <CCMConstraint Id="cd527ccf-8fb2-43d7-bdf6-708467c43f52" Kind="0" Name="ClearanceAll_2" Comment="" Description="Clearance Constraint [Clearance = 10mil]" Scope1="OnMid" Scope2="OnMid" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="2" LayerId="0" OverrideClearancePairs="" />
+            </CCMConstraints>
+          </CCMToScope>
+        </CCMToScopes>
+      </CCMFromScope>
+    </CCMFromScopes>
+  </ConstraintClearancesMatrix>
+  <ConstraintSameNetClearancesMatrix>
+    <CCMFromScopes />
+  </ConstraintSameNetClearancesMatrix>
+  <CSets />
+  <CClearancesMatrixSets />
+  <CClearanceFilters />
+  <CCMCreepageConstraints />
+  <CImportedDirectiveUniqueIds />
+  <OtherConstraints />
+  <NetGroups />
+  <XNetDiffPairs />
+  <Settings UnitSystem="Imperial" />
+  <FileVersion MinorVersion="6">
+    <FileVersionInfo />
+  </FileVersion>
+</ConstraintsData>
