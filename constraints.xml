@@ -168,307 +168,564 @@
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="_H_37" ConstraintNetId="cb017bff-40d3-44a1-b49a-ca4157fa4862" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="_H_38" ConstraintNetId="0d61d499-99f0-41a5-b67f-a49f99d9f170" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="_H_40" ConstraintNetId="998be13b-9997-45b4-bcb8-548ed14f7e6a" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC?_1" ConstraintNetId="cebb5340-26ee-4c04-a9b6-7e80313dd0e6" />
   </FlattenedNetName2ConstraintNetId>
   <CNets>
     <CNet Id="66e869c7-d381-474c-b5cb-d24141ea476b">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="9890480f-bc41-46d8-b560-b87ade9cfef2" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="a6a7498d-4cd7-4e54-8f94-84a148575521" PinUniqueId="UJOCWPWB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="643d37e6-6ea4-485c-920e-ee7b4d2fe469" PinUniqueId="XYQQLYCF" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="4b8cbb78-468e-41cd-b7d5-25ccc28e9d6f">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="39805170-103c-4fa8-b665-c799df3379be" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="103b2647-93e7-430f-9cc1-ff15c7e6ea03" PinUniqueId="CIMKISNR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="ae6e0916-80d2-43a4-871e-6027f8381513" PinUniqueId="RMVSETYQ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="2b38387c-6d60-4ef2-a613-a841e3e3c7cd">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="f86c8cf1-a405-4db3-946f-a52bcc023203" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="1db04598-71f9-4889-a7fa-4b2d53b4ad9c" PinUniqueId="FKIEAYSA" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="5dbfba81-e5bf-4137-ac7c-b3e5176b021a" PinUniqueId="TTPHEFOG" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="fa9aea1c-f139-4abd-8c35-93ab1a63084e">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="10982686-3171-4af4-8541-527dd4786f21" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="eb1bccf3-5388-49a4-b262-4365b24352db" PinUniqueId="EORUKNXI" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="b02f7c25-da67-4b27-9216-52fb558e1ded" PinUniqueId="UUFIYBDJ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="de35702b-7d45-4035-9400-fde0a1823219">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="00b03b95-cfb5-49c3-936e-45b779dd0130" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="7692341f-a175-40b7-b740-461b80e61323" PinUniqueId="WXYDTDBU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="2e757d85-036f-44ef-ae57-ea81897149d3" PinUniqueId="OEJOZENQ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="98ffe9fd-d035-4a8e-893d-bb9b979f1bd9">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="2d47f699-49c5-4fe3-a537-bfce5b99e981" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="b0a320e8-939c-4625-a94f-ae221b96b991" PinUniqueId="RRMLLBNK" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="946f98cc-84ba-4028-9453-167023a3f75d" PinUniqueId="ZGLURJOH" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="da12e74a-ce62-400c-a9d6-be8e4fde9c64">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="d2fb4323-1272-4880-a243-78b1fdc12dc2" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ6')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="521d385c-4934-445b-986b-ae1e4428ca21" PinUniqueId="KJRGLQAV" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="c3210ef9-ae7a-40af-a5fc-068a3cbaffc2" PinUniqueId="TEFXVVSR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="b302a71d-1581-4231-ac16-c0e5df854367">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="b0e801f1-e6d3-4c76-94ae-f9a40aed7026" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ7')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="a7e7887a-4779-4a6e-8e2b-bdc400d26f33" PinUniqueId="QOYHXBQP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="de0b035d-4606-40a5-9f6a-a369ae766ec8" PinUniqueId="KKWRTTGP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="b5cdba0b-80d4-442b-ae20-15ba90d194b8">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="304094dc-01bb-4737-a5f3-e8719e228d4c" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS0_P')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="9d57ceb8-df54-47dd-8313-f1707729634a" PinUniqueId="TGWBIFUR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="4615f983-7208-41bb-bddf-f1860d3d2513" PinUniqueId="JMDZJKQP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="192ca710-e7f7-4c36-a851-d092fee3a865">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="765b2cbb-80cd-45b2-97ea-4ea26ed531ed" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS0_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="baf9e675-6b99-4c33-8cdc-9dc479fda9f3" PinUniqueId="CYOZOAIK" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="7d397495-50c1-43f4-8e58-d525bb5d1780" PinUniqueId="GYHYUUOL" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="127b782a-c25a-4251-a0d4-0c056647f12b">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="4064fad0-bfa1-4e66-82a7-ef33cda26ea4" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="4e38066f-b537-41da-b0f0-71e2f77d5ae4" PinUniqueId="JKIAVSYQ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="b949a0c1-5b47-4dff-a61b-f1a5b284df0d" PinUniqueId="GXPUVFNT" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="e4ee8a08-9769-4587-8e0b-5f69bbebafa5">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="f2eefb13-c6b0-44dc-984c-a097149bcd72" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ9')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="d96089d7-3847-45af-86bc-5cca66e8d092" PinUniqueId="JOMIMHPC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="b87e8024-5695-4c63-b66b-0deb642669a1" PinUniqueId="ZVKEFOXI" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="7949132b-439b-45d6-aa13-4fd9e0376d9c">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="5703f6a0-c5e5-43d0-934d-a9dd364dfb51" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ10')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="b0369fb1-ad19-448c-9ef8-5fae83d0e325" PinUniqueId="BHKBWQWG" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="982fa29b-39c1-47d5-873c-b7b561cf1ec3" PinUniqueId="NQRWNUXQ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="099e996b-9e25-459b-afdc-9ed56e463dc9">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="44a4571c-20f7-41fc-a87b-c73a657ac5a0" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ11')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="c126e408-9206-4914-8f1f-99f97ff3baf6" PinUniqueId="XDMEETXQ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="1873491d-faf1-4b37-82f6-7a1b382a8e73" PinUniqueId="VKLVEMTD" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="fe34b195-3e00-4b39-9568-7fc381c343f3">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="312002de-0f4f-4802-8d7a-aaf52d873e6f" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ12')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="79049eda-438a-4807-823c-8efb14dd4a5a" PinUniqueId="BXZGMCQZ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="dabf06d2-736e-4d12-9d5e-3a242b53ad63" PinUniqueId="ZKNRGBGK" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="0fe55c1c-2b11-4a91-afd4-91ef4a4b1cb2">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="12b60ade-dbaa-403e-b437-2fc385f4c700" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ13')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="595e2669-4622-438b-8f55-47a6fd780849" PinUniqueId="KOWXDRIJ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="15d62df5-f44a-43cf-b0a6-1770d5c2dd51" PinUniqueId="BCYYJJFR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="ad6f5c49-477f-40d7-b00a-e3af1d70a7d5">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="a3a62499-f7d1-45b7-b6c7-d2f2be5f46c2" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ14')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="7fe9de8a-4edd-462e-8aed-421e39bc3db6" PinUniqueId="ZVGPROSU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="5625db10-0241-47df-8d2b-1a18256676f1" PinUniqueId="ZGGEOQFR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="9ef45b42-a7cc-466c-b03f-6136d88f5f9c">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="026323dc-25f7-4479-849a-8237ce971e3e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ15')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="45cc88ec-eb1b-4d60-a60b-23868440c216" PinUniqueId="IINQYTXP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="b99d59bf-1eba-465f-b9b9-b2cf7a921528" PinUniqueId="UNTXJBAN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="510774c7-d880-4073-a759-8c4459cec267">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="1a508253-6143-4460-92e4-b741f5d7eb0d" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ8')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="3ffaffa2-2818-4399-ac1b-86caaa5640f9" PinUniqueId="LEOKTKYC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="7d38d312-e52c-48ff-ba5c-59c7288ef9ff" PinUniqueId="MSDPIVXF" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="ff2496d8-8a9b-468d-8bfb-666d70da23b2">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="d8e1f185-48da-4fad-b605-4ec5293689d5" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS1_P')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="27bd3f27-b981-4e39-9cb4-acea1ab355ef" PinUniqueId="ENGBRQLG" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="0c730fd5-de7c-4dd4-b2be-e809f318e3a7" PinUniqueId="CGFVAGBL" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="515e4788-f281-454a-a8ea-6f1427d2bacc">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="98925b84-cf4d-49b9-9984-9f9794c9edda" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS1_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="a6027838-4dc3-48c6-8cbd-5037a07e8070" PinUniqueId="TABCNCUA" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="b5df3fb4-ab1e-4e36-b016-5d83fe754db2" PinUniqueId="KGVLWZGL" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="2a560884-5775-466c-9c75-25db9a017d09">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="acd28ebd-fcd4-4ae1-8801-5d5332006fbd" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="c6c6760c-4a75-45ae-951a-4dafa0a65ef8" PinUniqueId="ZMUIJETH" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="a5c362d8-919e-4fcf-8ec2-0a5f319c3894" PinUniqueId="ETVXFOPJ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="563e429c-09ef-4be8-a41b-7f78bdba2afc">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="8c7ccc47-4ef3-4f7e-bea9-f36b1f9b39f2" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ16')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="b8bc9d28-689d-41f2-84f5-dd960064a8e7" PinUniqueId="RWGPHIPY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="417d948c-3d59-4628-98d6-fc645ea9b584" PinUniqueId="CLANEUXN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="79cbe48b-90d2-4d1e-ad92-18d480b96573">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="199b23cf-1c6a-4608-9339-090c1494b1f7" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ17')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="80dce14a-4861-4ead-802a-9656e62581d3" PinUniqueId="QKRHTZCF" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="bafb7ea0-035d-4c81-8761-6973481ce30e" PinUniqueId="WBDOAIDR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="16276f9f-6a7b-41e9-8afd-d97e54655c54">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="d225bdbd-9528-4970-8756-ad9bc056fe02" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ18')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="086fd5e9-278c-449b-970f-929f5cb6c675" PinUniqueId="UCFJNHZN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="8a7c5550-d703-4389-a329-ad5ae7820089" PinUniqueId="VISVRCOI" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="a598afb3-5a06-4aad-ac49-b6ac9f7699fd">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="39c82394-cf9c-4ed2-82e9-e7f3dfe75fe8" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ19')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="3dcaed74-32fb-43af-a09d-47b5aa4b36ff" PinUniqueId="EFXEOZBR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="c7305df9-de02-49ae-8f33-d46f640e3006" PinUniqueId="WZRXDACX" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="4485b576-c015-4b23-8f60-188d396c7fcc">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="767bd96d-acd7-4eb5-84e7-90178310e7f0" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ20')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="904b1b7a-cd09-45bf-84b8-2f35de8c8c7d" PinUniqueId="RHFHLTCQ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="2fabef7d-3d80-4090-89d2-8677e5a0152b" PinUniqueId="XGNZANHN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="5c5874e4-c6a6-4bdc-a7e3-60d935894c6f">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="1aa6df84-10a5-4dec-9255-51eba4f0e66d" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ21')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="70092a72-5ec2-4120-9797-0fc355553658" PinUniqueId="FHYGXLAJ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="087c2576-6f49-4a02-96a9-e98d84133db1" PinUniqueId="LJDBWYZQ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="b568e786-5097-45bc-a51e-1258a451ef9e">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="8e377b7d-ca62-45cb-85e4-a3cc0c4db486" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ22')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="444a9df6-156a-4f05-9ff5-8dd42a6b09df" PinUniqueId="GHWVNNCJ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="239d688b-4d57-49ed-bdd2-50269d388e16" PinUniqueId="WUSVZKBA" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="b2374a01-efb1-487c-8233-f0137e20972d">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="928384b6-e057-45af-b0f3-0d32fd03977e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ23')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="5d76550b-74c9-4311-9ae6-aeaff37ef648" PinUniqueId="WTLBKLJQ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="78419e72-240d-4e18-b681-4ceb8b038948" PinUniqueId="XRQFDAKV" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="41994b9b-d6d8-4aef-95bf-f26ab1b605c9">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="d65e0877-9cb7-4662-92ce-359673452194" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS2_P')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="9d9db56f-51f8-468d-b560-622f4f5d0465" PinUniqueId="YEWXMDMP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="fe83a899-9586-434d-a15b-d3df0f05c66a" PinUniqueId="YFQTVDQH" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="e1fb4784-9dfb-41b7-ab3c-700ad6d06bcb">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="94b25e66-4a4f-4613-8e8b-3715d46b5d06" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS2_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="b9c814a9-068d-4cd1-bbc5-c2588c18017b" PinUniqueId="JKFKPUSV" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="15ac3a28-65c4-483a-985f-45fbed0e2baf" PinUniqueId="AFKIYMMY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="ad9ba013-9bfd-42c7-8e9b-08e86a9b4017">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="320e4609-dcaf-4e57-960b-269dc5c800d5" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="b9e540e4-e6c3-47a7-8d17-59e3b47a5272" PinUniqueId="VGPQEJFV" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="78f4a8cb-53d0-45ba-b693-0d97dccd013d" PinUniqueId="ZAAIHHYN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="4e5b97ce-3206-4461-ae22-5bf2484d2dd1">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="b5ec3826-0320-4c3d-9c3b-83793ca28b75" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ24')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="9cdf8710-2ce9-4858-90d6-be6342fc35ec" PinUniqueId="IZQMTUUA" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="e5aa8c69-65b2-4f99-abce-5ddd2e25ddc2" PinUniqueId="FMBIWCJK" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="6ed40065-2bed-41f9-868f-db0331c4851c">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="f11a80e9-7070-4873-aa30-c04183d6c6a9" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ25')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="edb47329-463c-4d37-8de6-061b9a132614" PinUniqueId="ZPEFISQT" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="d17f99f2-4956-4345-a6e2-db7012f13916" PinUniqueId="ZHCQHGVS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="7ea33dff-5096-49ed-88b3-0102f17b4b60">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="80a69c22-4a0e-4347-849a-a5b811567e88" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ26')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="d5559768-35f6-4235-85b2-ec6095f8e741" PinUniqueId="EOXHDFDD" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="f0d855d8-3dc2-4e16-84a5-bbc087982b6a" PinUniqueId="EKUUZSBK" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="5f6dd105-75f5-4b3c-8d50-4d4a7cf1ac51">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="7cf97075-72bb-40ff-9732-a42e7f35f891" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ27')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="08a5810a-95da-48dd-9c6b-2d03c7791b37" PinUniqueId="EWKRIBFT" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="ff261005-b4d1-4962-a679-73f815bddf41" PinUniqueId="ESFCZBOR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="01cf7987-13b4-4561-b48e-b807be05e84f">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="4b4e2d5b-4ca5-45d6-8928-107c7ee73250" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ28')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="70d6e350-191b-42fd-a1f6-7500d15bb8ef" PinUniqueId="XHXXVNPL" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="9e270c8b-76ab-4d7f-8d91-e28c3567cd0f" PinUniqueId="HDOICHLY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="3042ddb8-e32c-4a72-8f1a-68177dfa67b4">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="ff3dc8ee-45e0-45e9-956d-47eba709d425" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ29')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="7afadb3e-a831-4a35-ab77-f380bbdcefd3" PinUniqueId="MVWYJWAE" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="730c2fb9-5b45-45e3-942f-0b0576792971" PinUniqueId="VZIRKVQT" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="51c2f847-44e9-4ba4-bc1e-ae396e222065">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="26bf2934-866e-4cc7-a394-0970f0038c4e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ30')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="84141d29-e4d7-49ac-a0e5-23fa8a2e4812" PinUniqueId="CSXVNCND" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="d8502517-8593-4a9d-9a37-2f7b809770fe" PinUniqueId="FIEWNDNM" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="e505a5e4-e739-4a4a-bdeb-5b2af05b937a">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="b4b29bee-35ef-4be2-a546-16a5664091c1" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ31')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="5cee03ac-4b23-48bc-a518-70b483a3158a" PinUniqueId="WMIXJCSY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="99e9069d-13c6-42db-a434-307455e052b2" PinUniqueId="LRDEWHLX" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="45317266-5274-433b-8d44-7fd52d469d3a">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="0fcfbaad-85e4-4d58-a7f9-d1f77a4e4ba5" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS3_P')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="c1506754-ca8f-4e8c-862d-0fd9e8c12102" PinUniqueId="DOUBTHSD" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="65889cd8-f50b-4ce7-82fd-131a0c5e67ba" PinUniqueId="TLJDRMQW" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="c3dc969f-e8df-4051-a321-7b1e154c934f">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="a1a199cc-a340-450e-98e7-c972393c9a91" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS3_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="a1d84784-4741-4e62-85eb-8fe8a578a633" PinUniqueId="ZJOEQZWA" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="2d21367b-3182-4fb7-88c1-49e338d5d711" PinUniqueId="ZVZAKKAJ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="5d6e03d2-bd3a-4b15-ae8d-83808f9df7f3">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="5c15a436-9ee1-4221-aa2d-e9660eae6e80" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="af251eed-2ee9-4e6c-83a4-19ee0d33d48d" PinUniqueId="UUBIFSCJ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="c1505bdf-ba6b-479c-8ddc-1f949bf0559f" PinUniqueId="BLXRXRDD" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="a1fa43d4-381d-46f3-991a-832bdf9ff287">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="1ef5dfac-e231-4abd-89c6-1b68325f3967" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="1e90969e-9a5e-4790-b3b5-1fafa94e86ee" PinUniqueId="NZNLKXFU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="1e2348db-7225-43b2-b6eb-de51d059428c" PinUniqueId="FWWTHIBZ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="d61d2a8c-6f53-4d6a-bcaf-a690526d4e40" PinUniqueId="QCXKDGCO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="aef98bbe-47d5-415c-a293-9273b1bbce51">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="67708094-ec07-47c4-b4d0-d18fbcf805dd" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="d7563153-0840-4c3c-99f0-823550e88913" PinUniqueId="ZXNMGHBS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="b2c6e058-d616-445a-a3f9-475dc87912af" PinUniqueId="BLWDEKRT" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="1042ad64-abef-4044-83a0-f86aad65b57d" PinUniqueId="OKYZMNBS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="fac008d4-7e38-4d8e-b349-492cb46ca3f1">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="2dd096c1-03af-4d6b-b423-03853ada42fc" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="0d1dde15-c9a7-4479-ad88-3b4b92d41405" PinUniqueId="RABHWULY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="ca1695a3-86c4-4030-ad0c-e61b3ce96f8c" PinUniqueId="FUUIUTVV" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="9e23dee2-eacb-4f9d-9e24-a9ebbb7ed259" PinUniqueId="SHXRENCB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="829c32c3-bf08-45a3-a6e1-b1526b58f93d">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="84d97454-912d-4bca-bd04-bbcd6d5ed084" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="50ed5e05-96a6-4e86-b44b-15eef411ca5f" PinUniqueId="ISXXZZTU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="357b6c39-4bd3-45dc-93fd-ded7848b5871" PinUniqueId="GHTQGCHN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="c40393d9-2ed8-45c8-9f50-0ca8cbbc1cb5" PinUniqueId="QUCKKTAC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="380f8e6c-112b-4f4b-8cfe-afb75db01bff">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="a905ca93-00a6-4ed7-8e3f-a6e139ec6712" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="55614c42-9699-435b-8900-90f789d50874" PinUniqueId="IAGKEDYM" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="55a9d5d2-b8aa-467e-b850-43497d12922b" PinUniqueId="QWPDJIEB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="313968ab-f0e9-442d-aa61-6e37bbfbfbab" PinUniqueId="HFNPPFSS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="ee4eebc3-0db0-4bfb-b3b0-5ab3c20f18ce">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="722e33e9-2493-4e40-8b83-d47fd05a6ec8" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="7c0b44a4-d87e-4faf-88bd-37d7c773dfe4" PinUniqueId="IVLMLWZP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="c6cb64c4-6acd-4d90-bbf2-75e7c250df5b" PinUniqueId="FVJKCDHU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="4857a786-6053-4a4b-b824-81a3ab097f57" PinUniqueId="TLLZMBWO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="3b8f38ac-9b83-4610-805b-4356f9d14a81">
       <Constraints>
@@ -497,28 +754,52 @@
       </ConstraintNodes>
     </CNet>
     <CNet Id="e3429803-b608-49ba-8458-9ea866d50a0e">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="95dd314c-ffee-4e82-815a-00282060b0f8" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CKE0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="7c60ffe4-bd57-477b-80ab-2867eaeb93b8" PinUniqueId="AHJUCAYR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="68e58c47-172c-49b3-9fb1-a313629f300b" PinUniqueId="DJMHUNJW" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="9790c101-1599-494a-8f45-15feda19ef05" PinUniqueId="KVRGZLCN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="03117c5d-47d0-4d3b-aaac-e38783763c30">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="a3c0f8d7-4b4e-4c03-b71b-ff96e428c134" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CKE1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="c5d8f710-3a7c-441e-bca8-770397b2daf5" PinUniqueId="EOWNTQPK" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="849ddd96-689c-4055-a35e-6fbf1d83d263" PinUniqueId="QTDZKKSD" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="a3296442-68a2-48ba-8584-ea73a722c9da" PinUniqueId="OEYSCCOP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="72337ab9-6657-4e69-819c-6f615b286efa">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="884df15d-9c65-4e71-b1c0-4ae8bf5532fe" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CS0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="f95bb356-f0d4-4e29-8f7e-f8d18368bbbb" PinUniqueId="AKALKFPB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="ec54d074-1044-420f-8c62-021f9282e2a7" PinUniqueId="IECIWELU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="078b36e1-12c4-4e13-b4d9-7cd7b3988131" PinUniqueId="GLPTLKOC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="55e08d22-d7b8-4463-9809-7d1e77aa51ea">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="25a8d160-a0f2-493f-8918-6b34a4e32809" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CS1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes />
+      <ConstraintNodes>
+        <ConstraintNode Id="819458a1-7ad7-428b-9a10-3b09b1fa3679" PinUniqueId="LZZHPZJB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="328ac04f-297f-47cf-bd50-e92cf5f9bd43" PinUniqueId="CKHTQZZO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="79288a33-0a5d-453b-ab15-ecf4f92326d9" PinUniqueId="HQPQJQPY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
+      </ConstraintNodes>
     </CNet>
     <CNet Id="1a055103-39ab-4027-aa17-f334960dafe8">
       <Constraints />
@@ -1186,6 +1467,12 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
+    <CNet Id="cebb5340-26ee-4c04-a9b6-7e80313dd0e6">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
   </CNets>
   <CNetClasses>
     <CNetClass Id="c1456bc4-cfbe-470b-9ce0-0987eb8da245" Name="All Nets" IsPredefined="true" Domain="2">
@@ -1689,13 +1976,13 @@
         <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H2</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="b2eeb4fb-f38e-418d-bd34-7a9a61e106af" Name="A0_U500-H2_U500-R2" IsSource="false">
+    <CPinPair Id="2c999ef1-8a76-4a3d-a5b2-70d65d8f40fd" Name="DQ7_U400-P2_U500-B4" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H2</string>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R2</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-B4</string>
       </Primitives>
     </CPinPair>
     <CPinPair Id="338388cb-6e93-4ece-afea-509d74fae838" Name="A1_U400-U17_U500-J2" IsSource="true">
@@ -1707,13 +1994,13 @@
         <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J2</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="43820bbb-9a99-451f-9a94-5a5bf6ab67e0" Name="A1_U500-J2_U500-P2" IsSource="false">
+    <CPinPair Id="235470f3-d545-4aa0-920f-578e91adc4e9" Name="DQ6_U400-T2_U500-C4" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J2</string>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P2</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-C4</string>
       </Primitives>
     </CPinPair>
     <CPinPair Id="bdb81671-5500-4243-ab2e-78fb1a1eb322" Name="A2_U400-T18_U500-H9" IsSource="true">
@@ -1725,22 +2012,22 @@
         <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H9</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="dee611e7-53ee-4004-8063-c4e4e3ed08a8" Name="A2_U500-H9_U500-R9" IsSource="false">
+    <CPinPair Id="1117dcf5-c083-405b-b7e3-0d0c429c2fdf" Name="DQ5_U400-P1_U500-E4" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H9</string>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R9</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P1</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-E4</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="fc13d516-658a-416f-a0d4-b671d691e34c" Name="A3_U500-H10_U500-R10" IsSource="false">
+    <CPinPair Id="0ec65c99-3701-4f24-baed-f89c7cab5558" Name="DQ4_U400-U3_U500-F4" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H10</string>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R10</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U3</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-F4</string>
       </Primitives>
     </CPinPair>
     <CPinPair Id="bec5b040-4c3b-4307-9d71-6611bbaae3fa" Name="A3_U400-T16_U500-H10" IsSource="true">
@@ -1761,13 +2048,13 @@
         <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H11</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="399c4595-163d-4540-9bcc-0c7cf89a83b1" Name="A4_U500-H11_U500-R11" IsSource="false">
+    <CPinPair Id="27954d85-6cdf-4b8f-937d-9375d268ac34" Name="DQ3_U400-T4_U500-F2" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H11</string>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R11</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T4</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-F2</string>
       </Primitives>
     </CPinPair>
     <CPinPair Id="364e2d96-3577-4504-bac5-a6d9fbd696cc" Name="A5_U400-P15_U500-J11" IsSource="true">
@@ -1779,13 +2066,13 @@
         <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J11</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="d182ebe2-d430-4bcb-8eb8-992b6af2ec2c" Name="A5_U500-J11_U500-P11" IsSource="false">
+    <CPinPair Id="3322abd8-b28c-46e8-95c7-b6f1263f4aa5" Name="DQ2_U400-N2_U500-E2" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-J11</string>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P11</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-N2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-E2</string>
       </Primitives>
     </CPinPair>
     <CPinPair Id="0078864f-c3e8-4e86-b6e0-567446cfba83" Name="CK_P_C500-2_U500-J8" IsSource="false">
@@ -1887,13 +2174,13 @@
         <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H4</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="73790836-061d-4234-8f7d-b5651e041f44" Name="CS0_U500-H4_U500-R4" IsSource="false">
+    <CPinPair Id="4a7a1143-6224-47fb-b017-8e6a2bd75b35" Name="DQ1_U400-U4_U500-C2" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H4</string>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R4</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U4</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-C2</string>
       </Primitives>
     </CPinPair>
     <CPinPair Id="fc011110-ed2c-4f3b-8691-a6d52feb445d" Name="CS1_U400-R20_U500-H3" IsSource="true">
@@ -1905,70 +2192,430 @@
         <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H3</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="bd262b08-8cde-43f2-b0da-8da23dd1ac3c" Name="CS1_U500-H3_U500-R3" IsSource="false">
+    <CPinPair Id="fddee84a-a786-4e79-9c1e-343227d00639" Name="DQ0_U400-N3_U500-B2" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-H3</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-N3</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-B2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="b9f6a4fb-6786-48c9-ae98-ef743f830e9e" Name="CS0_U400-V17_U500-R4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-V17</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="940dc03a-9d6c-4a85-a2fd-7c4b07d8d5e4" Name="CS1_U400-R20_U500-R3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R20</string>
         <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R3</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="2e34371a-7491-4bd5-93a4-6b5ec738129d" Name="SD_D2_U400-L3_J900-1" IsSource="true">
+    <CPinPair Id="e935f9b7-9847-49f9-b641-2a7467988db6" Name="A0_U400-T21_U500-R2" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-L3</string>
-        <string>\SMGXFTPK\MUYVAXHR\JTZFNWNG-1</string>
-        <string>\SMGXFTPK\MUYVAXHR\JTZFNWNG</string>
-        <string>\SMGXFTPK\MUYVAXHR\JTZFNWNG-2</string>
-        <string>\SMGXFTPK\MUYVAXHR\MFIUNJGH-1</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T21</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R2</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="ed588181-70ea-46d9-968d-f04ec8974549" Name="SD_D3_U400-L2_J900-2" IsSource="true">
+    <CPinPair Id="dc457c49-8c30-4172-85bb-050668438363" Name="A1_U400-U17_U500-P2" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-L2</string>
-        <string>\SMGXFTPK\MUYVAXHR\VXCLBLBY-1</string>
-        <string>\SMGXFTPK\MUYVAXHR\VXCLBLBY</string>
-        <string>\SMGXFTPK\MUYVAXHR\VXCLBLBY-2</string>
-        <string>\SMGXFTPK\MUYVAXHR\MFIUNJGH-2</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U17</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P2</string>
       </Primitives>
     </CPinPair>
-    <CPinPair Id="9dace7e1-78eb-4f1a-b62e-9d04d511e79b" Name="SD_CMD_U400-K3_J900-3" IsSource="true">
+    <CPinPair Id="00e4eda3-5f38-4efe-b722-337c2419f55c" Name="A2_U400-T18_U500-R9" IsSource="true">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <Primitives>
-        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-K3</string>
-        <string>\SMGXFTPK\MUYVAXHR\BECLETHO-1</string>
-        <string>\SMGXFTPK\MUYVAXHR\BECLETHO</string>
-        <string>\SMGXFTPK\MUYVAXHR\BECLETHO-2</string>
-        <string>\SMGXFTPK\MUYVAXHR\MFIUNJGH-3</string>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T18</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="9a68be02-f058-4f93-9825-10527d1ee36e" Name="A3_U400-T16_U500-R10" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T16</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R10</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="cee1cc4d-155e-4563-99e3-bba17d898329" Name="A4_U400-R18_U500-R11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R18</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-R11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="db60989b-9e07-43eb-81b9-2ae8a5cabfce" Name="A5_U400-P15_U500-P11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P15</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-P11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="ab89ed65-d691-4b56-b38e-e6146f181f30" Name="DQ8_U400-P5_U500-B11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P5</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-B11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="3b9b7701-77c6-4fa5-96ac-894a89f86883" Name="DQ9_U400-V3_U500-C11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-V3</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-C11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="eed45ef7-ccf7-4c97-90ac-d77cfbdefa0a" Name="DQ10_U400-P4_U500-E11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P4</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-E11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="eb6ad7e2-5143-452e-b98f-e72a49cf4b80" Name="DQ11_U400-R4_U500-F11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R4</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-F11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="57196b67-b330-4a70-b067-3c09a1f5d9d1" Name="DQ12_U400-R6_U500-F9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R6</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-F9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="feea8b79-6280-42c0-90f4-da98a94648ef" Name="DQ13_U400-N4_U500-E9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-N4</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-E9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="4ee05812-f758-4508-a099-e57aa42c761a" Name="DQ14_U400-P6_U500-C9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P6</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-C9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="524a61d4-f21e-49cc-813e-2c671fa6d60a" Name="DQ15_U400-N5_U500-B9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-N5</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-B9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="373ba9d9-38f2-4cb6-b4c7-e7a8e813798b" Name="DQ16_U400-T11_U500-AA2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T11</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-AA2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7e6b81dd-2654-46c3-90ac-dafcc27edd8a" Name="DQ17_U400-U12_U500-Y2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U12</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-Y2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="37e079ae-5102-4d81-8d31-8b16a2211377" Name="DQ18_U400-T12_U500-V2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T12</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-V2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="9828bdfb-d9c2-4d88-8aea-ba4bac967828" Name="DQ19_U400-U9_U500-U2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U9</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-U2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="695b1f4b-348b-471c-b5c5-2b90661f1f55" Name="DQ20_U400-T6_U500-U4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T6</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-U4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="e1ad7cfa-1cac-493b-a293-18b2d5790f5d" Name="DQ21_U400-U5_U500-V4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U5</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-V4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="2712cc28-2dae-4605-94d4-605e06d73f4d" Name="DQ22_U400-T7_U500-Y4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T7</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-Y4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="c632fe86-7748-410e-90ea-d0bfdadd1eb8" Name="DQ23_U400-T5_U500-AA4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T5</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-AA4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="aa4c4938-6ec4-4126-8e2d-96c6613ff0f4" Name="DQ24_U400-R9_U500-AA11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R9</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-AA11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="5390ff3c-46bc-4b7f-851e-bfc3384f6826" Name="DQ25_U400-P7_U500-Y11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P7</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-Y11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="3c4816a0-1497-4815-be4a-50acdb87f365" Name="DQ26_U400-N7_U500-V11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-N7</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-V11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="69f2041b-7ecc-468c-ade1-0d0691ecf030" Name="DQ27_U400-P9_U500-U11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P9</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-U11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7bbd380b-b87b-459c-b1ce-703dcb661db8" Name="DQ28_U400-P10_U500-U9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P10</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-U9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="81cec4a9-8e95-44b2-b358-07ad06812020" Name="DQ29_U400-U11_U500-V9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U11</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-V9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="46509087-bb31-4064-a31a-4abcfbad3bd6" Name="DQ30_U400-P12_U500-Y9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-P12</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-Y9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="ceb521f5-f25d-4817-8cb8-69655ea9ec82" Name="DQ31_U400-R12_U500-AA9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R12</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-AA9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="43fe6cbf-5835-4f84-b256-04df1b857b55" Name="DQM0_U400-U1_U500-C3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U1</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-C3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="9b447146-3f37-40f7-a4a9-d3abef3a59af" Name="DQM1_U400-R3_U500-C10" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R3</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-C10</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="cfd59be8-645e-485b-884a-d3e42390305f" Name="DQM2_U400-T9_U500-Y3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-T9</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-Y3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="6ea4808e-8df8-498a-8cb5-d8d1be964e8a" Name="DQM3_U400-N10_U500-Y10" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-N10</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-Y10</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="3cf4b828-9c33-4fd4-b589-915b3b8e8b3a" Name="DQS0_N_U400-R1_U500-E3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R1</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-E3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="f56dccf2-a58a-4b00-907b-bbf9a2af81d9" Name="DQS0_P_U400-R2_U500-D3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-R2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-D3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="0b5afc3d-e926-4eff-a3e6-ddd7af007f16" Name="DQS1_N_U400-V2_U500-E10" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-V2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-E10</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7f8ce0b8-9ef3-47bc-80b9-b30a61bd2fed" Name="DQS1_P_U400-U2_U500-D10" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U2</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-D10</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="b6c8b1bb-6560-40a4-9f64-c94c9bcceaa0" Name="DQS2_N_U400-U8_U500-V3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U8</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-V3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="2f756828-8dfe-48ec-94a8-b996050170e4" Name="DQS2_P_U400-V8_U500-W3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-V8</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-W3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="837e0710-348d-4190-b8fb-fc14926465cd" Name="DQS3_N_U400-U10_U500-V10" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-U10</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-V10</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="16310e08-03c6-43d0-a96d-ff89be2c8e77" Name="DQS3_P_U400-V10_U500-W10" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\SMGXFTPK\IFRQUCWE\EOPTSEFH-V10</string>
+        <string>\SMGXFTPK\IFRQUCWE\IMMOPGJD-W10</string>
       </Primitives>
     </CPinPair>
   </CPinPairs>
   <CxSigClasses>
-    <CxSigClass Id="7b6c15b8-f0a4-4615-ae0f-7174f2b1516c" Name="xDDR_ADDR_CTRL" IsPredefined="false">
+    <CxSigClass Id="940aee9d-0ec0-41f9-b881-714293df497e" Name="xDDR_ADDR_CTRL" IsPredefined="false">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <CPinPairs>
         <CPinPair Id="d9ec1641-6b05-40eb-887c-2389105aa3b5" />
-        <CPinPair Id="b2eeb4fb-f38e-418d-bd34-7a9a61e106af" />
+        <CPinPair Id="e935f9b7-9847-49f9-b641-2a7467988db6" />
         <CPinPair Id="338388cb-6e93-4ece-afea-509d74fae838" />
-        <CPinPair Id="43820bbb-9a99-451f-9a94-5a5bf6ab67e0" />
+        <CPinPair Id="dc457c49-8c30-4172-85bb-050668438363" />
         <CPinPair Id="bdb81671-5500-4243-ab2e-78fb1a1eb322" />
-        <CPinPair Id="dee611e7-53ee-4004-8063-c4e4e3ed08a8" />
+        <CPinPair Id="00e4eda3-5f38-4efe-b722-337c2419f55c" />
         <CPinPair Id="bec5b040-4c3b-4307-9d71-6611bbaae3fa" />
-        <CPinPair Id="fc13d516-658a-416f-a0d4-b671d691e34c" />
+        <CPinPair Id="9a68be02-f058-4f93-9825-10527d1ee36e" />
         <CPinPair Id="297aaab1-6d6a-4ad4-8d59-ad3112e8d1dd" />
-        <CPinPair Id="399c4595-163d-4540-9bcc-0c7cf89a83b1" />
+        <CPinPair Id="cee1cc4d-155e-4563-99e3-bba17d898329" />
         <CPinPair Id="364e2d96-3577-4504-bac5-a6d9fbd696cc" />
-        <CPinPair Id="d182ebe2-d430-4bcb-8eb8-992b6af2ec2c" />
+        <CPinPair Id="db60989b-9e07-43eb-81b9-2ae8a5cabfce" />
         <CPinPair Id="18d268a1-4126-4894-8687-12a0117fa76e" />
         <CPinPair Id="3fc9c041-13ef-4e54-8664-dde3d0259eef" />
         <CPinPair Id="d1cd2654-bb08-4ccb-9e79-e824e754a8a4" />
@@ -1980,113 +2627,147 @@
         <CPinPair Id="c3876aff-dd62-4d0f-bdcf-c6fba57cf95b" />
         <CPinPair Id="70309019-ddd7-4c7b-a8f6-42df3baa28fc" />
         <CPinPair Id="09f99581-250d-4957-8251-2b8ab49f2efe" />
-        <CPinPair Id="73790836-061d-4234-8f7d-b5651e041f44" />
+        <CPinPair Id="b9f6a4fb-6786-48c9-ae98-ef743f830e9e" />
         <CPinPair Id="fc011110-ed2c-4f3b-8691-a6d52feb445d" />
-        <CPinPair Id="bd262b08-8cde-43f2-b0da-8da23dd1ac3c" />
+        <CPinPair Id="940dc03a-9d6c-4a85-a2fd-7c4b07d8d5e4" />
+      </CPinPairs>
+    </CxSigClass>
+    <CxSigClass Id="1f589b7b-8e64-4e4a-a961-be1297172f69" Name="xDDR_BYTE0" IsPredefined="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CPinPairs>
+        <CPinPair Id="fddee84a-a786-4e79-9c1e-343227d00639" />
+        <CPinPair Id="4a7a1143-6224-47fb-b017-8e6a2bd75b35" />
+        <CPinPair Id="3322abd8-b28c-46e8-95c7-b6f1263f4aa5" />
+        <CPinPair Id="27954d85-6cdf-4b8f-937d-9375d268ac34" />
+        <CPinPair Id="0ec65c99-3701-4f24-baed-f89c7cab5558" />
+        <CPinPair Id="1117dcf5-c083-405b-b7e3-0d0c429c2fdf" />
+        <CPinPair Id="235470f3-d545-4aa0-920f-578e91adc4e9" />
+        <CPinPair Id="2c999ef1-8a76-4a3d-a5b2-70d65d8f40fd" />
+        <CPinPair Id="43fe6cbf-5835-4f84-b256-04df1b857b55" />
+        <CPinPair Id="3cf4b828-9c33-4fd4-b589-915b3b8e8b3a" />
+        <CPinPair Id="f56dccf2-a58a-4b00-907b-bbf9a2af81d9" />
+      </CPinPairs>
+    </CxSigClass>
+    <CxSigClass Id="aa27ec0b-39bf-4f72-bc04-cb44afc0a8a9" Name="xDDR_BYTE1" IsPredefined="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CPinPairs>
+        <CPinPair Id="ab89ed65-d691-4b56-b38e-e6146f181f30" />
+        <CPinPair Id="3b9b7701-77c6-4fa5-96ac-894a89f86883" />
+        <CPinPair Id="eed45ef7-ccf7-4c97-90ac-d77cfbdefa0a" />
+        <CPinPair Id="eb6ad7e2-5143-452e-b98f-e72a49cf4b80" />
+        <CPinPair Id="57196b67-b330-4a70-b067-3c09a1f5d9d1" />
+        <CPinPair Id="feea8b79-6280-42c0-90f4-da98a94648ef" />
+        <CPinPair Id="4ee05812-f758-4508-a099-e57aa42c761a" />
+        <CPinPair Id="524a61d4-f21e-49cc-813e-2c671fa6d60a" />
+        <CPinPair Id="9b447146-3f37-40f7-a4a9-d3abef3a59af" />
+        <CPinPair Id="0b5afc3d-e926-4eff-a3e6-ddd7af007f16" />
+        <CPinPair Id="7f8ce0b8-9ef3-47bc-80b9-b30a61bd2fed" />
+      </CPinPairs>
+    </CxSigClass>
+    <CxSigClass Id="b1c210f1-2e88-44a3-8641-fab81b388a68" Name="xDDR_BYTE2" IsPredefined="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CPinPairs>
+        <CPinPair Id="373ba9d9-38f2-4cb6-b4c7-e7a8e813798b" />
+        <CPinPair Id="7e6b81dd-2654-46c3-90ac-dafcc27edd8a" />
+        <CPinPair Id="37e079ae-5102-4d81-8d31-8b16a2211377" />
+        <CPinPair Id="9828bdfb-d9c2-4d88-8aea-ba4bac967828" />
+        <CPinPair Id="695b1f4b-348b-471c-b5c5-2b90661f1f55" />
+        <CPinPair Id="e1ad7cfa-1cac-493b-a293-18b2d5790f5d" />
+        <CPinPair Id="2712cc28-2dae-4605-94d4-605e06d73f4d" />
+        <CPinPair Id="c632fe86-7748-410e-90ea-d0bfdadd1eb8" />
+        <CPinPair Id="cfd59be8-645e-485b-884a-d3e42390305f" />
+        <CPinPair Id="b6c8b1bb-6560-40a4-9f64-c94c9bcceaa0" />
+        <CPinPair Id="2f756828-8dfe-48ec-94a8-b996050170e4" />
+      </CPinPairs>
+    </CxSigClass>
+    <CxSigClass Id="8709bf64-4dec-48d0-8352-a8f5c25bd8b0" Name="xDDR_BYTE3" IsPredefined="false">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CPinPairs>
+        <CPinPair Id="aa4c4938-6ec4-4126-8e2d-96c6613ff0f4" />
+        <CPinPair Id="5390ff3c-46bc-4b7f-851e-bfc3384f6826" />
+        <CPinPair Id="3c4816a0-1497-4815-be4a-50acdb87f365" />
+        <CPinPair Id="69f2041b-7ecc-468c-ade1-0d0691ecf030" />
+        <CPinPair Id="7bbd380b-b87b-459c-b1ce-703dcb661db8" />
+        <CPinPair Id="81cec4a9-8e95-44b2-b358-07ad06812020" />
+        <CPinPair Id="46509087-bb31-4064-a31a-4abcfbad3bd6" />
+        <CPinPair Id="ceb521f5-f25d-4817-8cb8-69655ea9ec82" />
+        <CPinPair Id="6ea4808e-8df8-498a-8cb5-d8d1be964e8a" />
+        <CPinPair Id="837e0710-348d-4190-b8fb-fc14926465cd" />
+        <CPinPair Id="16310e08-03c6-43d0-a96d-ff89be2c8e77" />
       </CPinPairs>
     </CxSigClass>
   </CxSigClasses>
   <CxNets>
     <CxNet Id="29c97c62-864c-4018-83ad-7f994f0d5903" Name="A0">
-      <Constraints>
-        <Constraint Id="a0f8d276-3887-4f22-9ef9-ff322a74b687" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="56e0a2bf-0d1d-49ce-8a7a-ab6dd10b42f1" PinUniqueId="NZNLKXFU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="cfa5bf4f-5498-4366-af49-2c46b1324f01" PinUniqueId="FWWTHIBZ" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="68971d96-237b-4553-94ff-3170329968b4" PinUniqueId="QCXKDGCO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="a1fa43d4-381d-46f3-991a-832bdf9ff287" />
       </CNets>
       <CPinPairs />
     </CxNet>
     <CxNet Id="560d3e4d-2cf3-4071-a6c1-12c2a25c598c" Name="A1">
-      <Constraints>
-        <Constraint Id="262af426-b939-4e87-ad12-c418d28c274e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="e1bf12f2-3fe2-4070-b17a-590f28bb12d7" PinUniqueId="ZXNMGHBS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="8508fd3c-ad63-4cee-9747-b17bbf703fb7" PinUniqueId="BLWDEKRT" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="94f80430-4987-435c-9481-6e0d3c324a45" PinUniqueId="OKYZMNBS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="aef98bbe-47d5-415c-a293-9273b1bbce51" />
       </CNets>
       <CPinPairs />
     </CxNet>
     <CxNet Id="1d8fa440-5c82-4626-829a-1fdf60a73336" Name="A2">
-      <Constraints>
-        <Constraint Id="79386986-03fc-4ec8-8fc2-7e324a800a69" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="ed616f56-7828-44d3-ae1e-5e315f2452ea" PinUniqueId="RABHWULY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="80781abe-326e-4454-b0bf-78f7d8373d9f" PinUniqueId="FUUIUTVV" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="2af3d306-1df4-49f4-b3ee-160a1e0d9faa" PinUniqueId="SHXRENCB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="fac008d4-7e38-4d8e-b349-492cb46ca3f1" />
       </CNets>
       <CPinPairs />
     </CxNet>
     <CxNet Id="933c6120-6f9c-4fca-8941-4c7131bd2abc" Name="A3">
-      <Constraints>
-        <Constraint Id="fddd9a4e-06cf-4b8b-9fdc-df6406d0688e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="924d7874-2410-4c0c-98b9-771fe7212191" PinUniqueId="ISXXZZTU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="21cb47da-6951-41a4-a0b3-48230233a351" PinUniqueId="GHTQGCHN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="17cdd878-e803-4ec9-8e67-7c0c13833963" PinUniqueId="QUCKKTAC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="829c32c3-bf08-45a3-a6e1-b1526b58f93d" />
       </CNets>
       <CPinPairs />
     </CxNet>
     <CxNet Id="3bf997ca-2723-4384-b2c3-b77d17444e36" Name="A4">
-      <Constraints>
-        <Constraint Id="eefb901c-f83f-4e39-a8bf-bc10fb6ae4c3" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="0bcf35f4-22bf-4111-a459-ec919ad6c2d6" PinUniqueId="IAGKEDYM" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="e72a05a7-d4c3-486a-b8ed-af8969b1591d" PinUniqueId="QWPDJIEB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="f6a6ec27-8895-42aa-8771-88c0cb541b6b" PinUniqueId="HFNPPFSS" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="380f8e6c-112b-4f4b-8cfe-afb75db01bff" />
       </CNets>
       <CPinPairs />
     </CxNet>
     <CxNet Id="0d2b8832-8a23-4e61-aed1-8abe13f4f522" Name="A5">
-      <Constraints>
-        <Constraint Id="a3fbcfcf-57de-4d89-b5aa-f3fdbda85b0d" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="cef69b03-1c6c-4b28-88ea-4eae775ab1c1" PinUniqueId="IVLMLWZP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="e2e661c5-e807-4240-b11f-426c1d456753" PinUniqueId="FVJKCDHU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="94e8389b-3d87-43ed-828f-31b1f0348be6" PinUniqueId="TLLZMBWO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="ee4eebc3-0db0-4bfb-b3b0-5ab3c20f18ce" />
       </CNets>
       <CPinPairs />
     </CxNet>
     <CxNet Id="dfae2bfb-9627-4efb-a099-826f5075cde4" Name="CK_N">
-      <Constraints>
-        <Constraint Id="29375a44-1494-4ef3-a776-f3c4d31a6174" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CK_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes />
@@ -2097,132 +2778,482 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="7b8f6b08-4840-4da1-9654-69acde60c1d3" Name="CKE0">
-      <Constraints>
-        <Constraint Id="eebea073-4179-4a5b-bdeb-836cd810be87" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CKE0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="eb8595be-dc19-4a0d-a8c4-6de5abff6933" PinUniqueId="AHJUCAYR" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="3e2a75aa-8c2b-4fcd-88a7-2261e0478f83" PinUniqueId="DJMHUNJW" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="6c260397-f465-49af-b708-8850311bb3b1" PinUniqueId="KVRGZLCN" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="3" FromToRole="2" FromToOrderId="2" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="e3429803-b608-49ba-8458-9ea866d50a0e" />
       </CNets>
       <CPinPairs />
     </CxNet>
     <CxNet Id="508056aa-f789-4b37-af81-32e815a25d78" Name="CKE1">
-      <Constraints>
-        <Constraint Id="168e5175-3200-40e1-8fd8-f6ac7f6a824f" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CKE1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="516bcf0a-2c9c-4b2d-8f13-df5d6179cef3" PinUniqueId="EOWNTQPK" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="9278115c-7f87-4fe3-92b9-f5deb91a0a18" PinUniqueId="QTDZKKSD" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="27244f2f-b1e5-4ceb-9c2d-f68b1d65de8d" PinUniqueId="OEYSCCOP" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="03117c5d-47d0-4d3b-aaac-e38783763c30" />
       </CNets>
       <CPinPairs />
     </CxNet>
     <CxNet Id="67736d50-e65d-46bc-8561-772a8ce9cf38" Name="CS0">
-      <Constraints>
-        <Constraint Id="b43481d2-d9df-442c-93c8-3acc556ee716" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CS0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="ab377ff1-196c-4c3f-a82d-4cdbbe4a6c9b" PinUniqueId="AKALKFPB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="8b141bc0-3e66-435f-b2c2-096fbabf9228" PinUniqueId="IECIWELU" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="504c3468-2f31-4acf-9017-335877fbf955" PinUniqueId="GLPTLKOC" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="72337ab9-6657-4e69-819c-6f615b286efa" />
       </CNets>
       <CPinPairs />
     </CxNet>
     <CxNet Id="c0f5e581-49c9-470c-a7d1-ec5009639692" Name="CS1">
-      <Constraints>
-        <Constraint Id="d377cb7a-24b3-4858-a426-ffd4ecde3a54" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CS1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
-      </Constraints>
+      <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="525b39cb-4eb9-4275-8546-1f7891dac0db" PinUniqueId="LZZHPZJB" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\EOPTSEFH" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
-        <ConstraintNode Id="49bcac15-9431-4caf-8b63-837325f9d202" PinUniqueId="CKHTQZZO" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="637f79dc-22fe-459e-8895-bd15e7b634f4" PinUniqueId="HQPQJQPY" ComponentUniqueId="\SMGXFTPK\IFRQUCWE\IMMOPGJD" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
-      </ConstraintNodes>
+      <ConstraintNodes />
       <CNets>
         <CNet Id="55e08d22-d7b8-4463-9809-7d1e77aa51ea" />
       </CNets>
       <CPinPairs />
     </CxNet>
-    <CxNet Id="ec445971-7ef3-4725-9ad8-4b7b96d280ef" Name="NetJ900_5">
+    <CxNet Id="5658a5e1-6438-4a1d-97b3-a98459aeee4a" Name="DQ0">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes />
       <CNets>
-        <CNet Id="bb305fba-c5be-4c52-9707-d6a0a6097d8b" />
-        <CNet Id="faaffee2-79fe-4ff8-ada6-b97e0db44619" />
+        <CNet Id="66e869c7-d381-474c-b5cb-d24141ea476b" />
       </CNets>
       <CPinPairs />
     </CxNet>
-    <CxNet Id="b13a2432-d1ec-40a4-a2a2-fa29ac65d3c5" Name="NetJ900_3">
+    <CxNet Id="ad7cb477-9210-43d8-a728-6ef4ee87c2c4" Name="DQ1">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes />
       <CNets>
-        <CNet Id="435f0d2a-7965-45b6-8e76-888917796993" />
-        <CNet Id="5eef5c85-b48e-4412-bc83-f944900653d9" />
+        <CNet Id="4b8cbb78-468e-41cd-b7d5-25ccc28e9d6f" />
       </CNets>
       <CPinPairs />
     </CxNet>
-    <CxNet Id="c09f6b39-4a18-42ab-89d2-fbc90c0209a2" Name="NetJ900_7">
+    <CxNet Id="04d173a1-c8de-4b83-a886-16c4cfaf3904" Name="DQ2">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes />
       <CNets>
-        <CNet Id="231e754d-21a1-4524-8d2e-dd7bd30e427c" />
-        <CNet Id="6f7a5509-0c30-4861-8de3-785ffc82d3af" />
+        <CNet Id="2b38387c-6d60-4ef2-a613-a841e3e3c7cd" />
       </CNets>
       <CPinPairs />
     </CxNet>
-    <CxNet Id="e5d3d679-2d6e-4535-bcc0-406480c6258d" Name="NetJ900_8">
+    <CxNet Id="c0569288-1e1d-40ad-bfe6-66c64153ed3d" Name="DQ3">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes />
       <CNets>
-        <CNet Id="86a99833-d96d-4d57-938a-dca25feb8874" />
-        <CNet Id="5cee5526-3273-474f-a278-bfba3a1a5a17" />
+        <CNet Id="fa9aea1c-f139-4abd-8c35-93ab1a63084e" />
       </CNets>
       <CPinPairs />
     </CxNet>
-    <CxNet Id="1e2838fc-62e3-4032-a35f-02b7247f06f6" Name="NetJ900_1">
+    <CxNet Id="07fd40fe-2575-4879-8b50-91d3ab4f3436" Name="DQ4">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes />
       <CNets>
-        <CNet Id="72ee36d3-b218-4ba6-9755-99e0ae3c17bd" />
-        <CNet Id="00086cc2-ea97-4c82-aed3-21e60abb031d" />
+        <CNet Id="de35702b-7d45-4035-9400-fde0a1823219" />
       </CNets>
       <CPinPairs />
     </CxNet>
-    <CxNet Id="ef205e3f-5bd7-4539-ac65-66ac31228a88" Name="NetJ900_2">
+    <CxNet Id="711c9e28-dd48-4acf-a9bf-bc54128b2b76" Name="DQ5">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes />
       <CNets>
-        <CNet Id="93e72f16-a87e-434c-9979-654dcdec937c" />
-        <CNet Id="f82c901c-c6f7-4092-8be1-d33040a970cf" />
+        <CNet Id="98ffe9fd-d035-4a8e-893d-bb9b979f1bd9" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="25925766-ca9b-47cf-ace0-8295e4c5b114" Name="DQ6">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="da12e74a-ce62-400c-a9d6-be8e4fde9c64" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="28d90aed-7818-4b2f-bfc2-a88e4704fd19" Name="DQ7">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="b302a71d-1581-4231-ac16-c0e5df854367" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="f0140e49-01dd-4aa9-8757-9db4586b93df" Name="DQM0">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="127b782a-c25a-4251-a0d4-0c056647f12b" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="8abda8ba-9a9b-4ad8-95cd-aecac85a68ef" Name="DQS0_N">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="192ca710-e7f7-4c36-a851-d092fee3a865" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="90dd1e91-d6f0-4fea-add2-c1263cdc4e24" Name="DQS0_P">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="b5cdba0b-80d4-442b-ae20-15ba90d194b8" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="69712950-67e1-4892-b30a-95502f184caa" Name="DQ8">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="510774c7-d880-4073-a759-8c4459cec267" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="cbe8dd55-da8e-4594-b46d-0df7f3bf7f73" Name="DQ9">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="e4ee8a08-9769-4587-8e0b-5f69bbebafa5" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="fcec0ff1-3ec6-47dd-9ffd-f9eea72b313b" Name="DQ10">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="7949132b-439b-45d6-aa13-4fd9e0376d9c" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="782c0184-cf66-4afe-a0eb-2a7771f73b7d" Name="DQ11">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="099e996b-9e25-459b-afdc-9ed56e463dc9" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="24305067-652e-4737-848a-67594d4cef76" Name="DQ12">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="fe34b195-3e00-4b39-9568-7fc381c343f3" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="cdc116bf-a3ce-466c-acdc-acc03acc72e7" Name="DQ13">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="0fe55c1c-2b11-4a91-afd4-91ef4a4b1cb2" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="33e91656-76c7-41c7-a3e3-b9d1d7fcf523" Name="DQ14">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="ad6f5c49-477f-40d7-b00a-e3af1d70a7d5" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="e9cb44cc-61ec-4a8a-8780-dd30907c301e" Name="DQ15">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="9ef45b42-a7cc-466c-b03f-6136d88f5f9c" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="680ece9e-1b5b-4060-830b-6a0dee9c6e1e" Name="DQM1">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="2a560884-5775-466c-9c75-25db9a017d09" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="4f65f1d9-3074-42f9-8989-2967b0fc53a9" Name="DQS1_N">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="515e4788-f281-454a-a8ea-6f1427d2bacc" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="dab7b443-8412-4a22-a6dd-e325d601426e" Name="DQS1_P">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="ff2496d8-8a9b-468d-8bfb-666d70da23b2" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="fda892a2-cbb2-408a-a55f-592e33c5ab2f" Name="DQ16">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="563e429c-09ef-4be8-a41b-7f78bdba2afc" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="0cf35273-b48e-4463-a457-f5b3508d3cd5" Name="DQ17">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="79cbe48b-90d2-4d1e-ad92-18d480b96573" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="d03fc104-4dce-44de-a2d4-549344780cb1" Name="DQ18">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="16276f9f-6a7b-41e9-8afd-d97e54655c54" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="b54a8f80-7f5d-44fd-b7ea-b3ea89d68cec" Name="DQ19">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="a598afb3-5a06-4aad-ac49-b6ac9f7699fd" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="7dccc65e-8256-42f3-8ba0-880290f08221" Name="DQ20">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="4485b576-c015-4b23-8f60-188d396c7fcc" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="3e224c5b-9d63-443f-acbb-d4658cfd73b9" Name="DQ21">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="5c5874e4-c6a6-4bdc-a7e3-60d935894c6f" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="e5c7f5f9-5200-47c3-995b-2b5f15146ac5" Name="DQ22">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="b568e786-5097-45bc-a51e-1258a451ef9e" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="00e71479-385a-45d1-8bad-30ff6ea6ba18" Name="DQ23">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="b2374a01-efb1-487c-8233-f0137e20972d" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="d426db67-20e3-4ffd-ac25-773cc29a477e" Name="DQM2">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="ad9ba013-9bfd-42c7-8e9b-08e86a9b4017" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="51ea8fd4-04f1-43ff-9d80-57180d496315" Name="DQS2_N">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="e1fb4784-9dfb-41b7-ab3c-700ad6d06bcb" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="3498fc1d-5bce-401b-8aa3-e79187190af3" Name="DQS2_P">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="41994b9b-d6d8-4aef-95bf-f26ab1b605c9" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="27e8da2f-d6ef-4122-bcc1-678d2742862a" Name="DQ24">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="4e5b97ce-3206-4461-ae22-5bf2484d2dd1" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="3411850b-88a8-47be-b278-33487343ea90" Name="DQ25">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="6ed40065-2bed-41f9-868f-db0331c4851c" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="44796a60-d56e-4142-9015-6ba250bb9b8b" Name="DQ26">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="7ea33dff-5096-49ed-88b3-0102f17b4b60" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="1d160218-6904-4314-b846-5feee96b1ab2" Name="DQ27">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="5f6dd105-75f5-4b3c-8d50-4d4a7cf1ac51" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="94523c83-222c-4d44-a905-2193f64cd5c6" Name="DQ28">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="01cf7987-13b4-4561-b48e-b807be05e84f" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="fc7e2cb4-bf40-4741-860b-a544ef9941c2" Name="DQ29">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="3042ddb8-e32c-4a72-8f1a-68177dfa67b4" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="502b2571-0c3a-4459-9d82-84814fb5062a" Name="DQ30">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="51c2f847-44e9-4ba4-bc1e-ae396e222065" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="4ca0e9ba-3183-4a05-8fb8-2760cbfab8b4" Name="DQ31">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="e505a5e4-e739-4a4a-bdeb-5b2af05b937a" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="24a6e35f-061a-42b0-8ddd-6854ca7a7a8c" Name="DQM3">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="5d6e03d2-bd3a-4b15-ae8d-83808f9df7f3" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="517f6d0d-30a6-49db-8c1d-a3cab2f865ab" Name="DQS3_N">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="c3dc969f-e8df-4051-a321-7b1e154c934f" />
+      </CNets>
+      <CPinPairs />
+    </CxNet>
+    <CxNet Id="22828199-6652-42e5-8ec3-53303f4c1276" Name="DQS3_P">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+      <CNets>
+        <CNet Id="45317266-5274-433b-8d44-7fd52d469d3a" />
       </CNets>
       <CPinPairs />
     </CxNet>
