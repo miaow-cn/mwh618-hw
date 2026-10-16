@@ -500,20 +500,20 @@ Variation14=Designator=C603|UniqueId=\SMGXFTPK\DFJAIGWS\NSFTYXEO|Kind=1|Alternat
 ParamVariationCount=0
 
 [Parameter1]
-Name=Url
-Value=github.com/miaow-cn/mwh618-hw
+Name=Board
+Value=MWH618
 
 [Parameter2]
-Name=Sample
-Value=A0
-
-[Parameter3]
 Name=License
 Value=CERN-OHL-S-2.0 license
 
+[Parameter3]
+Name=Sample
+Value=A0
+
 [Parameter4]
-Name=Board
-Value=MWH618
+Name=Url
+Value=github.com/miaow-cn/mwh618-hw
 
 [Configuration1]
 Name=Sources
