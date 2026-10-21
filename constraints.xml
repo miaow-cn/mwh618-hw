@@ -1677,7 +1677,7 @@
     </CDifferentialPairClass>
     <CDifferentialPairClass Id="eb5334d2-11d7-4e82-8f6d-0cd35bafde12" Name="DIFF_HDMI" IsPredefined="false">
       <Constraints>
-        <Constraint Id="9cec5af8-69f2-42b9-a13a-1db1640e6f76" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 4mil    Min Gap  = 5.5mil    Max Gap  = 5.5milPref Width = 3.9mil    Min Width  = 3.7mil    Max Width  = 3.9mil]" Scope1="InDifferentialPairClass('DIFF_HDMI')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=5.5mil|MINLIMIT=5.5mil|MOSTFREQGAP=4mil|TOPLAYER_MINWIDTH=3.9mil|TOPLAYER_MAXWIDTH=3.9mil|TOPLAYER_PREFWIDTH=3.9mil|MIDLAYER2_MINWIDTH=3.7mil|MIDLAYER2_MAXWIDTH=3.7mil|MIDLAYER2_PREFWIDTH=3.5mil|BOTTOMLAYER_MINWIDTH=3.9mil|BOTTOMLAYER_MAXWIDTH=3.9mil|BOTTOMLAYER_PREFWIDTH=3.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={65A994DE-E836-499B-8B24-34194FE23599}|IMPEDANCEPROFILEVALUE=100.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
+        <Constraint Id="9cec5af8-69f2-42b9-a13a-1db1640e6f76" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 4mil    Min Gap  = 4mil    Max Gap  = 4milPref Width = 3.9mil    Min Width  = 3.5mil    Max Width  = 3.9mil]" Scope1="InDifferentialPairClass('DIFF_HDMI')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=4mil|MINLIMIT=4mil|MOSTFREQGAP=4mil|TOPLAYER_MINWIDTH=3.9mil|TOPLAYER_MAXWIDTH=3.9mil|TOPLAYER_PREFWIDTH=3.9mil|MIDLAYER2_MINWIDTH=3.5mil|MIDLAYER2_MAXWIDTH=3.5mil|MIDLAYER2_PREFWIDTH=3.5mil|BOTTOMLAYER_MINWIDTH=3.9mil|BOTTOMLAYER_MAXWIDTH=3.9mil|BOTTOMLAYER_PREFWIDTH=3.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={65A994DE-E836-499B-8B24-34194FE23599}|IMPEDANCEPROFILEVALUE=100.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
         <Constraint Id="b0c9ed38-7c70-4ebc-b9de-48dd60eb51f0" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 100.0    Max = 100.0    ]" Scope1="InDifferentialPairClass('DIFF_HDMI')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=100.0|MAXIMUM=100.0|DOC=mwh618.pcbdoc" />
         <Constraint Id="2aee4b39-d038-41e9-b7f6-816811a9d10e" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 12mil]" Scope1="InDifferentialPairClass('DIFF_HDMI')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=12mil|CHECKNETSINDIFFPAIR=TRUE|CHECKDIFFPAIRVSDIFFPAIR=FALSE|CHECKXSIGNALS=FALSE|CHECKOTHERS=FALSE|DOC=mwh618.pcbdoc" />
       </Constraints>
@@ -1693,7 +1693,7 @@
     </CDifferentialPairClass>
     <CDifferentialPairClass Id="c5af8d55-a946-4bed-9539-fd15cf303e31" Name="DIFF_EPHY" IsPredefined="false">
       <Constraints>
-        <Constraint Id="aa77777e-4b4c-4dd4-ade4-39b1b7b0c2b6" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 4mil    Min Gap  = 5.5mil    Max Gap  = 5.5milPref Width = 3.9mil    Min Width  = 3.7mil    Max Width  = 3.9mil]" Scope1="InDifferentialPairClass('DIFF_EPHY')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=5.5mil|MINLIMIT=5.5mil|MOSTFREQGAP=4mil|TOPLAYER_MINWIDTH=3.9mil|TOPLAYER_MAXWIDTH=3.9mil|TOPLAYER_PREFWIDTH=3.9mil|MIDLAYER2_MINWIDTH=3.7mil|MIDLAYER2_MAXWIDTH=3.7mil|MIDLAYER2_PREFWIDTH=3.5mil|BOTTOMLAYER_MINWIDTH=3.9mil|BOTTOMLAYER_MAXWIDTH=3.9mil|BOTTOMLAYER_PREFWIDTH=3.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={65A994DE-E836-499B-8B24-34194FE23599}|IMPEDANCEPROFILEVALUE=100.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
+        <Constraint Id="aa77777e-4b4c-4dd4-ade4-39b1b7b0c2b6" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 4mil    Min Gap  = 4mil    Max Gap  = 4milPref Width = 3.9mil    Min Width  = 3.5mil    Max Width  = 3.9mil]" Scope1="InDifferentialPairClass('DIFF_EPHY')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=4mil|MINLIMIT=4mil|MOSTFREQGAP=4mil|TOPLAYER_MINWIDTH=3.9mil|TOPLAYER_MAXWIDTH=3.9mil|TOPLAYER_PREFWIDTH=3.9mil|MIDLAYER2_MINWIDTH=3.5mil|MIDLAYER2_MAXWIDTH=3.5mil|MIDLAYER2_PREFWIDTH=3.5mil|BOTTOMLAYER_MINWIDTH=3.9mil|BOTTOMLAYER_MAXWIDTH=3.9mil|BOTTOMLAYER_PREFWIDTH=3.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={65A994DE-E836-499B-8B24-34194FE23599}|IMPEDANCEPROFILEVALUE=100.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
         <Constraint Id="d0b2a757-d125-4a89-9764-8b48641807fe" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 100.0    Max = 100.0    ]" Scope1="InDifferentialPairClass('DIFF_EPHY')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=100.0|MAXIMUM=100.0|DOC=mwh618.pcbdoc" />
         <Constraint Id="3764adb0-0cc4-49ef-bfe2-33902a70e698" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 5mil]" Scope1="InDifferentialPairClass('DIFF_EPHY')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=5mil|CHECKNETSINDIFFPAIR=TRUE|CHECKDIFFPAIRVSDIFFPAIR=FALSE|CHECKXSIGNALS=FALSE|CHECKOTHERS=FALSE|DOC=mwh618.pcbdoc" />
       </Constraints>
@@ -1723,7 +1723,7 @@
     </CDifferentialPairClass>
     <CDifferentialPairClass Id="fcaeebca-37c6-47ae-ae05-0b2865458988" Name="DIFF_DDR" IsPredefined="false">
       <Constraints>
-        <Constraint Id="dcf33f71-40b2-4b95-a15e-7d9fbe68f4d4" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 4mil    Min Gap  = 5.5mil    Max Gap  = 5.5milPref Width = 3.9mil    Min Width  = 3.7mil    Max Width  = 3.9mil]" Scope1="InDifferentialPairClass('DIFF_DDR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=5.5mil|MINLIMIT=5.5mil|MOSTFREQGAP=4mil|TOPLAYER_MINWIDTH=3.9mil|TOPLAYER_MAXWIDTH=3.9mil|TOPLAYER_PREFWIDTH=3.9mil|MIDLAYER2_MINWIDTH=3.7mil|MIDLAYER2_MAXWIDTH=3.7mil|MIDLAYER2_PREFWIDTH=3.5mil|BOTTOMLAYER_MINWIDTH=3.9mil|BOTTOMLAYER_MAXWIDTH=3.9mil|BOTTOMLAYER_PREFWIDTH=3.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={65A994DE-E836-499B-8B24-34194FE23599}|IMPEDANCEPROFILEVALUE=100.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
+        <Constraint Id="dcf33f71-40b2-4b95-a15e-7d9fbe68f4d4" Kind="51" Name="Schematic Differential Pairs Routing" Comment="" Description="Differential Pairs Routing [Pref Gap = 4mil    Min Gap  = 4mil    Max Gap  = 4milPref Width = 3.9mil    Min Width  = 3.5mil    Max Width  = 3.9mil]" Scope1="InDifferentialPairClass('DIFF_DDR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=4mil|MINLIMIT=4mil|MOSTFREQGAP=4mil|TOPLAYER_MINWIDTH=3.9mil|TOPLAYER_MAXWIDTH=3.9mil|TOPLAYER_PREFWIDTH=3.9mil|MIDLAYER2_MINWIDTH=3.5mil|MIDLAYER2_MAXWIDTH=3.5mil|MIDLAYER2_PREFWIDTH=3.5mil|BOTTOMLAYER_MINWIDTH=3.9mil|BOTTOMLAYER_MAXWIDTH=3.9mil|BOTTOMLAYER_PREFWIDTH=3.9mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={65A994DE-E836-499B-8B24-34194FE23599}|IMPEDANCEPROFILEVALUE=100.000000|MAXUNCOUPLEDLENGTH=500mil|DOC=mwh618.pcbdoc" />
         <Constraint Id="1fe0796e-893e-4edc-a41d-7a8e45f186db" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 100.0    Max = 100.0    ]" Scope1="InDifferentialPairClass('DIFF_DDR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=100.0|MAXIMUM=100.0|DOC=mwh618.pcbdoc" />
         <Constraint Id="ee6e31af-8f8b-481b-95ab-1f4d492aed04" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 2mil]" Scope1="InDifferentialPairClass('DIFF_DDR')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=2mil|CHECKNETSINDIFFPAIR=TRUE|CHECKDIFFPAIRVSDIFFPAIR=FALSE|CHECKXSIGNALS=FALSE|CHECKOTHERS=FALSE|DOC=mwh618.pcbdoc" />
       </Constraints>
@@ -2595,7 +2595,62 @@
   <CClearancesMatrixSets />
   <CClearanceFilters />
   <CCMCreepageConstraints />
-  <CImportedDirectiveUniqueIds />
+  <CImportedDirectiveUniqueIds>
+    <CImportedDirectiveUniqueId>HWKEEHXL</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>OKNWTAZZ</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>HFPUNHKA</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>TMKHQSQI</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>FICTQOTS</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>YEVDCERQ</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>VOLFAKAF</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>GAUBUTUB</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>YKRHSONL</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>HWAKATVU</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>EHJZXTQW</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>KOAIDVZC</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>MLIVZQOR</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>GTXYLJJB</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>TUQKXUIN</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>FDALSNRC</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>PHFURHUG</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>JGRPRZBO</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>KCNWIDQB</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>AAPPPJQR</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>TWTTIXZH</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>EGDQFYGM</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>YBZVPQCV</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>BELFZRID</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>QBQRUYZQ</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>GJTWTDNS</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>XNABGUIP</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>BWIFVHJM</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>DQJQCFLV</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>IQFPDKTZ</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>GBCYFQUD</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>DOOOXUZT</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>NJDQAEEJ</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>DZLEPTXZ</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>VLMBUXIR</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>PDOLDOSU</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>MPXBHPIC</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>UBEUUVAI</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>HAVZYHIQ</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>PTVMEGOL</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>ZSMHCHZM</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>OUXJSFJL</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>RICGUHFE</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>BKFAMUCB</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>GEKSPURN</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>NBQMAIKI</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>OINMFTXB</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>UWQLCDXR</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>KNVCWXTK</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>DDAGKVKE</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>RTWMLRAB</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>EHFNOFUH</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>OINCRETT</CImportedDirectiveUniqueId>
+    <CImportedDirectiveUniqueId>FZWXHDON</CImportedDirectiveUniqueId>
+  </CImportedDirectiveUniqueIds>
   <OtherConstraints />
   <NetGroups />
   <XNetDiffPairs />
