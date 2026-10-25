@@ -2708,7 +2708,7 @@
     </CxSigClass>
     <CxSigClass Id="a55df2af-0097-4803-837b-abee309aad80" Name="xDDR_BYTE0" IsPredefined="false">
       <Constraints>
-        <Constraint Id="a1a37f83-9336-4309-a972-6058ac7218e6" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 90mil Target = DQS0_N_U400-R1_U500-V10]" Scope1="InxSignalClass('xDDR_BYTE0')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=90mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=DQS0_N_U400-R1_U500-V10|DOC=mwh618.pcbdoc" />
+        <Constraint Id="a1a37f83-9336-4309-a972-6058ac7218e6" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 180mil Target = DQS0_N_U400-R1_U500-V10]" Scope1="InxSignalClass('xDDR_BYTE0')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=180mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=DQS0_N_U400-R1_U500-V10" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -2728,7 +2728,7 @@
     </CxSigClass>
     <CxSigClass Id="6ff7c380-ff37-4e88-8c5f-e256ed9e4c82" Name="xDDR_BYTE1" IsPredefined="false">
       <Constraints>
-        <Constraint Id="f71e90cd-8abb-456d-86bf-456350ed27bf" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 90mil Target = DQS1_N_U400-V2_U500-V3]" Scope1="InxSignalClass('xDDR_BYTE1')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=90mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=DQS1_N_U400-V2_U500-V3|DOC=mwh618.pcbdoc" />
+        <Constraint Id="f71e90cd-8abb-456d-86bf-456350ed27bf" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 180mil Target = DQS1_N_U400-V2_U500-V3]" Scope1="InxSignalClass('xDDR_BYTE1')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=180mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=DQS1_N_U400-V2_U500-V3" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -2748,7 +2748,7 @@
     </CxSigClass>
     <CxSigClass Id="7345eeb4-33e0-459f-b2b8-21e74d7b3813" Name="xDDR_BYTE2" IsPredefined="false">
       <Constraints>
-        <Constraint Id="08d96228-3fec-46b7-8f78-d9e277be994a" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 90mil Target = DQS2_N_U400-U8_U500-E3]" Scope1="InxSignalClass('xDDR_BYTE2')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=90mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=DQS2_N_U400-U8_U500-E3|DOC=mwh618.pcbdoc" />
+        <Constraint Id="08d96228-3fec-46b7-8f78-d9e277be994a" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 180mil Target = DQS2_N_U400-U8_U500-E3]" Scope1="InxSignalClass('xDDR_BYTE2')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=180mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=DQS2_N_U400-U8_U500-E3" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -2768,7 +2768,7 @@
     </CxSigClass>
     <CxSigClass Id="8222c02f-192a-4f67-a11b-0264406d1e5f" Name="xDDR_BYTE3" IsPredefined="false">
       <Constraints>
-        <Constraint Id="db66202f-eb4c-4600-a716-c9903418c3eb" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 90mil Target = DQS3_N_U400-U10_U500-E10]" Scope1="InxSignalClass('xDDR_BYTE3')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=90mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=DQS3_N_U400-U10_U500-E10|DOC=mwh618.pcbdoc" />
+        <Constraint Id="db66202f-eb4c-4600-a716-c9903418c3eb" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 180mil Target = DQS3_N_U400-U10_U500-E10]" Scope1="InxSignalClass('xDDR_BYTE3')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=180mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=DQS3_N_U400-U10_U500-E10" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -2788,7 +2788,7 @@
     </CxSigClass>
     <CxSigClass Id="ee42f1e1-748b-43de-9f72-caa3ef1c27f0" Name="xDDR_DQS" IsPredefined="false">
       <Constraints>
-        <Constraint Id="a8a9cb01-c9d5-4ebf-9dc2-3ad8f7da6050" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 180mil]" Scope1="InxSignalClass('xDDR_DQS')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=180mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|DOC=mwh618.pcbdoc" />
+        <Constraint Id="a8a9cb01-c9d5-4ebf-9dc2-3ad8f7da6050" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 400mil]" Scope1="InxSignalClass('xDDR_DQS')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=400mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -2805,7 +2805,7 @@
     </CxSigClass>
     <CxSigClass Id="ba220a73-4b99-4bd0-95bf-ba8115fd4d01" Name="xDDR_CK_ADDR" IsPredefined="false">
       <Constraints>
-        <Constraint Id="0a6efcc9-7f03-43bf-8b58-1cd5f9ea4688" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 180mil Target = CK_N_U400-U14_U500-J9]" Scope1="InxSignalClass('xDDR_CK_ADDR')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=180mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=CK_N_U400-U14_U500-J9|DOC=mwh618.pcbdoc" />
+        <Constraint Id="0a6efcc9-7f03-43bf-8b58-1cd5f9ea4688" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 500mil Target = CK_N_U400-U14_U500-J9]" Scope1="InxSignalClass('xDDR_CK_ADDR')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=500mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=CK_N_U400-U14_U500-J9" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -2830,7 +2830,7 @@
     </CxSigClass>
     <CxSigClass Id="17fad921-2493-4014-9022-c97e66f9684e" Name="xDDR_CK_CTRL" IsPredefined="false">
       <Constraints>
-        <Constraint Id="ebb888ff-f777-49e7-8742-4234c220da8c" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 180mil Target = CK_N_U400-U14_U500-J9]" Scope1="InxSignalClass('xDDR_CK_CTRL')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=180mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=CK_N_U400-U14_U500-J9|DOC=mwh618.pcbdoc" />
+        <Constraint Id="ebb888ff-f777-49e7-8742-4234c220da8c" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 500mil Target = CK_N_U400-U14_U500-J9]" Scope1="InxSignalClass('xDDR_CK_CTRL')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=500mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=CK_N_U400-U14_U500-J9" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -2851,7 +2851,7 @@
     </CxSigClass>
     <CxSigClass Id="4d6f0612-ab15-4950-87e9-9beab6538268" Name="xDDR_CK_DQS" IsPredefined="false">
       <Constraints>
-        <Constraint Id="5da31ba6-7d4c-4c02-9874-3e072ffcbeb6" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 180mil Target = CK_N_U400-U14_U500-J9]" Scope1="InxSignalClass('xDDR_CK_DQS')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=180mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=CK_N_U400-U14_U500-J9|DOC=mwh618.pcbdoc" />
+        <Constraint Id="5da31ba6-7d4c-4c02-9874-3e072ffcbeb6" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 1000mil Target = CK_N_U400-U14_U500-J9]" Scope1="InxSignalClass('xDDR_CK_DQS')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=1000mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE|TARGETSOURCENAME=CK_N_U400-U14_U500-J9" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -2868,6 +2868,35 @@
         <CPinPair Id="26609ebe-dbf5-41a2-ad36-f4907bc563f6" />
         <CPinPair Id="71610cf8-7b5d-4211-9bbb-f7d99c61239f" />
         <CPinPair Id="dedc9dcf-fe5f-4569-b472-c25a91f0fde5" />
+      </CPinPairs>
+    </CxSigClass>
+    <CxSigClass Id="b8dcb2a5-f7d4-46e2-886f-2e0ca073a88b" Name="xDDR_ADDR_CTRL" IsPredefined="false">
+      <Constraints>
+        <Constraint Id="7892c604-53d7-4afd-a458-8625d548e21d" Kind="4" Name="Schematic Matched Net Lengths" Comment="" Description="Matched Net Lengths [Tolerance = 180mil]" Scope1="InxSignalClass('xDDR_ADDR_CTRL')" Scope2="All" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|TOLERANCE=180mil|CHECKNETSINDIFFPAIR=FALSE|CHECKDIFFPAIRVSDIFFPAIR=TRUE|CHECKXSIGNALS=TRUE|CHECKOTHERS=TRUE" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CPinPairs>
+        <CPinPair Id="f3ae89bd-b42e-48b3-919a-9d34357a5923" />
+        <CPinPair Id="aea3353c-8643-47a0-b9d2-7392caa5c463" />
+        <CPinPair Id="39297409-faf2-453f-ad2d-b394c9f764ad" />
+        <CPinPair Id="15efb405-1301-4cf4-b486-956289c04bdc" />
+        <CPinPair Id="cae736e8-8b72-4c0e-99d3-ccdd679a0350" />
+        <CPinPair Id="5788061c-097b-4307-8a64-62532a1d0c68" />
+        <CPinPair Id="b38d09cf-db24-4495-a297-d481e95492e7" />
+        <CPinPair Id="a3e4aa29-10d8-430b-ae73-36ff6f02c2d0" />
+        <CPinPair Id="297aaab1-6d6a-4ad4-8d59-ad3112e8d1dd" />
+        <CPinPair Id="cee1cc4d-155e-4563-99e3-bba17d898329" />
+        <CPinPair Id="9210e53c-4f83-4eb9-b0ad-54dbaf22a587" />
+        <CPinPair Id="0dd974c6-de8d-42c1-a267-06954d86e259" />
+        <CPinPair Id="f86136b1-eae3-4ee0-a03e-ec6cd3210328" />
+        <CPinPair Id="e21691ae-997a-46b8-9a12-bf1fa434685f" />
+        <CPinPair Id="cf6f8a76-a3e9-417b-aebc-15aad690c56c" />
+        <CPinPair Id="39b9b8ad-939e-429c-85c7-867002ab8afa" />
+        <CPinPair Id="142658ba-2f67-4039-a267-5ac657388711" />
+        <CPinPair Id="c4c7d2f8-0ecf-4b9f-b275-8a950b1b2e13" />
+        <CPinPair Id="c3876aff-dd62-4d0f-bdcf-c6fba57cf95b" />
+        <CPinPair Id="70309019-ddd7-4c7b-a8f6-42df3baa28fc" />
       </CPinPairs>
     </CxSigClass>
   </CxSigClasses>
