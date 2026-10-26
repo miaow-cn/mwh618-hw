@@ -168,11 +168,15 @@
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="_H_37" ConstraintNetId="cb017bff-40d3-44a1-b49a-ca4157fa4862" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="_H_38" ConstraintNetId="0d61d499-99f0-41a5-b67f-a49f99d9f170" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="_H_40" ConstraintNetId="998be13b-9997-45b4-bcb8-548ed14f7e6a" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1000_2" ConstraintNetId="71e1b800-2c55-4224-b86b-73da5890cd32" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1008_2" ConstraintNetId="66f200cd-d2a4-4b58-8203-8e247dc1267e" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1005_2" ConstraintNetId="25ad5b65-62d7-4d47-a827-dafaaddc9322" />
   </FlattenedNetName2ConstraintNetId>
   <CNets>
     <CNet Id="66e869c7-d381-474c-b5cb-d24141ea476b">
       <Constraints>
-        <Constraint Id="25c7033d-4a31-4d67-8e47-51b2ff6e40c7" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="25c7033d-4a31-4d67-8e47-51b2ff6e40c7" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+        <Constraint Id="eceac47e-5986-4905-bf84-0afb27c346ec" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -183,7 +187,8 @@
     </CNet>
     <CNet Id="4b8cbb78-468e-41cd-b7d5-25ccc28e9d6f">
       <Constraints>
-        <Constraint Id="784a6595-5b20-43ab-9d80-acb57d99976f" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="784a6595-5b20-43ab-9d80-acb57d99976f" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+        <Constraint Id="cff974af-ee4b-406c-b18b-bebb9cf06b1f" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -194,7 +199,8 @@
     </CNet>
     <CNet Id="2b38387c-6d60-4ef2-a613-a841e3e3c7cd">
       <Constraints>
-        <Constraint Id="54f1fdd7-7c55-4a2b-b276-e124b23ffa05" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="54f1fdd7-7c55-4a2b-b276-e124b23ffa05" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+        <Constraint Id="02dfed1d-589e-4c8f-ab7f-073d2fd65cd5" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -205,7 +211,8 @@
     </CNet>
     <CNet Id="fa9aea1c-f139-4abd-8c35-93ab1a63084e">
       <Constraints>
-        <Constraint Id="962a4222-eee6-4fb1-8545-33e6296e6f2c" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="962a4222-eee6-4fb1-8545-33e6296e6f2c" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+        <Constraint Id="e101763d-2679-401b-a872-8c6d502ff846" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -216,7 +223,8 @@
     </CNet>
     <CNet Id="de35702b-7d45-4035-9400-fde0a1823219">
       <Constraints>
-        <Constraint Id="eb24d84f-9b14-4471-8d42-75715f08f9d6" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="eb24d84f-9b14-4471-8d42-75715f08f9d6" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+        <Constraint Id="759689af-9651-4dcf-b54a-e772a064034c" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -227,7 +235,8 @@
     </CNet>
     <CNet Id="98ffe9fd-d035-4a8e-893d-bb9b979f1bd9">
       <Constraints>
-        <Constraint Id="738a6690-2256-4af4-9b09-8fd95ab47b1e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="738a6690-2256-4af4-9b09-8fd95ab47b1e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+        <Constraint Id="b5adaee6-23fe-461c-854c-44f4ae69acba" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -238,7 +247,8 @@
     </CNet>
     <CNet Id="da12e74a-ce62-400c-a9d6-be8e4fde9c64">
       <Constraints>
-        <Constraint Id="7acf5638-98a4-4f49-b461-abd0ba5b4f09" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ6')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="7acf5638-98a4-4f49-b461-abd0ba5b4f09" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ6')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+        <Constraint Id="8be92c12-05c6-4010-aa3c-57aa7e242760" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ6')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -249,7 +259,8 @@
     </CNet>
     <CNet Id="b302a71d-1581-4231-ac16-c0e5df854367">
       <Constraints>
-        <Constraint Id="7f59b611-25e3-4efc-b816-cc25e42eff82" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ7')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="7f59b611-25e3-4efc-b816-cc25e42eff82" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ7')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+        <Constraint Id="8601db67-4bad-4017-9634-f5f508fdd837" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ7')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -260,7 +271,7 @@
     </CNet>
     <CNet Id="b5cdba0b-80d4-442b-ae20-15ba90d194b8">
       <Constraints>
-        <Constraint Id="3f52dff5-cd3c-4581-a229-fb96bd00c648" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS0_P')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="3f52dff5-cd3c-4581-a229-fb96bd00c648" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS0_P')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0:xDDR_DQS:xDDR_CK_DQS|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -271,7 +282,7 @@
     </CNet>
     <CNet Id="192ca710-e7f7-4c36-a851-d092fee3a865">
       <Constraints>
-        <Constraint Id="c2d1a8f3-337a-4d19-889e-1233b5c9ae7b" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS0_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="c2d1a8f3-337a-4d19-889e-1233b5c9ae7b" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS0_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0:xDDR_DQS:xDDR_CK_DQS|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -282,7 +293,8 @@
     </CNet>
     <CNet Id="127b782a-c25a-4251-a0d4-0c056647f12b">
       <Constraints>
-        <Constraint Id="05abab77-c8f2-4945-a649-d612d69f2b97" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="05abab77-c8f2-4945-a649-d612d69f2b97" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE0|SELECTEDPINPAIRS=0" />
+        <Constraint Id="bf7dd91c-6f3f-435e-8e20-6225ca5a34db" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQM0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -293,7 +305,8 @@
     </CNet>
     <CNet Id="e4ee8a08-9769-4587-8e0b-5f69bbebafa5">
       <Constraints>
-        <Constraint Id="08655c3b-929e-4b92-9d20-dcf35d32e8cb" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ9')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="08655c3b-929e-4b92-9d20-dcf35d32e8cb" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ9')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="ecaf2b38-8ff5-4fd3-8f51-d15e6ce1efa4" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ9')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -304,7 +317,8 @@
     </CNet>
     <CNet Id="7949132b-439b-45d6-aa13-4fd9e0376d9c">
       <Constraints>
-        <Constraint Id="82396317-892e-4f27-b7ff-d1b089f42bc3" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ10')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="82396317-892e-4f27-b7ff-d1b089f42bc3" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ10')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="01a25015-fc15-437c-ba9e-7731c580a0df" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ10')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -315,7 +329,8 @@
     </CNet>
     <CNet Id="099e996b-9e25-459b-afdc-9ed56e463dc9">
       <Constraints>
-        <Constraint Id="a8366d34-84d3-4ef8-be6c-82e9bbc9c361" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ11')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="a8366d34-84d3-4ef8-be6c-82e9bbc9c361" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ11')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="c0403bbf-ec02-4a49-9841-f3c4777d671c" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ11')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -326,7 +341,8 @@
     </CNet>
     <CNet Id="fe34b195-3e00-4b39-9568-7fc381c343f3">
       <Constraints>
-        <Constraint Id="a9d52922-69a3-4560-978d-dc3ce5912ae0" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ12')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="a9d52922-69a3-4560-978d-dc3ce5912ae0" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ12')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="01554582-b434-4c5c-9dd4-42b009729dc3" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ12')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -337,7 +353,8 @@
     </CNet>
     <CNet Id="0fe55c1c-2b11-4a91-afd4-91ef4a4b1cb2">
       <Constraints>
-        <Constraint Id="d6f8d2ea-8a75-40ae-9fb4-b42141f431d4" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ13')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="d6f8d2ea-8a75-40ae-9fb4-b42141f431d4" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ13')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="034884ee-64fe-4d31-bb67-15d24b96882a" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ13')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -349,6 +366,7 @@
     <CNet Id="ad6f5c49-477f-40d7-b00a-e3af1d70a7d5">
       <Constraints>
         <Constraint Id="979c95e6-0486-419f-8eca-c1128727ff05" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ14')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="159ce869-f0be-42ab-8fa9-082c50442081" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ14')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -360,6 +378,7 @@
     <CNet Id="9ef45b42-a7cc-466c-b03f-6136d88f5f9c">
       <Constraints>
         <Constraint Id="fb85e8ae-3846-4101-b68d-547d4fb50ca3" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ15')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="9f98f16d-e0ad-448e-a680-ac8961d4c032" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ15')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -370,7 +389,8 @@
     </CNet>
     <CNet Id="510774c7-d880-4073-a759-8c4459cec267">
       <Constraints>
-        <Constraint Id="a14fe463-503a-4015-8ab8-683bf76f2488" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ8')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="a14fe463-503a-4015-8ab8-683bf76f2488" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ8')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="8e8e4c03-28ee-416d-b219-abb62d54ddb2" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ8')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -404,6 +424,7 @@
     <CNet Id="2a560884-5775-466c-9c75-25db9a017d09">
       <Constraints>
         <Constraint Id="0c1f1a8a-5fcd-417f-92ef-9542a4abd340" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="87c38531-9f90-49dc-b880-8869955a0395" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQM1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -415,6 +436,7 @@
     <CNet Id="563e429c-09ef-4be8-a41b-7f78bdba2afc">
       <Constraints>
         <Constraint Id="07913645-c852-4f71-995e-16fcb4601f46" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ16')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="6426043e-1f6a-4342-ab4c-70ce26b2bd87" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ16')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -426,6 +448,7 @@
     <CNet Id="79cbe48b-90d2-4d1e-ad92-18d480b96573">
       <Constraints>
         <Constraint Id="b82ba4cf-fe40-4e30-8345-c7fb5a075c9c" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ17')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="79749044-8b03-4a89-b00d-93f16e655078" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ17')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -437,6 +460,7 @@
     <CNet Id="16276f9f-6a7b-41e9-8afd-d97e54655c54">
       <Constraints>
         <Constraint Id="1d649547-9925-4b73-95a7-3ba5155c2898" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ18')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="14701158-4483-421f-add5-8a48a5580c3d" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ18')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -448,6 +472,7 @@
     <CNet Id="a598afb3-5a06-4aad-ac49-b6ac9f7699fd">
       <Constraints>
         <Constraint Id="4b1553e8-b92a-4f48-9aa7-6bb376135101" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ19')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="87e705da-6573-437e-8e78-436f56cd798f" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ19')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -459,6 +484,7 @@
     <CNet Id="4485b576-c015-4b23-8f60-188d396c7fcc">
       <Constraints>
         <Constraint Id="4d2eeafe-b380-4000-bbeb-068bd1fdf921" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ20')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="58b14eb4-2b19-4250-ba47-64e309ecf237" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ20')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -470,6 +496,7 @@
     <CNet Id="5c5874e4-c6a6-4bdc-a7e3-60d935894c6f">
       <Constraints>
         <Constraint Id="570c79b0-9423-42ff-b22e-bb3ae72d1e3b" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ21')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="050cb3fd-d1bd-4f93-b094-7936c57d8158" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ21')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -481,6 +508,7 @@
     <CNet Id="b568e786-5097-45bc-a51e-1258a451ef9e">
       <Constraints>
         <Constraint Id="e21f040f-ac3e-4818-981e-63e366004fab" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ22')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="1e45f401-adea-43e1-be42-435ede86d71a" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ22')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -492,6 +520,7 @@
     <CNet Id="b2374a01-efb1-487c-8233-f0137e20972d">
       <Constraints>
         <Constraint Id="bf63c480-d796-4820-a169-815387e53074" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ23')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="ab862186-ce90-4a7b-a1af-7809955a76ef" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ23')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -525,6 +554,7 @@
     <CNet Id="ad9ba013-9bfd-42c7-8e9b-08e86a9b4017">
       <Constraints>
         <Constraint Id="e79995c3-a0aa-43f6-8683-4c5bf3fe270f" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="9dd3c358-407a-4f29-a5fc-9f13fd2d6728" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQM2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -536,6 +566,7 @@
     <CNet Id="4e5b97ce-3206-4461-ae22-5bf2484d2dd1">
       <Constraints>
         <Constraint Id="38fbd812-6a24-497e-afeb-d66bfcbae4ab" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ24')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="9361015f-63aa-4a38-8a7d-b8baaf5b5901" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ24')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -547,6 +578,7 @@
     <CNet Id="6ed40065-2bed-41f9-868f-db0331c4851c">
       <Constraints>
         <Constraint Id="17607d98-7658-4af9-a026-57eff6892ccc" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ25')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1" />
+        <Constraint Id="0ccdb755-8fa6-4bae-ad05-e36cb1bfa3eb" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ25')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -558,6 +590,7 @@
     <CNet Id="7ea33dff-5096-49ed-88b3-0102f17b4b60">
       <Constraints>
         <Constraint Id="626bb438-1e74-4dae-a30c-548f0d94d845" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ26')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="90b108c6-422a-401b-a347-a2f1771ffc34" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ26')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -569,6 +602,7 @@
     <CNet Id="5f6dd105-75f5-4b3c-8d50-4d4a7cf1ac51">
       <Constraints>
         <Constraint Id="59107868-76f3-4072-851a-8844a390811d" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ27')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="881c6a79-ce48-41a3-92ba-6b739f6d9bda" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ27')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -580,6 +614,7 @@
     <CNet Id="01cf7987-13b4-4561-b48e-b807be05e84f">
       <Constraints>
         <Constraint Id="7c9ca9b4-1eb0-477c-99a4-2229900fad05" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ28')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="8e2415f0-7c1e-43db-a7ab-7cf2d46d81ad" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ28')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -590,7 +625,8 @@
     </CNet>
     <CNet Id="3042ddb8-e32c-4a72-8f1a-68177dfa67b4">
       <Constraints>
-        <Constraint Id="41140733-db72-4fe1-bc2d-3878b9c61d61" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ29')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="41140733-db72-4fe1-bc2d-3878b9c61d61" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ29')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE3|SELECTEDPINPAIRS=0" />
+        <Constraint Id="54938a0c-be07-4aa4-805f-7bafc7692552" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ29')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -601,7 +637,8 @@
     </CNet>
     <CNet Id="51c2f847-44e9-4ba4-bc1e-ae396e222065">
       <Constraints>
-        <Constraint Id="0bd79cc7-fdb6-4127-bba4-9e6d80270b5c" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ30')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="0bd79cc7-fdb6-4127-bba4-9e6d80270b5c" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ30')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE3|SELECTEDPINPAIRS=0" />
+        <Constraint Id="40eb1bc9-2ad4-45ce-b5be-033d0d1d2e75" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ30')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -612,7 +649,8 @@
     </CNet>
     <CNet Id="e505a5e4-e739-4a4a-bdeb-5b2af05b937a">
       <Constraints>
-        <Constraint Id="b4cca5cf-b6fb-4dd3-b836-8edbf0024934" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ31')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="b4cca5cf-b6fb-4dd3-b836-8edbf0024934" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQ31')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE3|SELECTEDPINPAIRS=0" />
+        <Constraint Id="18cbf89c-6593-4b5a-a001-70739d9f6827" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQ31')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -623,7 +661,7 @@
     </CNet>
     <CNet Id="45317266-5274-433b-8d44-7fd52d469d3a">
       <Constraints>
-        <Constraint Id="036e6311-48b6-4675-9f09-3dd2ac77107e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS3_P')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="036e6311-48b6-4675-9f09-3dd2ac77107e" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS3_P')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE3:xDDR_DQS:xDDR_CK_DQS|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -634,7 +672,7 @@
     </CNet>
     <CNet Id="c3dc969f-e8df-4051-a321-7b1e154c934f">
       <Constraints>
-        <Constraint Id="58c998db-c6f3-4636-98b1-e1f4d9a59731" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS3_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="58c998db-c6f3-4636-98b1-e1f4d9a59731" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQS3_N')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE3:xDDR_DQS:xDDR_CK_DQS|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -645,7 +683,8 @@
     </CNet>
     <CNet Id="5d6e03d2-bd3a-4b15-ae8d-83808f9df7f3">
       <Constraints>
-        <Constraint Id="a4dd1e1e-9025-4936-b2e6-46e072172edb" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|SELECTEDPINPAIRS=0" />
+        <Constraint Id="a4dd1e1e-9025-4936-b2e6-46e072172edb" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('DQM3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc|COMPONENTS=\SMGXFTPK\IFRQUCWE\EOPTSEFH,1,1,1;\SMGXFTPK\IFRQUCWE\IMMOPGJD,2,2,1|INCLASSES=0,xDDR_BYTE3|SELECTEDPINPAIRS=0" />
+        <Constraint Id="63952612-e570-4d2b-aee6-9d26d8141ae9" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('DQM3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -657,6 +696,7 @@
     <CNet Id="a1fa43d4-381d-46f3-991a-832bdf9ff287">
       <Constraints>
         <Constraint Id="1ef5dfac-e231-4abd-89c6-1b68325f3967" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="da2027f5-b72f-40cc-a9f4-6d82132e5264" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('A0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -669,6 +709,7 @@
     <CNet Id="aef98bbe-47d5-415c-a293-9273b1bbce51">
       <Constraints>
         <Constraint Id="67708094-ec07-47c4-b4d0-d18fbcf805dd" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="75e376de-3be3-4554-92eb-ae46f6a00442" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('A1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -681,6 +722,7 @@
     <CNet Id="fac008d4-7e38-4d8e-b349-492cb46ca3f1">
       <Constraints>
         <Constraint Id="2dd096c1-03af-4d6b-b423-03853ada42fc" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="199aa20f-591c-4fc0-b228-5fe8be434f41" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('A2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -693,6 +735,7 @@
     <CNet Id="829c32c3-bf08-45a3-a6e1-b1526b58f93d">
       <Constraints>
         <Constraint Id="84d97454-912d-4bca-bd04-bbcd6d5ed084" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="a5038657-2dca-4281-8cf9-742a287866a3" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('A3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -705,6 +748,7 @@
     <CNet Id="380f8e6c-112b-4f4b-8cfe-afb75db01bff">
       <Constraints>
         <Constraint Id="a905ca93-00a6-4ed7-8e3f-a6e139ec6712" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="ccd57e3c-0456-4dc9-b37d-567469bae4c7" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('A4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -717,6 +761,7 @@
     <CNet Id="ee4eebc3-0db0-4bfb-b3b0-5ab3c20f18ce">
       <Constraints>
         <Constraint Id="722e33e9-2493-4e40-8b83-d47fd05a6ec8" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('A5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="2facf222-8d5c-44fc-bce2-0792b4b5b5bc" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('A5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -755,6 +800,7 @@
     <CNet Id="e3429803-b608-49ba-8458-9ea866d50a0e">
       <Constraints>
         <Constraint Id="95dd314c-ffee-4e82-815a-00282060b0f8" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CKE0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="2b4e20cc-15a1-43ec-adf2-01060b7de237" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('CKE0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -767,6 +813,7 @@
     <CNet Id="03117c5d-47d0-4d3b-aaac-e38783763c30">
       <Constraints>
         <Constraint Id="a3c0f8d7-4b4e-4c03-b71b-ff96e428c134" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CKE1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="960f01b4-f5f6-4fc1-a1aa-03250fa2c9cd" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('CKE1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -779,6 +826,7 @@
     <CNet Id="72337ab9-6657-4e69-819c-6f615b286efa">
       <Constraints>
         <Constraint Id="884df15d-9c65-4e71-b1c0-4ae8bf5532fe" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CS0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="7d3ba746-60db-4fb6-a2ba-0bc8b703abc9" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('CS0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -791,6 +839,7 @@
     <CNet Id="55e08d22-d7b8-4463-9809-7d1e77aa51ea">
       <Constraints>
         <Constraint Id="25a8d160-a0f2-493f-8918-6b34a4e32809" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InNet('CS1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=mwh618.pcbdoc" />
+        <Constraint Id="080a379f-8c3e-4963-b51c-a85750f5b485" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNet('CS1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -1466,11 +1515,29 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
+    <CNet Id="71e1b800-2c55-4224-b86b-73da5890cd32">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="66f200cd-d2a4-4b58-8203-8e247dc1267e">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="25ad5b65-62d7-4d47-a827-dafaaddc9322">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
   </CNets>
   <CNetClasses>
     <CNetClass Id="c1456bc4-cfbe-470b-9ce0-0987eb8da245" Name="All Nets" IsPredefined="true" Domain="2">
       <Constraints>
-        <Constraint Id="ca04242c-78b4-4c02-b209-d868a01a4fa2" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Width = 10mil    Min Width = 10mil    Max Width = 10mil]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=10mil|PREFEREDWIDTH=10mil" />
+        <Constraint Id="ca04242c-78b4-4c02-b209-d868a01a4fa2" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Width = 6mil    Min Width = 4mil    Max Width = 999mil]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=999mil|MINLIMIT=4mil|PREFEREDWIDTH=6mil|MIDLAYER3_MINWIDTH=10mil|MIDLAYER3_MAXWIDTH=10mil|MIDLAYER3_PREFWIDTH=10mil|MIDLAYER4_MINWIDTH=10mil|MIDLAYER4_MAXWIDTH=10mil|MIDLAYER4_PREFWIDTH=10mil|MIDLAYER5_MINWIDTH=10mil|MIDLAYER5_MAXWIDTH=10mil|MIDLAYER5_PREFWIDTH=10mil|MIDLAYER6_MINWIDTH=10mil|MIDLAYER6_MAXWIDTH=10mil|MIDLAYER6_PREFWIDTH=10mil|MIDLAYER7_MINWIDTH=10mil|MIDLAYER7_MAXWIDTH=10mil|MIDLAYER7_PREFWIDTH=10mil|MIDLAYER8_MINWIDTH=10mil|MIDLAYER8_MAXWIDTH=10mil|MIDLAYER8_PREFWIDTH=10mil|MIDLAYER9_MINWIDTH=10mil|MIDLAYER9_MAXWIDTH=10mil|MIDLAYER9_PREFWIDTH=10mil|MIDLAYER10_MINWIDTH=10mil|MIDLAYER10_MAXWIDTH=10mil|MIDLAYER10_PREFWIDTH=10mil|MIDLAYER11_MINWIDTH=10mil|MIDLAYER11_MAXWIDTH=10mil|MIDLAYER11_PREFWIDTH=10mil|MIDLAYER12_MINWIDTH=10mil|MIDLAYER12_MAXWIDTH=10mil|MIDLAYER12_PREFWIDTH=10mil|MIDLAYER13_MINWIDTH=10mil|MIDLAYER13_MAXWIDTH=10mil|MIDLAYER13_PREFWIDTH=10mil|MIDLAYER14_MINWIDTH=10mil|MIDLAYER14_MAXWIDTH=10mil|MIDLAYER14_PREFWIDTH=10mil|MIDLAYER15_MINWIDTH=10mil|MIDLAYER15_MAXWIDTH=10mil|MIDLAYER15_PREFWIDTH=10mil|MIDLAYER16_MINWIDTH=10mil|MIDLAYER16_MAXWIDTH=10mil|MIDLAYER16_PREFWIDTH=10mil|MIDLAYER17_MINWIDTH=10mil|MIDLAYER17_MAXWIDTH=10mil|MIDLAYER17_PREFWIDTH=10mil|MIDLAYER18_MINWIDTH=10mil|MIDLAYER18_MAXWIDTH=10mil|MIDLAYER18_PREFWIDTH=10mil|MIDLAYER19_MINWIDTH=10mil|MIDLAYER19_MAXWIDTH=10mil|MIDLAYER19_PREFWIDTH=10mil|MIDLAYER20_MINWIDTH=10mil|MIDLAYER20_MAXWIDTH=10mil|MIDLAYER20_PREFWIDTH=10mil|MIDLAYER21_MINWIDTH=10mil|MIDLAYER21_MAXWIDTH=10mil|MIDLAYER21_PREFWIDTH=10mil|MIDLAYER22_MINWIDTH=10mil|MIDLAYER22_MAXWIDTH=10mil|MIDLAYER22_PREFWIDTH=10mil|MIDLAYER23_MINWIDTH=10mil|MIDLAYER23_MAXWIDTH=10mil|MIDLAYER23_PREFWIDTH=10mil|MIDLAYER24_MINWIDTH=10mil|MIDLAYER24_MAXWIDTH=10mil|MIDLAYER24_PREFWIDTH=10mil|MIDLAYER25_MINWIDTH=10mil|MIDLAYER25_MAXWIDTH=10mil|MIDLAYER25_PREFWIDTH=10mil|MIDLAYER26_MINWIDTH=10mil|MIDLAYER26_MAXWIDTH=10mil|MIDLAYER26_PREFWIDTH=10mil|MIDLAYER27_MINWIDTH=10mil|MIDLAYER27_MAXWIDTH=10mil|MIDLAYER27_PREFWIDTH=10mil|MIDLAYER28_MINWIDTH=10mil|MIDLAYER28_MAXWIDTH=10mil|MIDLAYER28_PREFWIDTH=10mil|MIDLAYER29_MINWIDTH=10mil|MIDLAYER29_MAXWIDTH=10mil|MIDLAYER29_PREFWIDTH=10mil|MIDLAYER30_MINWIDTH=10mil|MIDLAYER30_MAXWIDTH=10mil|MIDLAYER30_PREFWIDTH=10mil|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
         <Constraint Id="9dbbc910-bc7d-4cd4-8efe-f79e8e60a094" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Shortest]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Shortest" />
         <Constraint Id="de26cbcd-6723-4555-89c3-55c1cf07995d" Kind="9" Name="Schematic Routing Layers" Comment="" Description="Routing Layers [TopLayer - Enabled BottomLayer - Enabled ]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOP LAYER_V5=TRUE|MID LAYER 1_V5=TRUE|MID LAYER 2_V5=TRUE|MID LAYER 3_V5=TRUE|MID LAYER 4_V5=TRUE|MID LAYER 5_V5=TRUE|MID LAYER 6_V5=TRUE|MID LAYER 7_V5=TRUE|MID LAYER 8_V5=TRUE|MID LAYER 9_V5=TRUE|MID LAYER 10_V5=TRUE|MID LAYER 11_V5=TRUE|MID LAYER 12_V5=TRUE|MID LAYER 13_V5=TRUE|MID LAYER 14_V5=TRUE|MID LAYER 15_V5=TRUE|MID LAYER 16_V5=TRUE|MID LAYER 17_V5=TRUE|MID LAYER 18_V5=TRUE|MID LAYER 19_V5=TRUE|MID LAYER 20_V5=TRUE|MID LAYER 21_V5=TRUE|MID LAYER 22_V5=TRUE|MID LAYER 23_V5=TRUE|MID LAYER 24_V5=TRUE|MID LAYER 25_V5=TRUE|MID LAYER 26_V5=TRUE|MID LAYER 27_V5=TRUE|MID LAYER 28_V5=TRUE|MID LAYER 29_V5=TRUE|MID LAYER 30_V5=TRUE|BOTTOM LAYER_V5=TRUE" />
         <Constraint Id="fcaa354b-398d-4553-85ad-401055b1a857" Kind="11" Name="Schematic Routing Via Style" Comment="" Description="Routing Via Style [Pref Size = 50mil    Pref Hole Size = 28mil]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|HOLEWIDTH=28mil|WIDTH=50mil|VIASTYLE=Through Hole|MINHOLEWIDTH=28mil|MINWIDTH=50mil|MAXHOLEWIDTH=28mil|MAXWIDTH=50mil" />
@@ -1580,7 +1647,9 @@
       <ObservedDirectiveParamsUniqueIds />
     </CNetClass>
     <CNetClass Id="04691580-9571-4a72-a401-e6a176655282" Name="PWR" IsPredefined="false" Domain="2">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="cb0416e4-51e0-498b-865c-127c2b2d7934" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Width = 10mil    Min Width = 6mil    Max Width = 999mil]" Scope1="InNetClass('PWR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=999mil|MINLIMIT=6mil|PREFEREDWIDTH=10mil|MIDLAYER3_MINWIDTH=10mil|MIDLAYER3_MAXWIDTH=10mil|MIDLAYER4_MINWIDTH=10mil|MIDLAYER4_MAXWIDTH=10mil|MIDLAYER5_MINWIDTH=10mil|MIDLAYER5_MAXWIDTH=10mil|MIDLAYER6_MINWIDTH=10mil|MIDLAYER6_MAXWIDTH=10mil|MIDLAYER7_MINWIDTH=10mil|MIDLAYER7_MAXWIDTH=10mil|MIDLAYER8_MINWIDTH=10mil|MIDLAYER8_MAXWIDTH=10mil|MIDLAYER9_MINWIDTH=10mil|MIDLAYER9_MAXWIDTH=10mil|MIDLAYER10_MINWIDTH=10mil|MIDLAYER10_MAXWIDTH=10mil|MIDLAYER11_MINWIDTH=10mil|MIDLAYER11_MAXWIDTH=10mil|MIDLAYER12_MINWIDTH=10mil|MIDLAYER12_MAXWIDTH=10mil|MIDLAYER13_MINWIDTH=10mil|MIDLAYER13_MAXWIDTH=10mil|MIDLAYER14_MINWIDTH=10mil|MIDLAYER14_MAXWIDTH=10mil|MIDLAYER15_MINWIDTH=10mil|MIDLAYER15_MAXWIDTH=10mil|MIDLAYER16_MINWIDTH=10mil|MIDLAYER16_MAXWIDTH=10mil|MIDLAYER17_MINWIDTH=10mil|MIDLAYER17_MAXWIDTH=10mil|MIDLAYER18_MINWIDTH=10mil|MIDLAYER18_MAXWIDTH=10mil|MIDLAYER19_MINWIDTH=10mil|MIDLAYER19_MAXWIDTH=10mil|MIDLAYER20_MINWIDTH=10mil|MIDLAYER20_MAXWIDTH=10mil|MIDLAYER21_MINWIDTH=10mil|MIDLAYER21_MAXWIDTH=10mil|MIDLAYER22_MINWIDTH=10mil|MIDLAYER22_MAXWIDTH=10mil|MIDLAYER23_MINWIDTH=10mil|MIDLAYER23_MAXWIDTH=10mil|MIDLAYER24_MINWIDTH=10mil|MIDLAYER24_MAXWIDTH=10mil|MIDLAYER25_MINWIDTH=10mil|MIDLAYER25_MAXWIDTH=10mil|MIDLAYER26_MINWIDTH=10mil|MIDLAYER26_MAXWIDTH=10mil|MIDLAYER27_MINWIDTH=10mil|MIDLAYER27_MAXWIDTH=10mil|MIDLAYER28_MINWIDTH=10mil|MIDLAYER28_MAXWIDTH=10mil|MIDLAYER29_MINWIDTH=10mil|MIDLAYER29_MAXWIDTH=10mil|MIDLAYER30_MINWIDTH=10mil|MIDLAYER30_MAXWIDTH=10mil|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CNets>
@@ -1592,6 +1661,9 @@
         <CNet Id="7282ae68-43cd-4770-a954-b0c7fb317497" />
         <CNet Id="b3efd187-5baf-4b45-9efe-fce80d1fd9a5" />
         <CNet Id="ab4e10b3-80f6-4262-b0e2-3c9cecda2d13" />
+        <CNet Id="71e1b800-2c55-4224-b86b-73da5890cd32" />
+        <CNet Id="66f200cd-d2a4-4b58-8203-8e247dc1267e" />
+        <CNet Id="25ad5b65-62d7-4d47-a827-dafaaddc9322" />
       </CNets>
       <ObservedDirectiveParamsUniqueIds />
     </CNetClass>
@@ -1655,7 +1727,9 @@
       <ObservedDirectiveParamsUniqueIds />
     </CNetClass>
     <CNetClass Id="f58b2cd4-a464-49bd-942d-170b0277e417" Name="SD" IsPredefined="false" Domain="2">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="ff8aa183-9300-43b9-b3a3-26727302a3aa" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Impedance = 50.00ohms    Min Impedance = 50.00ohms    Max Impedance = 50.00ohms]" Scope1="InNetClass('SD')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=4mil|PREFEREDWIDTH=10mil|TOPLAYER_MAXWIDTH=4mil|TOPLAYER_PREFWIDTH=4mil|MIDLAYER2_MAXWIDTH=4mil|MIDLAYER2_PREFWIDTH=4mil|BOTTOMLAYER_MAXWIDTH=4mil|BOTTOMLAYER_PREFWIDTH=4mil|IMPEDANCEPROFILEDRIVEN=TRUE|IMPEDANCEPROFILEID={A435217F-B03C-48E8-AE53-E661F6A1270C}|IMPEDANCEPROFILEVALUE=50.000000|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=mwh618.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CNets>
@@ -3470,8 +3544,8 @@
             <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
             <DefaultConstraintClearancesMatrixConstraint Id="00000000-0000-0000-0000-000000000000" Kind="0" Comment="" Description="" Attributes="" LayerType="0" LayerId="0" />
             <CCMConstraints>
-              <CCMConstraint Id="0ca5dc22-6116-4c3a-b910-ff32c832a2d3" Kind="0" Name="ClearanceAll_1" Comment="" Description="Clearance Constraint [Clearance = 10mil]" Scope1="OnOutside" Scope2="OnOutside" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="1" LayerId="0" OverrideClearancePairs="" />
-              <CCMConstraint Id="cd527ccf-8fb2-43d7-bdf6-708467c43f52" Kind="0" Name="ClearanceAll_2" Comment="" Description="Clearance Constraint [Clearance = 10mil]" Scope1="OnMid" Scope2="OnMid" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="2" LayerId="0" OverrideClearancePairs="" />
+              <CCMConstraint Id="0ca5dc22-6116-4c3a-b910-ff32c832a2d3" Kind="0" Name="ClearanceAll_1" Comment="" Description="Clearance Constraint [Clearance = 4mil]" Scope1="OnOutside" Scope2="OnOutside" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=4mil|GENERICCLEARANCE=4mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= |DOC=mwh618.pcbdoc" LayerType="1" LayerId="0" OverrideClearancePairs="" />
+              <CCMConstraint Id="cd527ccf-8fb2-43d7-bdf6-708467c43f52" Kind="0" Name="ClearanceAll_2" Comment="" Description="Clearance Constraint [Clearance = 4mil]" Scope1="OnMid" Scope2="OnMid" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=4mil|GENERICCLEARANCE=4mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= |DOC=mwh618.pcbdoc" LayerType="2" LayerId="0" OverrideClearancePairs="" />
             </CCMConstraints>
           </CCMToScope>
         </CCMToScopes>
