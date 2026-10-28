@@ -156,7 +156,7 @@ DocumentUniqueId=KQIQIGZN
 
 [Document7]
 DocumentPath=sch\dram.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=500
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -241,7 +241,7 @@ DocumentUniqueId=OWDBQPQM
 
 [Document12]
 DocumentPath=sch\usb.schdoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1000
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -482,7 +482,7 @@ UniqueId=bd9ee1ab-105a-4def-b10b-dc72fdf41f2a
 Description=main
 AllowFabrication=0
 ParameterCount=0
-VariationCount=14
+VariationCount=16
 Variation1=Designator=R?|UniqueId=\SMGXFTPK\DFJAIGWS\FXKRINQJ|Kind=1|AlternatePart=
 Variation2=Designator=R1017|UniqueId=\SMGXFTPK\JLAPMZGQ\AWPJFTIN|Kind=1|AlternatePart=
 Variation3=Designator=R1016|UniqueId=\SMGXFTPK\JLAPMZGQ\ANSDALRK|Kind=1|AlternatePart=
@@ -497,6 +497,8 @@ Variation11=Designator=R1600|UniqueId=\SMGXFTPK\EULWHJFQ\HKFXHWEE|Kind=1|Alterna
 Variation12=Designator=R1708|UniqueId=\SMGXFTPK\NSHXDVZM\JXJIPQZD|Kind=1|AlternatePart=
 Variation13=Designator=R1700|UniqueId=\SMGXFTPK\NSHXDVZM\JNIJDYFH|Kind=1|AlternatePart=
 Variation14=Designator=C603|UniqueId=\SMGXFTPK\DFJAIGWS\NSFTYXEO|Kind=1|AlternatePart=
+Variation15=Designator=R1001|UniqueId=\SMGXFTPK\JLAPMZGQ\KYUZMSBM|Kind=1|AlternatePart=
+Variation16=Designator=R1018|UniqueId=\SMGXFTPK\JLAPMZGQ\EGSOCPBD|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
