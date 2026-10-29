@@ -171,6 +171,8 @@
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1000_2" ConstraintNetId="71e1b800-2c55-4224-b86b-73da5890cd32" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1008_2" ConstraintNetId="66f200cd-d2a4-4b58-8203-8e247dc1267e" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1005_2" ConstraintNetId="25ad5b65-62d7-4d47-a827-dafaaddc9322" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DEBUG_D_P" ConstraintNetId="fc24dc7d-6504-496b-b2d6-2155ad99b003" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DEBUG_D_N" ConstraintNetId="53a237ba-1580-4fff-98fa-e49cef4a2882" />
   </FlattenedNetName2ConstraintNetId>
   <CNets>
     <CNet Id="66e869c7-d381-474c-b5cb-d24141ea476b">
@@ -1533,6 +1535,18 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
+    <CNet Id="fc24dc7d-6504-496b-b2d6-2155ad99b003">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="53a237ba-1580-4fff-98fa-e49cef4a2882">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
   </CNets>
   <CNetClasses>
     <CNetClass Id="c1456bc4-cfbe-470b-9ce0-0987eb8da245" Name="All Nets" IsPredefined="true" Domain="2">
@@ -1960,6 +1974,14 @@
       <NegativeConstraintNet Id="859ac8ed-07c9-4ee8-af38-c1fe3235dca9" />
       <ObservedDirectiveParamsUniqueIds />
     </CDifferentialPair>
+    <CDifferentialPair Id="e10e0052-4e60-46c1-8cca-f778fa6612b6" Name="D_DEBUG_D">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="fc24dc7d-6504-496b-b2d6-2155ad99b003" />
+      <NegativeConstraintNet Id="53a237ba-1580-4fff-98fa-e49cef4a2882" />
+      <ObservedDirectiveParamsUniqueIds />
+    </CDifferentialPair>
   </CDifferentialPairs>
   <CDifferentialPairClasses>
     <CDifferentialPairClass Id="4f6e5db1-5ed4-4c86-8656-1516508248c7" Name="All Differential Pairs" IsPredefined="true">
@@ -2012,6 +2034,7 @@
         <CDifferentialPair Id="a14ad3a7-9767-4dd0-a149-868ea68eb244" />
         <CDifferentialPair Id="002142b9-dcfa-4417-ac89-3a55667a7655" />
         <CDifferentialPair Id="39fae623-7cbe-4b9c-ac7a-1079536ff945" />
+        <CDifferentialPair Id="e10e0052-4e60-46c1-8cca-f778fa6612b6" />
       </CDifferentialPairs>
       <ObservedDirectiveParamsUniqueIds />
     </CDifferentialPairClass>
