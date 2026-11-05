@@ -173,6 +173,8 @@
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC1005_2" ConstraintNetId="25ad5b65-62d7-4d47-a827-dafaaddc9322" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DEBUG_D_P" ConstraintNetId="fc24dc7d-6504-496b-b2d6-2155ad99b003" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DEBUG_D_N" ConstraintNetId="53a237ba-1580-4fff-98fa-e49cef4a2882" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC600_1" ConstraintNetId="2866f9b4-8d40-43aa-9e06-6eb23e1a0959" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC612_1" ConstraintNetId="7e983fce-4fbf-48ca-8892-532ee0b443f0" />
   </FlattenedNetName2ConstraintNetId>
   <CNets>
     <CNet Id="66e869c7-d381-474c-b5cb-d24141ea476b">
@@ -1547,6 +1549,18 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
+    <CNet Id="2866f9b4-8d40-43aa-9e06-6eb23e1a0959">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="7e983fce-4fbf-48ca-8892-532ee0b443f0">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
   </CNets>
   <CNetClasses>
     <CNetClass Id="c1456bc4-cfbe-470b-9ce0-0987eb8da245" Name="All Nets" IsPredefined="true" Domain="2">
@@ -1678,6 +1692,8 @@
         <CNet Id="71e1b800-2c55-4224-b86b-73da5890cd32" />
         <CNet Id="66f200cd-d2a4-4b58-8203-8e247dc1267e" />
         <CNet Id="25ad5b65-62d7-4d47-a827-dafaaddc9322" />
+        <CNet Id="2866f9b4-8d40-43aa-9e06-6eb23e1a0959" />
+        <CNet Id="7e983fce-4fbf-48ca-8892-532ee0b443f0" />
       </CNets>
       <ObservedDirectiveParamsUniqueIds />
     </CNetClass>
@@ -1779,7 +1795,6 @@
         <CNet Id="fb8d62ab-d3d3-4301-aaef-2466f392afca" />
         <CNet Id="4d5c53ff-07d5-4958-9836-b5e159546903" />
         <CNet Id="1a055103-39ab-4027-aa17-f334960dafe8" />
-        <CNet Id="06f1908d-9b4d-40bb-a9af-99773e36f752" />
       </CNets>
       <ObservedDirectiveParamsUniqueIds />
     </CNetClass>
