@@ -181,6 +181,8 @@
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC605_1" ConstraintNetId="1f4d85da-5e0b-4ff8-8df7-40ac30a923e6" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC604_1" ConstraintNetId="103d8168-8bc5-4a86-ad0d-2b6b0c254491" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetC607_2" ConstraintNetId="75f5bb30-f5d0-40b7-a230-664fd3d5c59e" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="PMIC_FB_GPU" ConstraintNetId="7001cfb6-1130-42d8-903e-7c8699c732ea" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="PMIC_FB_CPU" ConstraintNetId="8a159643-80a1-4748-9be2-66821d8f573f" />
   </FlattenedNetName2ConstraintNetId>
   <CNets>
     <CNet Id="66e869c7-d381-474c-b5cb-d24141ea476b">
@@ -1603,6 +1605,18 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
+    <CNet Id="7001cfb6-1130-42d8-903e-7c8699c732ea">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="8a159643-80a1-4748-9be2-66821d8f573f">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
   </CNets>
   <CNetClasses>
     <CNetClass Id="c1456bc4-cfbe-470b-9ce0-0987eb8da245" Name="All Nets" IsPredefined="true" Domain="2">
@@ -1742,6 +1756,8 @@
         <CNet Id="1f4d85da-5e0b-4ff8-8df7-40ac30a923e6" />
         <CNet Id="103d8168-8bc5-4a86-ad0d-2b6b0c254491" />
         <CNet Id="75f5bb30-f5d0-40b7-a230-664fd3d5c59e" />
+        <CNet Id="7001cfb6-1130-42d8-903e-7c8699c732ea" />
+        <CNet Id="8a159643-80a1-4748-9be2-66821d8f573f" />
       </CNets>
       <ObservedDirectiveParamsUniqueIds />
     </CNetClass>
